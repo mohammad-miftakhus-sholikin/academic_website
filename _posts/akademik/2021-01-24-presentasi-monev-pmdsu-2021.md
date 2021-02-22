@@ -17,7 +17,7 @@ category: [akademik]
 	data-transition="zoom"
 	id = "sampul">
 	<script>
-		<h3><a href = "{{site.baseurl}}/laman/akademik/"><b>Laporan Monev PMDSU Batch-III IPB</b></a></h3>
+		<h3><a href = "{{ site.github.url }}/laman/akademik/"><b>Laporan Monev PMDSU Batch-III IPB</b></a></h3>
 		##### Promotor: Prof. Dr. Ir. Nahrowi, M.Sc.
 		##### Mahasiswa: Mohammad Miftakhus Sholikin
 	</script>
@@ -35,7 +35,7 @@ category: [akademik]
 		3. <a href="#/kendala_solusi">Kendala dan solusi</a>
 		4. <a href="#/ucapan_terima_kasih">Ucapan terima kasih</a>
 		
-		<small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{site.baseurl}}/laman/akademik/">akademik</a> bisa juga <a href="{{site.baseurl}}/akademik/presentasi-monev-pmdsu-2021/?print-pdf#/sampul">print pdf</a></small>
+		<small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{ site.github.url }}/laman/akademik/">akademik</a> bisa juga <a href="{{ site.github.url }}/akademik/presentasi-monev-pmdsu-2021/?print-pdf#/sampul">print pdf</a></small>
 	</script>
 </section>
 

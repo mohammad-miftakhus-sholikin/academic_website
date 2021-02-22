@@ -16,7 +16,7 @@ category: [profil]
   data-markdown
   id = sampul>
   <script>
-	# [Mohammad Miftakhus Sholikin]({{site.baseurl}}/profil/riwayat-hidup-penulis/)
+	# [Mohammad Miftakhus Sholikin]({{ site.github.url }}/profil/riwayat-hidup-penulis/)
   </script>
 </section>
 
