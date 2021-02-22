@@ -1,0 +1,40 @@
+##### Linux #####
+*~
+.fuse_hidden*
+.Trash-*
+.nfs*
+
+
+##### Jekyll #####
+_site
+.jekyll-metadata
+*-cache/
+_site/*
+.sass-cache/*
+.idea/*
+
+
+##### Sumber lain ####
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+
+##### File kompresi #####
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+
+##### Basisdata #####
+*.log
+*.sql
+*.sqlite

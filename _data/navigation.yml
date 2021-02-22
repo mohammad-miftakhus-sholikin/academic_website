@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Rumah
+  url: /
+
+- title: Profil
+  url: /laman/profil/
+
+- title: Akademik
+  url: /laman/akademik/
+
+- title: Lain
+  url: /laman/lain/
+
+- title: Pencarian
+  url: /laman/pencarian/

@@ -1,0 +1,83 @@
+##### Profil #####
+owner:
+  name: "Mohammad Miftakhus Sholikin"
+  avatar: /pengaturan/bio-photo.jpg
+  bio: "Adeg-adeg anteb."
+  email: mohammadmiftakhussholikin@gmail.com
+  github: mohammad-miftakhus-sholikin
+  orcid: 0000-0001-8677-6982
+  researchgate: Mohammad_Sholikin2
+  bing-verify: #username
+  codepen: #username
+  disqus-shortname: #username
+  dribbble: #username
+  facebook: #username
+  flickr: #username
+  foursquare: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: koSsmk8AAAAJ #id
+  instagram: #username
+  lastfm: #username
+  linkedin: #username
+  mendeley: #mohammad-miftakhus-sholikin2 #username
+  pinterest: #username
+  stackoverflow: #123456/username catatan ambil dua link terakhir "https://stackoverflow.com/users/123456/username"
+  steam: #username
+  soundcloud: #username
+  twitter: #username catatan jangan tambahkan simbol @
+  tumblr: #username
+  weibo: #username
+  xing: #username
+  youtube: #username  
+
+
+##### Konfigurasi logo #####
+title: Sholikin
+locale: en_US
+logo: /pengaturan/logo.png
+
+
+##### Konfigurasi warna dasar lainnya ada di _sass/variables.scss #####
+highlight-color: '#800000ff'
+lowlight-color: '#000'
+
+
+##### Konfigurasi dasar #####
+url: mohammad-miftakhus-sholikin.github.io
+baseurl: /academic_website
+
+exclude: 
+  - Gruntfile.js
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+highlighter: rouge
+
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  enable_coderay: false
+  entity_output: as_char
+  footnote_nr: 1
+  toc_levels: 1..6
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
+
+##### Lisensi #####
+creative-commons:
+  cc-by: yes
+  cc-by-nc: yes

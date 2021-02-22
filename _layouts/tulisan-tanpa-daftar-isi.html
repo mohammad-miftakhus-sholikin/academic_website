@@ -1,0 +1,51 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+{% include _head.html %}
+</head>
+<body class="post">
+{% include _navigation.html %}
+{% include _back-to-top-button.html %}
+<div id="main" role="main">
+  <div class="article-author-side">
+    <p></p>
+  </div>
+  <article class="post">
+    <div class="headline-wrap">
+      {% if page.link %}
+        <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
+      {% else %}
+        <h1><a href="{{ site.github.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+      {% endif %}
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      {{ content }}
+      <hr />
+      <footer role="contentinfo">
+        <br>
+      	{% if page.author %}<p><small>Di tulis oleh: <b>{{page.author}}</b></small></p>{% endif %}
+        {% if page.share != false %}{% include _social-share.html %}{% endif %}
+        <p class="byline"><strong>{{ page.title }}</strong> dipublikasikan pada <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d-%m-%Y" }}</time>{% if page.modified %} dan dimodifikasi pada <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%d-%m-%Y" }}</time>{% endif %}.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  </article>
+</div><!-- /#main -->
+<div class="footer-wrap">
+  {% if site.related_posts.size > 0 %}
+  <div class="related-articles">
+  <h4>Artikel lain <small class="pull-right">(<a href="{{ site.github.url }}/laman/akademik/">Akademik</a>)</small></h4>
+    <ul>
+    {% for post in site.related_posts limit:5 %}
+      <li><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
+  {% endif %}
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+{% include _scripts.html %}
+</body>
+</html>
