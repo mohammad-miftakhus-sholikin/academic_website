@@ -452,7 +452,7 @@ $button-size: 1.5rem;
 	p > em > a,
 	p > strong > a,
 	li > a {
-		text-decoration: underline;
+		color: $highlightcolor;
 	}
 }
 
