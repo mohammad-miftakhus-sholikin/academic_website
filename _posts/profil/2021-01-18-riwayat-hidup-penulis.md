@@ -12,15 +12,15 @@ category: [profil]
 
 ## _A. Saat ini_
 `2018 - 2021`
-Menempuh [_program doktor_](https://ipb.ac.id/) di Institut Pertanian Bogor
+Menempuh [_program doktor_](https://ipb.ac.id/) di IPB University
 
 
 ## _B. Pendidikan_
 `2012 - 2017`
-[_Sarjana peternakan_](http://intp.fapet.ipb.ac.id/) di Institut Pertanian Bogor
+[_Sarjana peternakan_](http://intp.fapet.ipb.ac.id/) di IPB University
 
 `2017 - 2019`
-[_Magister sains_](https://pasca.ipb.ac.id/) di Institut Pertanian Bogor
+[_Magister sains_](https://pasca.ipb.ac.id/) di IPB University
 
 
 ## _C. Organisasi_

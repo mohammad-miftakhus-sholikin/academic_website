@@ -19,16 +19,18 @@
       {% endif %}
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
-      <b>Daftar isi:</b>
+      <h2>Daftar isi:</h2>
       {% include _toc.html html=content %}
       {{ content }}
+      <br/>
+      <br/>
       <hr />
       <footer role="contentinfo">
-        <br>
-      	{% if page.author %}<p><small>Di tulis oleh: <b>{{page.author}}</b></small></p>{% endif %}
+      	{% if page.author %}<p class="byline">Di tulis oleh: <b>{{ page.author }}</b></p>{% endif %}
         {% if page.share != false %}{% include _social-share.html %}{% endif %}
         <p class="byline"><strong>{{ page.title }}</strong> dipublikasikan pada <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d-%m-%Y" }}</time>{% if page.modified %} dan dimodifikasi pada <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%d-%m-%Y" }}</time>{% endif %}.</p>
       </footer>
+      <hr />
     </div><!-- /.article-wrap -->
   </article>
 </div><!-- /#main -->

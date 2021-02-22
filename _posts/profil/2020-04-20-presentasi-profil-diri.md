@@ -37,6 +37,8 @@ category: [profil]
 
 <section 
   data-markdown>
+  <script>
   Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
-  #### Kembali ke [sampul](#/sampul) atau [profil]({{site.baseurl}}/laman/profil)
+  <small><br/>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{ site.github.url }}/laman/profil">profil</a></small>
+  </script>
 </section>

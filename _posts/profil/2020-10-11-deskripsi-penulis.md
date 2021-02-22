@@ -10,7 +10,7 @@ category: [profil]
 
 
 
-Penulis mendapatkan gelar sarjana peternakan tahun 2017 dan magister sains tahun 2019 di <a href="https://ipb.ac.id/">_Institut Pertanian Bogor_</a>. Topik riset penulis tentang pemanfaatan serangga (_Gryllus assimilis_ dan _Hermetia illucens_) sebagai aditif pakan ternak.
+Penulis mendapatkan gelar sarjana peternakan tahun 2017 dan magister sains tahun 2019 di <a href="https://ipb.ac.id/">_IPB University_</a>. Topik riset penulis tentang pemanfaatan serangga (_Gryllus assimilis_ dan _Hermetia illucens_) sebagai aditif pakan ternak.
 
 
 ## Minat dan proyek saat ini:

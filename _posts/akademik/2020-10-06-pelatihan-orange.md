@@ -56,7 +56,7 @@ Tutorial ini dibuat untuk pengenalan machine learning pada bidang peternakan men
 ![Windows 8]({{ site.github.url }}/images/postingan/2020-10-06-pelatihan-orange/windows-8.png)
 
 
-## Editing Data
+## Editing data
 <div align="justify">
 <b>Langkah 1.</b> Download file di <a href="https://codeload.github.com/mohammad-miftakhus-sholikin/pelatihan-2020-ml/zip/master"><b>sini</b></a>
 <br><br><b>Langkah 2.</b> Ekstrak file
@@ -102,6 +102,6 @@ NB: dijelaskan pas temu online saja.
 ![Orange 9.]({{ site.github.url }}/images/postingan/2020-10-06-pelatihan-orange/orange-9.png)
 
 
-## Daftar Pustaka
+## Daftar pustaka
 - All content of Orange3 installation from this post refer to [__biolab__.](http://biolab.github.io/install-orange/#win)
 - Also thanks to [__google translate__](https://translate.google.co.id)

@@ -34,7 +34,7 @@ category: [akademik, rumah]
 
 	https://cran.r-project.org/
 	
-	<small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{site.baseurl}}/laman/akademik/">akademik</small></a></small>
+	<small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{site.baseurl}}/laman/akademik/">akademik</a> bisa juga <a href="{{site.baseurl}}/akademik/rumah/presentasi-pelatihan-metal/?print-pdf#/sampul">print pdf</a></small>
 	</script>	
 </section>
 
@@ -43,8 +43,6 @@ category: [akademik, rumah]
   data-transition="zoom">
   <script>
 	<img src={{site.baseurl}}/images/postingan/2021-01-10-presentasi-pelatihan-metal/presentasi-metal-1.svg width="575" height="575">
-
-	<small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{site.baseurl}}/laman/akademik/">akademik</small></a></small>
 	</script>
 </section>
 
@@ -52,11 +50,10 @@ category: [akademik, rumah]
 <section data-markdown
 	data-transition="zoom">
 	<script>
-	###Apa itu __Metal__ (Meta-Analisis)?
+	<h3><a href="#/sampul">Apa itu __Metal__ (Meta-Analisis)?</a></h3>
 
 	<img src={{site.baseurl}}/images/postingan/2021-01-10-presentasi-pelatihan-metal/presentasi-metal-2.svg width="475" height="475">
 
-	<small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{site.baseurl}}/laman/akademik/">akademik</small></a></small>
 	</script>
 </section>
 
@@ -64,11 +61,10 @@ category: [akademik, rumah]
 <section data-markdown
 	data-transition="zoom">
 	<script>
-	###Penentuan dan Pecarian Topik Metal
+	<h3><a href="#/sampul">Penentuan dan Pecarian Topik Metal</a></h3>
 
 	<img src={{site.baseurl}}/images/postingan/2021-01-10-presentasi-pelatihan-metal/presentasi-metal-3.svg width="475" height="475">
-	
-	<small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{site.baseurl}}/laman/akademik/">akademik</small></a></small>
+
 	</script>
 </section>
 
@@ -76,11 +72,10 @@ category: [akademik, rumah]
 <section data-markdown
 	data-transition="zoom">
 	<script>
-	###PRISMA dan Metal
+	<h3><a href="#/sampul">PRISMA dan Metal</a></h3>
 
 	<img src={{site.baseurl}}/images/postingan/2021-01-10-presentasi-pelatihan-metal/presentasi-metal-4.svg width="475" height="475">
 	
-	<small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{site.baseurl}}/laman/akademik/">akademik</small></a></small>
 	</script>
 </section>
 
@@ -88,11 +83,10 @@ category: [akademik, rumah]
 <section data-markdown
 	data-transition="zoom">
 	<script>
-	###Penyususnan Data dan Analisis dengan R
+	<h3><a href="#/sampul">Penyususnan Data dan Analisis dengan R</a></h3>
 
 	<img src={{site.baseurl}}/images/postingan/2021-01-10-presentasi-pelatihan-metal/presentasi-metal-5.svg width="475" height="475">
 	
-	<small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{site.baseurl}}/laman/akademik/">akademik</small></a></small>
 	</script>
 </section>
 

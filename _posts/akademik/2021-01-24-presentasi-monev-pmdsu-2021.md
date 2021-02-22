@@ -29,13 +29,13 @@ category: [akademik]
 	data-transition="slide-in fade-out"
 	id = "daftar_isi">
 	<script>
-	<h2><a href="#/sampul">Daftar Isi</a></h2>
+	<h3><a href="#/sampul">Daftar Isi</a></h3>
 		1. <a href="#/tahapan_rencana_studi">Tahapan dan rencana studi S3</a>
 		2. <a href="#/publikasi">Publikasi</a>
 		3. <a href="#/kendala_solusi">Kendala dan solusi</a>
 		4. <a href="#/ucapan_terima_kasih">Ucapan terima kasih</a>
 		
-		[<small>Print pdf</small>]({{site.baseurl}}/akademik/presentasi-monev-pmdsu-2021/?print-pdf#/sampul)
+		<small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{site.baseurl}}/laman/akademik/">akademik</a> bisa juga <a href="{{site.baseurl}}/akademik/presentasi-monev-pmdsu-2021/?print-pdf#/sampul">print pdf</a></small>
 	</script>
 </section>
 
@@ -45,7 +45,8 @@ category: [akademik]
 	data-transition="slide-in fade-out"
 	id = "tahapan_rencana_studi">
 	<script>
-		### Tahapan dan Rencana Studi S3
+		<h3><a href="#/daftar_isi">Tahapan dan Rencana Studi S3</a></h3>
+
 		|No. |Tahapan       |Pelaksanaan  |Status|
 		|:---|:-------------|------------:|-----:|
 		|1.|Sidang promosi|Mei 2021|<a style="color:#b32400;">belum</a>|
@@ -69,7 +70,8 @@ category: [akademik]
 	data-transition="slide-in fade-out"
 	id = "publikasi">
 	<script>
-		### Publikasi Utama (Syarat PMDSU)
+		<h3><a href="#/daftar_isi">Publikasi Utama (Syarat PMDSU)</a></h3>
+
 		|No.              |Publikasi|Jenis|Status|
 		|:----------------|:--------|:---:|-----:|
 		|<small>1.</small>|<small>A meta-analysis antimicrobial peptide effects on intestinal bacteria, immune response and antioxidant activity of broilers</small>|<small>TASJ (Q2)</small>|<small>diterima</small>|
@@ -90,7 +92,8 @@ category: [akademik]
 	data-transition="slide-in fade-out"
 	id = "publikasi_lain1">
 	<script>
-		### Publikasi Lain (Bukan Syarat PMDSU)
+		<h3><a href="#/daftar_isi">Publikasi Lain (Bukan Syarat PMDSU)</a></h3>
+
 		|No.              |Kolabolator dan Publikasi|Jenis|Status|
 		|:----------------|:--------|:---:|-----:|
 		|<small>5.</small>|<small>Artificial neural network model to predict crude protein and crude fiber from physical properties of feedstuffs</small>|<small>iop</small>|<small><a href="https://iopscience.iop.org/article/10.1088/1755-1315/372/1/012049/meta">terbit</a></small>|
@@ -111,7 +114,8 @@ category: [akademik]
 	data-transition="slide-in fade-out"
 	id = "publikasi_lain2">
 	<script>
-		### Publikasi Lain (Bukan Syarat PMDSU)
+		<h3><a href="#/daftar_isi">Publikasi Lain (Bukan Syarat PMDSU)</a></h3>
+
 		|No.              |Kolabolator dan Publikasi|Jenis|Status|
 		|:----------------|:--------|:---:|-----:|
 		|<small>9.</small>|<small><b>Dr. Tri R. Prihambodo (Pascasarjana IPB)</b>; Effects of dietary flavonoids on performance, blood constituents, carcass composition and small intestinal morphology of broilers: A meta-analysis</small>|<small>AB (Q1)</small>|<small><a href="https://www.ajas.info/journal/view.php?number=24585">terbit</a></small>|
@@ -132,7 +136,8 @@ category: [akademik]
 	data-transition="slide-in fade-out"
 	id = "publikasi_lain3">
 	<script>
-		### Publikasi Lain (Bukan Syarat PMDSU)
+		<h3><a href="#/daftar_isi">Publikasi Lain (Bukan Syarat PMDSU)</a></h3>
+
 		|No.              |Kolabolator dan Publikasi|Jenis|Status|
 		|:----------------|:--------|:---:|-----:|
 		|<small>13.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; The effects of mixed vitamins, minerals, fatty acids, and amino acids supplementation into drinking water on broiler chickens’ performance and carcass traits</small>|<small>JWPR (Q4)</small>|<small>diterima</small>|
@@ -152,7 +157,7 @@ category: [akademik]
 	data-transition="slide-in fade-out"
 	id = "kendala_solusi">
 	<script>
-		### Kendala dan Solusi
+		<h3><a href="#/daftar_isi">Kendala dan Solusi</a></h3>
 		<p style="text-align:justify;">Selama melaksanakan program PMDSU di IPB mahasiswa selalu mengalami kendala yang menyulitkan terkait administrasi dan perkuliahan. Akan tetapi berkat bimbingan dan dukungan dari promotor (_Prof. Dr. Ir. Nahrowi, M.Sc._), kendala tersebut dapat diselesaikan.</p>
 		
 		<p style="text-align:center;">
@@ -167,7 +172,7 @@ category: [akademik]
 	data-transition="slide-in fade-out"
 	id = "ucapan_terima_kasih">
 	<script>
-		### Ucapan terima kasih kami sampaikan kepada pihak-pihak terkait,
+		<h3><a href="#/daftar_isi">Ucapan terima kasih kami sampaikan kepada pihak-pihak terkait,</a></h3>
 		1. Penyelenggara PMDSU Batch-III IPB University
 		2. Seluruh civitas akademika IPB University
 		

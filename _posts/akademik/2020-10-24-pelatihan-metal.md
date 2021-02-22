@@ -35,7 +35,7 @@ Tutorial ini dibuat untuk pengenalan dan penggunaan R sebagai alat meta-analisis
 <b>Langkah 2.</b> Kemudian ekstrak file "pelatihan-2020-metal.zip".
 
 
-## Install <i>packages</i> yang dibutuhkan buat metal (Langkah ini bisa dilewati lanjut ke D.)
+## Install <i>packages</i> yang dibutuhkan buat metal (langkah ini bisa dilewati)
 <b>Langkah 1.</b> Lihat dulu tampilan program R nya.
 
    ![r interface 1]({{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/rconsole-1.png)
@@ -108,6 +108,6 @@ Klo tampilannya yang penting tuh ada dua: satu, **R console** buat eksekusi kode
    ![r interface 5]({{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/rscript.png)
 
 
-## Daftar Pustaka
+## Daftar pustaka
 - All content of R installation from this post refer to [__CRAN__.](https://cran.r-project.org/)
 - Also thanks to [__google translate__](https://translate.google.co.id)

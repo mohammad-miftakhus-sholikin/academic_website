@@ -340,7 +340,7 @@ $button-size: 1.5rem;
 /* Post byline */
 .byline {
 	clear: both;
-	font-size: 80%;
+	font-size: 70%;
 }
 .article-author-side,
 .article-author-bottom {
@@ -631,7 +631,7 @@ $button-size: 1.5rem;
 	@include container;
 	@include clearfix;
 	clear: both;
-	padding-bottom: 3em;
+	padding-bottom: 10em;
 	text-align: center;
 	a,
 	a:active,
@@ -683,7 +683,11 @@ $button-size: 1.5rem;
 	}
 	li {
 		margin-bottom: 0;
+		a {
+			color: $highlightcolor;
+		}
 	}
+
 }
 
 /*
