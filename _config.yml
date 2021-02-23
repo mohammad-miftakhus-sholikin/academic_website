@@ -47,7 +47,7 @@ lowlight-color: '#000'
 
 ##### Konfigurasi dasar #####
 baseurl: /
-url: mohammad-miftakhus-sholikin.github.io/academic_website/
+#url: mohammad-miftakhus-sholikin.github.io/academic_website/
 
 exclude: 
   - Gruntfile.js
