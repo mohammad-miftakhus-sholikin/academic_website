@@ -269,9 +269,9 @@ $button-size: 1.5rem;
 		@include grid(12,4.5);
 	}
 	h3 {
-		color: $highlightcolor;
 		margin: 0;
 		padding-bottom: .5em;
+		color: $highlightcolor;
 		@include font-rem(28);
 		border-bottom: 1px solid lighten($black,70);
 	}
