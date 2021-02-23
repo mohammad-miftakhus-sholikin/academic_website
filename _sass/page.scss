@@ -88,6 +88,9 @@ body {
 			decoration: none;
 			border-bottom: 0 solid transparent;
 			@include transition(all .2s);
+			&:hover{
+				color: $highlightcolor;
+			}
 			@media #{$small} {
 				display: inline;
 				padding: 0;
@@ -266,6 +269,7 @@ $button-size: 1.5rem;
 		@include grid(12,4.5);
 	}
 	h3 {
+		color: $highlightcolor;
 		margin: 0;
 		padding-bottom: .5em;
 		@include font-rem(28);

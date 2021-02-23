@@ -7,7 +7,6 @@ modified: 24-10-2020
 tags: [modelling]
 comments: true
 category: [akademik]
-toc: false
 ---
 
 

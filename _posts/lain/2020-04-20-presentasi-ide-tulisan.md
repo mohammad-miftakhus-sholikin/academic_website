@@ -41,6 +41,6 @@ category: [lain]
   data-markdown>
   <script>
   Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
-  <small><br/>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{ site.github.url }}/laman/profil">profil</a></small>
+  <small><br/>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{ site.github.url }}/laman/lain">lain</a></small>
   </script>
 </section>
