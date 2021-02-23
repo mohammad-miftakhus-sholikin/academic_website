@@ -15,10 +15,10 @@ owner:
   flickr: #username
   foursquare: #username
   google:
-    plus: #username
     analytics:
+    plus: #username
+    scholar: koSsmk8AAAAJ
     verify:
-    scholar: koSsmk8AAAAJ #id
   instagram: #username
   lastfm: #username
   linkedin: #username
@@ -79,5 +79,5 @@ plugins:
 
 ##### Lisensi #####
 creative-commons:
-  cc-by: yes
-  cc-by-nc: yes
+  cc-by: no
+  cc-by-nc: no

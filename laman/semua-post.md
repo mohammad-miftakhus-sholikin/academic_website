@@ -1,7 +1,7 @@
 ---
-layout: test
-title: Test
-excerpt: "Test"
+layout: semua-post
+title: Semua Post
+excerpt: "Semua Post dari Penulis"
 ---
 
 

@@ -1,0 +1,19 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+{% include _head.html %}
+</head>
+<body class="post-index">
+{% include _navigation.html %}
+{% include _back-to-top-button.html %}
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div><!-- /#bio -->
+  <div id="index">
+    {{ content }}
+  </div><!-- /#index -->
+</div><!-- /#main -->
+{% include _scripts.html %}
+</body>
+</html>
