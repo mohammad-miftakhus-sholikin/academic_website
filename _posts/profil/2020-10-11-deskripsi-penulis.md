@@ -3,7 +3,7 @@ layout: riwayat-hidup
 title: Profil - Deskripsi dari penulis
 excerpt: Deskripsi singkat tentang penulis serta minat dan proyek yang dikerjakan pada saat ini
 modified: 11-10-2020
-tags: [akademik, deskripsi, penulis]
+tags: [personal project]
 comments: true
 category: [profil]
 ---

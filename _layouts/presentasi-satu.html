@@ -10,7 +10,6 @@
       {% endif %}
     </title>
     <meta name="author" content="{{ site.author }}" />
-
     <!-- Description -->
     {% if page.description %}
       <meta name="description" content="{{ page.description }}" />
@@ -26,10 +25,8 @@
     {% else %}
       <link rel="stylesheet" href="{{ "/assets/js/reveal.js/css/theme/black.css" | prepend: site.github.url }}" id="theme"/>
     {% endif %}
-
     <!-- Code syntax highlighting -->
     <link rel="stylesheet" href="{{ "/assets/js/reveal.js/lib/css/zenburn.css" | prepend: site.github.url }}"/>
-
     <!-- Printing and PDF exports -->
     <script>
       var link = document.createElement( 'link' );
@@ -38,7 +35,6 @@
       link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/assets/js/reveal.js/css/print/pdf.css" | prepend: site.github.url }}' : '{{ "/assets/js/reveal.js/css/print/paper.css" | prepend: site.github.url }}';
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
-		
 		<!-- Icon -->
     <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.github.url }}" />
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.github.url }}">
@@ -64,7 +60,6 @@
         {% else %}
           transition: 'slide', // none/fade/slide/convex/concave/zoom
         {% endif %}
-
         // Optional reveal.js plugins
         dependencies: [
           { src: '{{ "/assets/js/reveal.js/lib/js/classList.js" | prepend: site.github.url }}', condition: function() { return !document.body.classList; } },

@@ -6,7 +6,7 @@ author: Mohammad Miftakhus Sholikin
 modified: 10-01-2021
 theme: simple
 transition: convex 
-tags: [presentation]
+tags: [antimicrobial peptide, linier mixed model, meta-analysis]
 category: [akademik, rumah]
 ---
 

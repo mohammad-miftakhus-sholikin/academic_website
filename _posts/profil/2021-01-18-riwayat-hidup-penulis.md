@@ -3,7 +3,7 @@ layout: riwayat-hidup
 title: Profil - Riwayat hidup dari penulis
 excerpt: Riwayat hidup dari penulis, berisi tentang jenjang pendidikan dan karir
 modified: 18-01-2021
-tags: [penulis, riwayat]
+tags: [personal project]
 comments: true
 category: [profil]
 ---

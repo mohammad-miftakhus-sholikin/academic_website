@@ -5,34 +5,21 @@ excerpt: "Semua Post dari Penulis"
 ---
 
 
-### Semua tulisan yang berkatagori akademik 
 
-<ul>
-    {% for doc in site.categories.akademik %}
-        <li><a href="{{ site.github.url }}{{ doc.url }}">{{ doc.title }}</a></li>
+{% for category in site.categories %}
+  <h4>Semua tulisan yang berkategori <mark>{{ category[0] }}</mark></h4>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-</ul>
+  </ul>
+{% endfor %}
 
-### Semua tulisan yang berkatagori lain 
-
-<ul>
-    {% for doc in site.categories.lain %}
-        <li><a href="{{ site.github.url }}{{ doc.url }}">{{ doc.title }}</a></li>
+{% for tag in site.tags %}
+  <h4>Semua tulisan yang bertag <mark>{{ tag[0] }}</mark></h4>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-</ul>
-
-### Semua tulisan yang berkatagori profil 
-
-<ul>
-    {% for doc in site.categories.profil %}
-        <li><a href="{{ site.github.url }}{{ doc.url }}">{{ doc.title }}</a></li>
-    {% endfor %}
-</ul>
-
-### Semua tulisan yang berkatagori rumah 
-
-<ul>
-    {% for doc in site.categories.rumah %}
-        <li><a href="{{ site.github.url }}{{ doc.url }}">{{ doc.title }}</a></li>
-    {% endfor %}
-</ul>
+  </ul>
+{% endfor %}

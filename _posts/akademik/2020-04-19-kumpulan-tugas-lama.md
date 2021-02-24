@@ -4,7 +4,7 @@ title: Tugas - Pascasarjana magister IPB University, Departemen Ilmu Nutrisi dan
 excerpt: Perhitungan gas rumah kaca, peptida antimikroba dari maggot, serta pemodelan nutrisi dan pakan
 author: Mohammad Miftakhus Sholikin
 modified: 19-04-2020
-tags: [green house gases, antimicrobial peptide, modelling]
+tags: [ antimicrobial peptide, artificial neural network, green house gases, machine learning, non-linier modelling]
 comments: true
 category: [akademik]
 toc: false

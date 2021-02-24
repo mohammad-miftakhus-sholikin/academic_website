@@ -6,7 +6,7 @@ author: Mohammad Miftakhus Sholikin
 modified: 24-01-2021
 theme: simple
 transition: convex 
-tags: [presentation]
+tags: [personal project]
 category: [akademik]
 ---
 

@@ -6,7 +6,7 @@ author: Mohammad Miftakhus Sholikin
 modified: 21-04-2020
 theme: simple
 transition: convex
-tags: [presentation]
+tags: [antimicrobial peptide, principal component analysis, multivariate analysis]
 category: [akademik, rumah]
 ---
 

@@ -1,12 +1,13 @@
 ---
 layout: presentasi-dua
-title: Presentasi - Sidkom prasidang ke-1
-excerpt: Sidkom prasidang ke-1
+title: Presentasi - Sidkom prasidang ke-2
+excerpt: Sidkom prasidang ke-2
 author: Mohammad Miftakhus Sholikin
-modified: 26-01-2021
+modified: 26-02-2021
 theme: simple
-transition: convex 
-tags: [presentation]
+transition: convex
+autoslide: 600
+tags: [personal project]
 category: [akademik]
 ---
 
@@ -21,8 +22,8 @@ category: [akademik]
 	id = "sampul">
 	<script>
 		<!-- .slide: class="center" -->
-		<h4><a href = "{{ site.github.url }}/laman/akademik/"><b>Kajian <i>in silico</i> dan <i>in vitro</i> peptida antimikroba pada<br>ayam broiler dan anak babi</b></a></h4>
-		<small>Mohammad Miftakhus Sholikin<br>Dibimbing oleh:<br>Prof. Dr. Ir. Nahrowi, MS.c.<br>Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br>Prof. Dr. Ir. Aris Tri Wahyudi, M.S.</small>
+		<h3><a href = "{{ site.github.url }}/laman/akademik/"><b>Kajian <i>in silico</i> dan <i>in vitro</i> peptida antimikroba pada ayam broiler<br>dan anak babi</b></a></h3>
+		<hr><small><b>Mohammad Miftakhus Sholikin</b><br><br>Dibimbing oleh:<br>Prof. Dr. Ir. Nahrowi, MS.c.<br>Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br>Prof. Dr. Ir. Aris Tri Wahyudi, M.S.</small>
 	</script>
 </section>
 

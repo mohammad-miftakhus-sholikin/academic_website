@@ -4,7 +4,7 @@ title: Pelatihan - Meta-analisis menggunakan R dan Rstudio
 excerpt: Pengenalan meta-analisis tentang pemembuatan basis data, analisis data, dan intepretasi hasil
 author: Mohammad Miftakhus Sholikin
 modified: 24-10-2020
-tags: [modelling]
+tags: [antimicrobial peptide, linier mixed model, meta-analysis]
 comments: true
 category: [akademik]
 ---

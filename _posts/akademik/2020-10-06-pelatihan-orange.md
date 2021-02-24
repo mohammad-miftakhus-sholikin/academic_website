@@ -4,7 +4,7 @@ title: Pelatihan - <i>Machine learning</i> dengan Orange3
 excerpt: Pengenalan <i>mechine learning</i> menggunakan Orange3 dibidang peternakan khususnya ilmu nutrisi dan pakan
 author: Mohammad Miftakhus Sholikin
 modified: 06-10-2020
-tags: [orange3, machine learning, modelling]
+tags: [artificial neural network, machine learning, orange3, principal component analysis]
 comments: true
 category: [akademik]
 toc: false

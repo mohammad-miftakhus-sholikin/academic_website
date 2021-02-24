@@ -6,7 +6,7 @@ author: Mohammad Miftakhus Sholikin
 modified: 20-04-2020
 theme: simple
 transition: convex
-tags: [presentation]
+tags: [personal project]
 category: [lain]
 ---
 
@@ -16,7 +16,7 @@ category: [lain]
   data-markdown
   id = sampul>
   <script>
-  ##[Kumpulan Ide-Ide]({{site.baseurl}}/profil/deskripsi-penulis/)
+  ##[Kumpulan Ide-Ide]({{ site.github.url }}/profil/deskripsi-penulis/)
   
   </script>
 </section>
