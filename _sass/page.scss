@@ -15,6 +15,10 @@ body {
 .navigation-wrapper {
 	@include container;
 	padding: 1em 0em .5em;
+	position: sticky;
+	top: 0;
+	z-index: 100;
+	background: white;
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -50,7 +54,7 @@ body {
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 0em;
+	margin-bottom: -1em;
 	float: none;
 	display: block;
 	@media #{$small} {
