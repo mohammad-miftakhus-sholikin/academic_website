@@ -6,6 +6,8 @@ excerpt: "Semua Post dari Penulis"
 
 
 
+## Kumpulan post berdasarkan kategori dan _tag_
+
 {% for category in site.categories %}
   <h4>Semua tulisan yang berkategori <mark>{{ category[0] }}</mark></h4>
   <ul>
@@ -13,6 +15,7 @@ excerpt: "Semua Post dari Penulis"
       <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  <hr>
 {% endfor %}
 
 {% for tag in site.tags %}
@@ -22,4 +25,5 @@ excerpt: "Semua Post dari Penulis"
       <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  <hr>
 {% endfor %}
