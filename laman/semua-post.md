@@ -10,7 +10,7 @@ excerpt: "Semua Post dari Penulis"
   <h4>Semua tulisan yang berkategori <mark>{{ category[0] }}</mark></h4>
   <ul>
     {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
@@ -19,7 +19,7 @@ excerpt: "Semua Post dari Penulis"
   <h4>Semua tulisan yang bertag <mark>{{ tag[0] }}</mark></h4>
   <ul>
     {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
