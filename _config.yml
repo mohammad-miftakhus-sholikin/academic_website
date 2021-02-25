@@ -37,7 +37,7 @@ owner:
 ##### Konfigurasi logo #####
 title: Sholikin
 locale: en_US
-logo: /pengaturan/logo.png
+logo: /pengaturan/logo.svg
 
 
 ##### Konfigurasi warna dasar lainnya ada di _sass/variables.scss #####
