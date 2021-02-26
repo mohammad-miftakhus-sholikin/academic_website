@@ -28,7 +28,7 @@ category: [akademik]
  id = "sampul">
  <script>
   <!-- .slide: class="center" -->
-  <h4><a href = "{{ site.github.url }}/laman/akademik/"><b>Kajian <i>in silico</i> dan <i>in vitro</i> peptida antimikroba pada ayam broiler<br>dan anak babi</b></a></h4>
+  <h4><a href = "{{ site.github.url }}/laman/akademik/"><b>Kajian <i>in silico</i> dan <i>in vitro</i> peptida antimikroba pada ayam broiler dan anak babi</b></a></h4>
   <hr><small><b>Mohammad Miftakhus Sholikin</b><br><br>Dibimbing oleh:<br>Prof. Dr. Ir. Nahrowi, MS.c.<br>Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br>Prof. Dr. Ir. Aris Tri Wahyudi, M.S.</small>
  </script>
 </section>
@@ -38,8 +38,8 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "daftar-isi">
  <script>
- <h4 style="text-align:center;"><a href="#/sampul">Daftar Isi</a></h4>
- <h4 style="text-align:center;"><small><a href="{{ site.github.url }}/akademik/presentasi-sidkom-prasidang/?print-pdf#/sampul">Cetak</a></small></h4>
+ <h4 style="text-align:left"><a href="#/sampul">Daftar Isi</a></h4>
+ <h4 style="text-align:left"><small><a href="{{ site.github.url }}/akademik/presentasi-sidkom-prasidang/?print-pdf#/sampul">Cetak</a></small></h4>
  <div class="three-column">
   <div>
    <p style="font-size:25px">
