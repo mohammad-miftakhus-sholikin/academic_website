@@ -38,25 +38,35 @@
 		<!-- Icon -->
     <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.github.url }}" />
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.github.url }}">
-    <!--CSS column-->
+    <link rel="shortcut icon" href="{{ site.github.url }}/images/pengaturan/title-icon.svg">
+    <link rel="shortcut icon" href="{{ site.github.url }}/images/pengaturan/title-icon.svg">
+    <!--CSS mark and column-->
     <style>
-		.twocolumn {
+		mark {
+			background-color: white;
+			color: crimson;
+		}
+		.two-column {
 			 display: grid;
 			 grid-template-columns: 1fr 1fr;
 			 grid-gap: 10px;
 			 text-align: left;
 		}
-		.threecolumn {
+		.three-column {
 			 display: grid;
 			 grid-template-columns: 1fr 1fr 1fr;
 			 grid-gap: 10px;
 			 text-align: left;
 		}
-		.onehalfcolumn {
+		.one-half-column {
 			 display: grid;
 			 grid-template-columns: 1.5fr 0.5fr;
 			 grid-gap: 10px;
 			 text-align: left;
+		}
+		.paragraf-column {
+ 		  column-count: 2;
+ 		 	column-gap: 20px;
 		}
 		</style>    
   </head>

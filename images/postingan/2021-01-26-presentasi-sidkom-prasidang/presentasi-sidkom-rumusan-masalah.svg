@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30cm"
+   height="17cm"
+   viewBox="0 0 299.99999 170"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="presentasi-sidkom-rumusan-masalah.svg"
+   inkscape:export-filename="/home/sholikinshino/Desktop/Pelatihan/pelatihan-2020-metal/ch1_intro_and_build_data/Sholikin_2020__Metal.png"
+   inkscape:export-xdpi="750.02698"
+   inkscape:export-ydpi="750.02698">
+  <defs
+     id="defs2">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask1359">
+      <rect
+         style="display:inline;opacity:1;fill:#ffffff;stroke:none;stroke-width:0.17597125"
+         id="rect1361"
+         width="150.11554"
+         height="127.61427"
+         x="15.330476"
+         y="57.03001" />
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath913">
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.38084078;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect915"
+         width="196.54572"
+         height="177.60789"
+         x="18.10989"
+         y="-12.553828" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1389683"
+     inkscape:cx="566.92913"
+     inkscape:cy="396.85039"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     units="cm"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="264.37282,-114.06214"
+       orientation="0,1"
+       id="guide1521"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="ketergantungan"
+     transform="translate(0,-39.999999)">
+    <g
+       transform="matrix(-3.3774274,0,0,3.3774274,699.42284,-394.05337)"
+       id="g1402-2" />
+    <g
+       class="cluster"
+       id="clust1"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title6">cluster_0</title>
+      <polygon
+         id="polygon8"
+         points="122,-379 122,-8 8,-8 8,-379 "
+         style="fill:#ffd5d5;stroke:#ffd5d5" />
+      <text
+         id="text10"
+         font-size="14.00"
+         font-weight="bold"
+         y="-364.79999"
+         x="31"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">Multivariat</text>
+    </g>
+    <g
+       class="cluster"
+       id="clust2"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title13">cluster_1</title>
+      <polygon
+         id="polygon15"
+         points="244,-379 244,-8 130,-8 130,-379 "
+         style="fill:#ffd5d5;stroke:#ffd5d5" />
+      <text
+         id="text17"
+         font-size="14.00"
+         font-weight="bold"
+         y="-364.79999"
+         x="146"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">Meta-Analisis</text>
+    </g>
+    <g
+       class="cluster"
+       id="clust3"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title20">cluster_2</title>
+      <polygon
+         id="polygon22"
+         points="422,-379 422,-8 252,-8 252,-379 "
+         style="fill:#ffd5d5;stroke:#ffd5d5" />
+      <text
+         id="text24"
+         font-size="14.00"
+         font-weight="bold"
+         y="-364.79999"
+         x="296"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">Peptida CLP1</text>
+    </g>
+    <g
+       class="cluster"
+       id="clust4"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title27">cluster_3</title>
+      <polygon
+         id="polygon29"
+         points="566,-379 566,-8 430,-8 430,-379 "
+         style="fill:#ffd5d5;stroke:#ffd5d5" />
+      <text
+         id="text31"
+         font-size="14.00"
+         font-weight="bold"
+         y="-364.79999"
+         x="464.5"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">Antikanker</text>
+    </g>
+    <g
+       class="node"
+       id="node1"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title34">a0</title>
+      <polygon
+         id="polygon36"
+         points="16,-310 114,-310 114,-348 16,-348 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text38"
+         font-size="14.00"
+         y="-332.79999"
+         x="65"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">penghimpunan</text>
+      <text
+         id="text40"
+         font-size="14.00"
+         y="-317.79999"
+         x="65"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">data</text>
+    </g>
+    <g
+       class="node"
+       id="node2"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title43">a1</title>
+      <polygon
+         id="polygon45"
+         points="37,-236 93,-236 93,-274 37,-274 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text47"
+         font-size="14.00"
+         y="-258.79999"
+         x="65"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">reduksi</text>
+      <text
+         id="text49"
+         font-size="14.00"
+         y="-243.8"
+         x="65"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">data</text>
+    </g>
+    <g
+       class="edge"
+       id="edge1"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title52">a0-&gt;a1</title>
+      <path
+         id="path54"
+         d="m 65,-309.83 c 0,7.7 0,16.86 0,25.41"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon56"
+         points="61.5,-284.41 68.5,-284.41 65,-274.41 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node3"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title59">a2</title>
+      <polygon
+         id="polygon61"
+         points="22.5,-162 107.5,-162 107.5,-200 22.5,-200 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text63"
+         font-size="14.00"
+         y="-184.8"
+         x="65"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">transformasi</text>
+      <text
+         id="text65"
+         font-size="14.00"
+         y="-169.8"
+         x="65"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">data</text>
+    </g>
+    <g
+       class="edge"
+       id="edge2"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title68">a1-&gt;a2</title>
+      <path
+         id="path70"
+         d="m 65,-235.83 c 0,7.7 0,16.86 0,25.41"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon72"
+         points="61.5,-210.41 68.5,-210.41 65,-200.41 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node4"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title75">a3</title>
+      <polygon
+         id="polygon77"
+         points="36.5,-88 93.5,-88 93.5,-126 36.5,-126 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text79"
+         font-size="14.00"
+         y="-110.8"
+         x="65"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">analisis</text>
+      <text
+         id="text81"
+         font-size="14.00"
+         y="-95.800003"
+         x="65"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">data</text>
+    </g>
+    <g
+       class="edge"
+       id="edge3"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title84">a2-&gt;a3</title>
+      <path
+         id="path86"
+         d="m 65,-161.83 c 0,7.7 0,16.86 0,25.41"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon88"
+         points="61.5,-136.41 68.5,-136.41 65,-126.41 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node5"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title91">a4</title>
+      <polygon
+         id="polygon93"
+         points="19,-16 111,-16 111,-52 19,-52 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text95"
+         font-size="14.00"
+         font-weight="bold"
+         y="-37.799999"
+         x="27"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start;fill:#800000">karakteristik</text>
+      <text
+         id="text97"
+         font-size="14.00"
+         font-weight="bold"
+         y="-23.799999"
+         x="49"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start;fill:#800000">AMP</text>
+    </g>
+    <g
+       class="edge"
+       id="edge4"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title100">a3-&gt;a4</title>
+      <path
+         id="path102"
+         d="m 65,-87.72 c 0,7.75 0,16.93 0,25.45"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon104"
+         points="61.5,-62 68.5,-62 65,-52 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node6"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title107">b0</title>
+      <polygon
+         id="polygon109"
+         points="138,-310 236,-310 236,-348 138,-348 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text111"
+         font-size="14.00"
+         y="-332.79999"
+         x="187"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">penghimpunan</text>
+      <text
+         id="text113"
+         font-size="14.00"
+         y="-317.79999"
+         x="187"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">data</text>
+    </g>
+    <g
+       class="node"
+       id="node7"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title116">b1</title>
+      <polygon
+         id="polygon118"
+         points="147.5,-236 226.5,-236 226.5,-274 147.5,-274 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text120"
+         font-size="14.00"
+         y="-258.79999"
+         x="187"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">penyortiran</text>
+      <text
+         id="text122"
+         font-size="14.00"
+         y="-243.8"
+         x="187"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">data</text>
+    </g>
+    <g
+       class="edge"
+       id="edge5"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title125">b0-&gt;b1</title>
+      <path
+         id="path127"
+         d="m 187,-309.83 c 0,7.7 0,16.86 0,25.41"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon129"
+         points="183.5,-284.41 190.5,-284.41 187,-274.41 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node8"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title132">b2</title>
+      <polygon
+         id="polygon134"
+         points="142.5,-162 231.5,-162 231.5,-200 142.5,-200 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text136"
+         font-size="14.00"
+         y="-184.8"
+         x="187"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">uji kelayakan</text>
+      <text
+         id="text138"
+         font-size="14.00"
+         y="-169.8"
+         x="187"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">data</text>
+    </g>
+    <g
+       class="edge"
+       id="edge6"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title141">b1-&gt;b2</title>
+      <path
+         id="path143"
+         d="m 187,-235.83 c 0,7.7 0,16.86 0,25.41"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon145"
+         points="183.5,-210.41 190.5,-210.41 187,-200.41 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node9"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title148">b3</title>
+      <polygon
+         id="polygon150"
+         points="158.5,-88 215.5,-88 215.5,-126 158.5,-126 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text152"
+         font-size="14.00"
+         y="-110.8"
+         x="187"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">analisis</text>
+      <text
+         id="text154"
+         font-size="14.00"
+         y="-95.800003"
+         x="187"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">data</text>
+    </g>
+    <g
+       class="edge"
+       id="edge7"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title157">b2-&gt;b3</title>
+      <path
+         id="path159"
+         d="m 187,-161.83 c 0,7.7 0,16.86 0,25.41"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon161"
+         points="183.5,-136.41 190.5,-136.41 187,-126.41 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node10"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title164">b4</title>
+      <polygon
+         id="polygon166"
+         points="138.5,-16 235.5,-16 235.5,-52 138.5,-52 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text168"
+         font-size="14.00"
+         font-weight="bold"
+         y="-31.299999"
+         x="146.5"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start;fill:#800000">Level optimal</text>
+    </g>
+    <g
+       class="edge"
+       id="edge8"
+       transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)">
+      <title
+         id="title171">b3-&gt;b4</title>
+      <path
+         id="path173"
+         d="m 187,-87.72 c 0,7.75 0,16.93 0,25.45"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon175"
+         points="183.5,-62 190.5,-62 187,-52 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node11"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title178">c0</title>
+      <polygon
+         id="polygon180"
+         points="294,-310 380,-310 380,-348 294,-348 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text182"
+         font-size="14.00"
+         y="-332.79999"
+         x="337"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">pembuatan</text>
+      <text
+         id="text184"
+         font-size="14.00"
+         y="-317.79999"
+         x="337"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">cDNA CLP1</text>
+    </g>
+    <g
+       class="node"
+       id="node12"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title187">c1</title>
+      <polygon
+         id="polygon189"
+         points="260,-236 414,-236 414,-274 260,-274 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text191"
+         font-size="14.00"
+         y="-258.79999"
+         x="337"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">pembuatan</text>
+      <text
+         id="text193"
+         font-size="14.00"
+         y="-243.8"
+         x="337"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">fragmen T7-IRES-Kozak</text>
+    </g>
+    <g
+       class="edge"
+       id="edge9"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title196">c0-&gt;c1</title>
+      <path
+         id="path198"
+         d="m 337,-309.83 c 0,7.7 0,16.86 0,25.41"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon200"
+         points="333.5,-284.41 340.5,-284.41 337,-274.41 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node13"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title203">c2</title>
+      <polygon
+         id="polygon205"
+         points="288,-162 386,-162 386,-200 288,-200 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text207"
+         font-size="14.00"
+         y="-184.8"
+         x="337"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">translasi</text>
+      <text
+         id="text209"
+         font-size="14.00"
+         y="-169.8"
+         x="337"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">IVT lisat HeLa</text>
+    </g>
+    <g
+       class="edge"
+       id="edge10"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title212">c1-&gt;c2</title>
+      <path
+         id="path214"
+         d="m 337,-235.83 c 0,7.7 0,16.86 0,25.41"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon216"
+         points="333.5,-210.41 340.5,-210.41 337,-200.41 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node14"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title219">c3</title>
+      <polygon
+         id="polygon221"
+         points="281,-89 393,-89 393,-125 281,-125 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text223"
+         font-size="14.00"
+         y="-103.3"
+         x="337"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">uji kualitas CLP1</text>
+    </g>
+    <g
+       class="edge"
+       id="edge11"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title226">c2-&gt;c3</title>
+      <path
+         id="path228"
+         d="m 337,-161.83 c 0,7.94 0,17.42 0,26.2"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon230"
+         points="333.5,-135.42 340.5,-135.42 337,-125.42 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node15"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title233">c4</title>
+      <polygon
+         id="polygon235"
+         points="288,-16 386,-16 386,-52 288,-52 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text237"
+         font-size="14.00"
+         font-weight="bold"
+         y="-31.299999"
+         x="296"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start;fill:#800000">Peptida CLP1</text>
+    </g>
+    <g
+       class="edge"
+       id="edge12"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title240">c3-&gt;c4</title>
+      <path
+         id="path242"
+         d="m 337,-88.81 c 0,8.02 0,17.76 0,26.74"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon244"
+         points="333.5,-62.03 340.5,-62.03 337,-52.03 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node16"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title247">d0</title>
+      <polygon
+         id="polygon249"
+         points="439,-310 553,-310 553,-348 439,-348 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text251"
+         font-size="14.00"
+         y="-332.79999"
+         x="496"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">ekstrak akuades</text>
+      <text
+         id="text253"
+         font-size="14.00"
+         y="-317.79999"
+         x="496"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">danetanol maggot</text>
+    </g>
+    <g
+       class="node"
+       id="node17"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title256">d1</title>
+      <polygon
+         id="polygon258"
+         points="438.5,-236 557.5,-236 557.5,-274 438.5,-274 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text260"
+         font-size="14.00"
+         y="-258.79999"
+         x="498"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">uji antikanker</text>
+      <text
+         id="text262"
+         font-size="14.00"
+         y="-243.8"
+         x="498"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">MOLT4 dan K562</text>
+    </g>
+    <g
+       class="edge"
+       id="edge13"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title265">d0-&gt;d1</title>
+      <path
+         id="path267"
+         d="m 496.5,-309.83 c 0.22,7.7 0.47,16.86 0.71,25.41"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon269"
+         points="493.71,-284.31 500.71,-284.51 497.49,-274.41 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node18"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title272">d2</title>
+      <polygon
+         id="polygon274"
+         points="444.5,-162 551.5,-162 551.5,-200 444.5,-200 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text276"
+         font-size="14.00"
+         y="-184.8"
+         x="498"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">pembacaan pada</text>
+      <text
+         id="text278"
+         font-size="14.00"
+         y="-169.8"
+         x="498"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">MTR-450</text>
+    </g>
+    <g
+       class="edge"
+       id="edge14"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title281">d1-&gt;d2</title>
+      <path
+         id="path283"
+         d="m 498,-235.83 c 0,7.7 0,16.86 0,25.41"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon285"
+         points="494.5,-210.41 501.5,-210.41 498,-200.41 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node19"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title288">d3</title>
+      <polygon
+         id="polygon290"
+         points="442,-89 554,-89 554,-125 442,-125 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text292"
+         font-size="14.00"
+         y="-103.3"
+         x="498"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">perhitungan IC50</text>
+    </g>
+    <g
+       class="edge"
+       id="edge15"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title295">d2-&gt;d3</title>
+      <path
+         id="path297"
+         d="m 498,-161.83 c 0,7.94 0,17.42 0,26.2"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon299"
+         points="494.5,-135.42 501.5,-135.42 498,-125.42 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node20"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title302">d4</title>
+      <polygon
+         id="polygon304"
+         points="456.5,-16 539.5,-16 539.5,-52 456.5,-52 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <text
+         id="text306"
+         font-size="14.00"
+         font-weight="bold"
+         y="-31.299999"
+         x="464.5"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start;fill:#800000">Antikanker</text>
+    </g>
+    <g
+       class="edge"
+       id="edge16"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title309">d3-&gt;d4</title>
+      <path
+         id="path311"
+         d="m 498,-88.81 c 0,8.02 0,17.76 0,26.74"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon313"
+         points="494.5,-62.03 501.5,-62.03 498,-52.03 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node21"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title316">start1</title>
+      <polygon
+         id="polygon318"
+         points="352,-927 174,-927 174,-891 352,-891 "
+         style="fill:none;stroke:#000000" />
+      <text
+         id="text320"
+         font-size="14.00"
+         font-weight="bold"
+         y="-906.29999"
+         x="182"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">Antibiotik Imbuhan Pakan</text>
+    </g>
+    <g
+       class="node"
+       id="node22"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title323">start2</title>
+      <polygon
+         id="polygon325"
+         points="339,-855 187,-855 187,-819 339,-819 "
+         style="fill:none;stroke:#000000" />
+      <text
+         id="text327"
+         font-size="14.00"
+         font-weight="bold"
+         y="-834.29999"
+         x="195"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">Pemacu Pertumbuhan</text>
+    </g>
+    <g
+       class="edge"
+       id="edge17"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title330">start1-&gt;start2</title>
+      <path
+         id="path332"
+         d="m 263,-890.7 c 0,7.72 0,16.99 0,25.59"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon334"
+         points="263,-855.1 259.5,-865.1 266.5,-865.1 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node32"
+       transform="matrix(0.24993833,0,0,0.24993833,-34.735884,239.41352)">
+      <title
+         id="title337">hirarki3</title>
+    </g>
+    <g
+       class="edge"
+       id="edge26"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title340">start2-&gt;hirarki3</title>
+      <path
+         id="path342"
+         d="m 263,-818.7 c 0,20.08 0,50.71 0,52.61"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node23"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title345">start3</title>
+      <polygon
+         id="polygon347"
+         points="244,-783 144,-783 144,-747 244,-747 "
+         style="fill:#808080;stroke:#808080" />
+      <text
+         id="text349"
+         font-size="14.00"
+         font-weight="bold"
+         y="-762.29999"
+         x="152"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">Ayam Broiler</text>
+    </g>
+    <g
+       class="edge"
+       id="edge27"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title352">start3-&gt;hirarki3</title>
+      <path
+         id="path354"
+         d="m 244.13,-765 c 6.1,0 12.19,0 18.28,0"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node24"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title357">start4</title>
+      <polygon
+         id="polygon359"
+         points="378.5,-783 281.5,-783 281.5,-747 378.5,-747 "
+         style="fill:#808080;stroke:#808080" />
+      <text
+         id="text361"
+         font-size="14.00"
+         font-weight="bold"
+         y="-762.29999"
+         x="289.5"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">   Anak Babi</text>
+    </g>
+    <g
+       class="node"
+       id="node25"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title364">start5</title>
+      <polygon
+         id="polygon366"
+         points="321,-711 205,-711 205,-675 321,-675 "
+         style="fill:#800000;stroke:#800000" />
+      <text
+         id="text368"
+         font-size="14.00"
+         font-weight="bold"
+         y="-690.29999"
+         x="213"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start;fill:#ffffff">Dampak Negatif</text>
+    </g>
+    <g
+       class="node"
+       id="node33"
+       transform="matrix(0.24993833,0,0,0.24993833,-34.735884,239.41352)">
+      <title
+         id="title371">hirarki5</title>
+    </g>
+    <g
+       class="edge"
+       id="edge29"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title374">start5-&gt;hirarki5</title>
+      <path
+         id="path376"
+         d="m 263,-674.7 c 0,20.08 0,50.71 0,52.61"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node26"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title379">start6</title>
+      <polygon
+         id="polygon381"
+         points="244.5,-639 117.5,-639 117.5,-603 244.5,-603 "
+         style="fill:#808080;stroke:#808080" />
+      <text
+         id="text383"
+         font-size="14.00"
+         font-weight="bold"
+         y="-618.29999"
+         x="125.5"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">   Efek Resistensi  </text>
+    </g>
+    <g
+       class="edge"
+       id="edge30"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title386">start6-&gt;hirarki5</title>
+      <path
+         id="path388"
+         d="m 244.74,-621 c 5.9,0 11.79,0 17.69,0"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node27"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title391">start7</title>
+      <polygon
+         id="polygon393"
+         points="404,-639 282,-639 282,-603 404,-603 "
+         style="fill:#808080;stroke:#808080" />
+      <text
+         id="text395"
+         font-size="14.00"
+         font-weight="bold"
+         y="-618.29999"
+         x="290"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">Residu Antibiotik</text>
+    </g>
+    <g
+       class="node"
+       id="node28"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title398">start8</title>
+      <polygon
+         id="polygon400"
+         points="301.5,-567 224.5,-567 224.5,-531 301.5,-531 "
+         style="fill:#ffa500;stroke:#ffa500" />
+      <text
+         id="text402"
+         font-size="14.00"
+         font-weight="bold"
+         y="-546.29999"
+         x="232.5"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">Alternatif</text>
+    </g>
+    <g
+       transform="matrix(0.69745829,0,0,0.31554417,-104.86162,330.98729)"
+       id="g2038"
+       class="edge">
+      <title
+         id="title2034">hirarki8-&gt;in_vitro</title>
+      <path
+         style="fill:none;stroke:#000000"
+         inkscape:connector-curvature="0"
+         d="m 263.58,-405 c 14.91,0 29.83,0 44.74,0"
+         id="path2036" />
+    </g>
+    <g
+       class="node"
+       id="node29"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title405">start9</title>
+      <polygon
+         id="polygon407"
+         points="334.5,-495 191.5,-495 191.5,-459 334.5,-459 "
+         style="fill:#ffffff;stroke:#000000" />
+      <text
+         id="text409"
+         font-size="14.00"
+         font-weight="bold"
+         y="-474.29999"
+         x="199.5"
+         style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">Peptida Antimikroba</text>
+    </g>
+    <g
+       class="edge"
+       id="edge20"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title412">start8-&gt;start9</title>
+      <path
+         id="path414"
+         d="m 263,-530.7 c 0,7.72 0,16.99 0,25.59"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon416"
+         points="263,-495.1 259.5,-505.1 266.5,-505.1 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node34"
+       transform="matrix(0.24993833,0,0,0.24993833,-34.735884,239.41352)">
+      <title
+         id="title419">hirarki8</title>
+    </g>
+    <g
+       class="edge"
+       id="edge21"
+       transform="matrix(0.31554417,0,0,0.12537161,114.55268,121.75555)">
+      <title
+         id="title434">in_silico-&gt;b0</title>
+      <path
+         id="path436"
+         d="m 187,-386.84 c 0,11.62 0,26.93 0,38.74"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node31"
+       transform="matrix(0.31554417,0,0,0.31554417,118.57085,187.72486)">
+      <title
+         id="title444">in_vitro</title>
+      <polygon
+         id="polygon446"
+         points="308.5,-387 365.5,-387 365.5,-423 308.5,-423 "
+         style="fill:#ffd5d5;stroke:#ffd5d5" />
+      <text
+         id="text448"
+         font-size="14.00"
+         font-style="italic"
+         font-weight="bold"
+         y="-402.29999"
+         x="316.5"
+         style="font-style:italic;font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">in vitro</text>
+    </g>
+    <g
+       class="node"
+       id="node39"
+       transform="matrix(0.24993833,0,0,0.24993833,-34.735884,239.41352)">
+      <title
+         id="title456">hirarki8i</title>
+    </g>
+    <g
+       class="edge"
+       id="edge37"
+       transform="matrix(1.1377703,0,0,0.31554417,-182.10884,187.72486)">
+      <title
+         id="title459">in_vitro-&gt;hirarki8i</title>
+      <path
+         id="path461"
+         d="m 365.69,-405 c 11.92,0 23.83,0 35.74,0"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       class="edge"
+       id="edge28"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title464">hirarki3-&gt;start4</title>
+      <path
+         id="path466"
+         d="m 263.52,-765 c 5.98,0 11.95,0 17.92,0"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       class="edge"
+       id="edge18"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title469">hirarki3-&gt;start5</title>
+      <path
+         id="path471"
+         d="m 263,-763.95 c 0,1.2 0,23.52 0,42.63"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon473"
+         points="263,-711.19 259.5,-721.19 266.5,-721.19 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="edge"
+       id="edge31"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title476">hirarki5-&gt;start7</title>
+      <path
+         id="path478"
+         d="m 263.62,-621 c 6.1,0 12.2,0 18.3,0"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       class="edge"
+       id="edge19"
+       transform="matrix(0.35833157,0,0,0.35833157,-38.414943,373.53398)">
+      <title
+         id="title481">hirarki5-&gt;start8</title>
+      <path
+         id="path483"
+         d="m 263,-619.95 c 0,1.2 0,23.52 0,42.63"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+      <polygon
+         id="polygon485"
+         points="263,-567.19 259.5,-577.19 266.5,-577.19 "
+         style="fill:#000000;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node35"
+       transform="matrix(0.24993833,0,0,0.24993833,-34.735884,239.41352)">
+      <title
+         id="title493">hirarki8a</title>
+    </g>
+    <g
+       class="edge"
+       id="edge36"
+       transform="matrix(0.31554417,0,0,0.08109726,114.55268,106.32725)">
+      <title
+         id="title496">hirarki8a-&gt;a0</title>
+      <path
+         id="path498"
+         d="m 66,-403.95 c -0.02,1.51 -0.47,34.37 -0.75,55.78"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node30"
+       transform="matrix(0.31554417,0,0,0.31554417,75.296437,187.95463)">
+      <title
+         id="title427">in_silico</title>
+      <polygon
+         id="polygon429"
+         points="217.5,-387 217.5,-423 156.5,-423 156.5,-387 "
+         style="fill:#ffd5d5;stroke:#ffd5d5" />
+      <text
+         id="text431"
+         font-size="14.00"
+         font-style="italic"
+         font-weight="bold"
+         y="-402.29999"
+         x="164.5"
+         style="font-style:italic;font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start">in silico</text>
+    </g>
+    <g
+       class="node"
+       id="node36"
+       transform="matrix(0.24993833,0,0,0.24993833,-34.735884,239.41352)">
+      <title
+         id="title501">hirarki8b</title>
+    </g>
+    <g
+       class="node"
+       id="node37"
+       transform="matrix(0.24993833,0,0,0.24993833,-34.735884,239.41352)">
+      <title
+         id="title509">hirarki8c</title>
+    </g>
+    <g
+       class="edge"
+       id="edge33"
+       transform="matrix(1.3704137,0,0,0.31554417,15.690661,187.95463)">
+      <title
+         id="title512">hirarki8b-&gt;hirarki8c</title>
+      <path
+         id="path514"
+         d="m 93.72,-405 c 7.19,0 14.39,0 21.58,0"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       class="node"
+       id="node38"
+       transform="matrix(0.24993833,0,0,0.24993833,-34.735884,239.41352)">
+      <title
+         id="title517">hirarki8d</title>
+    </g>
+    <g
+       class="node"
+       id="node40"
+       transform="matrix(0.24993833,0,0,0.24993833,-34.735884,239.41352)">
+      <title
+         id="title530">hirarki8ii</title>
+    </g>
+    <g
+       class="node"
+       id="node41"
+       transform="matrix(0.24993833,0,0,0.24993833,-34.735884,239.41352)">
+      <title
+         id="title538">hirarki8iii</title>
+    </g>
+    <g
+       class="node"
+       id="node42"
+       transform="matrix(0.24993833,0,0,0.24993833,-34.735884,239.41352)">
+      <title
+         id="title546">hirarki8iv</title>
+    </g>
+    <g
+       class="node"
+       id="node43"
+       transform="matrix(0.24993833,0,0,0.24993833,-34.735884,239.41352)">
+      <title
+         id="title554">hirarki8v</title>
+    </g>
+    <g
+       transform="matrix(0.32185377,0,0,0.15813673,114.13862,124.37272)"
+       id="g1933"
+       class="edge">
+      <title
+         id="title1929">hirarki8a-&gt;a0</title>
+      <path
+         style="fill:none;stroke:#000000"
+         inkscape:connector-curvature="0"
+         d="m 65.475507,-370.85767 c -0.02,1.51 0.05449,1.27767 -0.225507,22.68767"
+         id="path1931"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       transform="matrix(0.31554417,0,0,0.23648367,114.55268,151.41081)"
+       id="g1939"
+       class="edge">
+      <title
+         id="title1935">in_silico-&gt;b0</title>
+      <path
+         style="fill:none;stroke:#000000"
+         inkscape:connector-curvature="0"
+         d="m 187,-386.84 c 0,11.62 0,26.93 0,38.74"
+         id="path1937" />
+    </g>
+    <g
+       class="edge"
+       id="edge37-3"
+       transform="matrix(0,0.13260621,-0.31554417,0,146.70376,24.614771)">
+      <title
+         id="title459-6">in_vitro-&gt;hirarki8i</title>
+      <path
+         id="path461-7"
+         d="m 365.69,-405 c 11.92,0 23.83,0 35.74,0"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       transform="matrix(0,0.23579796,-0.31554417,0,146.70376,-26.371167)"
+       id="g1978"
+       class="edge">
+      <title
+         id="title1974">in_vitro-&gt;hirarki8i</title>
+      <path
+         style="fill:none;stroke:#000000"
+         inkscape:connector-curvature="0"
+         d="m 365.69,-405 c 11.92,0 23.83,0 35.74,0"
+         id="path1976" />
+    </g>
+    <g
+       transform="matrix(0,0.096298,-0.31554417,0,97.051472,30.311278)"
+       id="g1978-6"
+       class="edge">
+      <title
+         id="title1974-2">in_vitro-&gt;hirarki8i</title>
+      <path
+         style="fill:none;stroke:#000000"
+         inkscape:connector-curvature="0"
+         d="m 365.69,-405 c 11.92,0 23.83,0 35.74,0"
+         id="path1976-9" />
+    </g>
+    <g
+       class="edge"
+       id="g2015"
+       transform="matrix(0,0.10585279,-0.31554417,0,97.051472,35.012906)">
+      <title
+         id="title2011">in_vitro-&gt;hirarki8i</title>
+      <path
+         id="path2013"
+         d="m 365.69,-405 c 11.92,0 23.83,0 35.74,0"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       transform="matrix(2.5529179,0,0,0.31554417,-562.42539,175.31045)"
+       id="g2021"
+       class="edge">
+      <title
+         id="title2017">hirarki8-&gt;in_vitro</title>
+      <path
+         style="fill:none;stroke:#000000"
+         inkscape:connector-curvature="0"
+         d="m 263.58,-405 c 14.91,0 29.83,0 44.74,0"
+         id="path2019" />
+    </g>
+    <g
+       class="edge"
+       id="g2044"
+       transform="matrix(0,4.3611029,-0.31554417,0,-17.410383,-1547.3593)">
+      <title
+         id="title2040">in_vitro-&gt;hirarki8i</title>
+      <path
+         id="path2042"
+         d="m 365.69,-405 c 11.92,0 23.83,0 35.74,0"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       class="edge"
+       id="g2050"
+       transform="matrix(0,0.23579796,-0.31554417,0,96.745785,-38.713898)">
+      <title
+         id="title2046">in_vitro-&gt;hirarki8i</title>
+      <path
+         id="path2048"
+         d="m 365.69,-405 c 11.92,0 23.83,0 35.74,0"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000" />
+    </g>
+    <g
+       class="edge"
+       id="g2056"
+       transform="matrix(0,0.23579796,-0.31554417,0,7.5858402,-38.322242)">
+      <title
+         id="title2052">in_vitro-&gt;hirarki8i</title>
+      <path
+         id="path2054"
+         d="m 365.69,-405 27.35363,0.15285"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+</svg>
