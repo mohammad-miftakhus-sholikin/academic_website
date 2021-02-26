@@ -74,7 +74,9 @@ category: [akademik]
     <a href="#/meta-broiler-1"><small>3.4 Meta-Analisis Ayam Broiler</small></a><br>
     <a href="#/meta-babi-1"><small>3.4 Meta-Analisis Anak Babi</small></a><br>
     <br><a href="#/simpulan">4. Simpulan</a><br><br>
-    <a href="#/simpulan-penelitian"><small>4.1 Simpulan</small></a><br>
+    <a href="#/simpulan-penelitian"><small>4.1 Simpulan</small></a><br><br>
+    <a href="#/publikasi">5. Publikasi</a><br>
+    <a href="#/publikasi-penelitian"><small>5.1 Publikasi</small></a><br>
   </div>
  </div>
  </script>
@@ -210,7 +212,7 @@ category: [akademik]
  <script>
  <h4><a href="#/daftar-isi">Kebaruan</a></h4>
    <p align="left" style="font-size:20px"><mark>Penelitian terdahulu</mark>:<br> 1. Park <i>et al</i>. (2017) berhasil mengidentifikasi dan mengisolasi AMP (cecropin like-peptide 1 atau CLP1) dari maggot,<br> 2. Meta-analisis aditif antimikroba (tidak hanya AMP) telah dilaporkan oleh Vanrolleghem <i>et al</i>. (2019) dan Xu <i>et al</i>. (2021) pada ternak babi.</p>
-   <p align="left" style="font-size:20px"><mark>Keunggulan penelitian ini</mark>:<br> 1. Kajian metadata AMP asal serangga,<br> 2. Sintesis <i>in vitro</i> AMP dan ekstrak antikanker maggot,<br> 3. Kajian komprehensif dan level optimal AMP pada ayam broiler dan anak babi. (2021) pada ternak babi<br></p>
+   <p align="left" style="font-size:20px"><mark>Keunggulan penelitian ini</mark>:<br> 1. Kajian metadata AMP asal serangga,<br> 2. Sintesis <i>in vitro</i> AMP dan ekstrak antikanker maggot,<br> 3. Kajian komprehensif dan level optimal AMP pada ayam broiler dan anak babi<br></p>
    <p align="left" style="font-size:20px"><mark>Kebaruan</mark>:<br> 1. Produk fragmen plasmid T7-IRES-Kozak-CLP1 dari maggot,<br> 2. Produk ekstrak antikanker maggot<br> 3. Metodologi pemetaan karakteristik AMP berdasarkan bobot molekul, sekuen asam amino, dan nilai konsentrasi hambat minimal,<br> 4. Metodologi kajian komprehensif <i>in vivo</i> AMP dan rekomendasi level pengguanaannya.</p>
  </script>
 </section>
@@ -328,7 +330,7 @@ category: [akademik]
  id = "pembuatan-fragmen-clp1">
  <script>
  <h4><a href="#/daftar-isi">Pembuatan Plasmid T7-IRES-Kozak-CLP1</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-pembuatan-fragmen-clp1.png", height=450px><br> Langkah pembuatan plasmid T7-IRES-Kozak-CLP1</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-pembuatan-fragmen-clp1.svg", height=450px><br> Langkah pembuatan plasmid T7-IRES-Kozak-CLP1</p>
  </script>
 </section>
 
@@ -368,7 +370,7 @@ category: [akademik]
  id = "karakteristik-amp">
  <script>
  <h4><a href="#/daftar-isi">Karakteristik AMP</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-biplot-amp.svg", height=450px><br>Kuadran: 1. Jenis lain (KHM gram+) 2. α-heliks dan glisin, 3. sistein (KHM khamir dan gram-), 4. prolin (KHM fungi)</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-biplot-amp.svg", height=450px><br>Kuadran: 1. Jenis lain (KHM gram+) 2. α-heliks dan glisin, 3. sistein (KHM khamir dan gram-), 4. prolin (KHM fungi), sifat AMP pada kuadran 1 dan 3 memiliki perbedaan yang kontras demikian pula dengan kuadran 2 dan 4</p>
  </script>
 </section>
 
@@ -447,7 +449,7 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "mekanisme-amp-invivo">
  <script>
- <h4><a href="#/daftar-isi">Tabel Mekanisme Kerja AMP dalam Meningkatkan Perfoma Pertumbuhan</a></h4>
+ <h4><a href="#/daftar-isi">Mekanisme Kerja AMP dalam Meningkatkan Perfoma Pertumbuhan</a></h4>
  <p align="justify" style="font-size:25px"><mark>Menyebabkan:</mark><br> 1. AMP mengeliminasi bakteri patogen yang menutupi dinding usus halus sehingga poliferasi bakteri asam laktat meningkat,<br> 2. AMP memperbaiki status imunitas lumen usus dengan menginduksi pembentukan senyawa imunostimulan,<br> 3. ekosistem saluran cerna yang seimbang menyebabkan peningkatan perkembangan morfologi vilus usus.<br> <mark>Dampak:</mark><br> 1. Rasio vilus terhadap kedalaman kripta meningkat,<br> 2. memperluas luas bidang penyerapan,<br> 3. penyerapan nutrien lebih banyak dan efisien, dan<br> 4. meningkatkan performa pertumbuhan.</p>
  </script>
 </section>
@@ -458,8 +460,7 @@ category: [akademik]
  id = "mekanisme-amp-bakteri">
  <script>
  <h4><a href="#/daftar-isi">Mekanisme Kerja AMP terhadap Bakteri Patogen</a></h4>
- <p align="center" style="font-size:12px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-mekanisme-amp-bakteri.png", height=475px><br> Model pengahambatan peptida antimikroba (A) aktivitas penghambatan sistem transport membran dengan model barrel-stave, toroidal, carpet, dan aggregate channel, (B) pertemuan sisi kationik AMP dikatalis oleh enzim untuk menghubungkan protein struktural dinding sel, (C) penghambatan transkripsi (sintesis DNA), (D) Penghambatan translasi (sintesis RNA), (E) penghambatan fungsi ribosom dan sintesis protein, dan (F)
-pemblokiran protein chaperone, protein ini diperlukan untuk melipat protein dengan benar, (G) penghambatan respirasi seluler dan induksi pembentukan ROS dan kerusakan integritas membran sel mitokondria dan kegagalan pembentukan ATP dan NADH (modifikasi Hao Xiao <i>et al</i>. 2015)</p>
+ <p align="center" style="font-size:12px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-mekanisme-amp-bakteri.png", height=475px><br> Model pengahambatan peptida antimikroba (A) <mark>perusakan dinding sel</mark>, (B) <mark>pengikatan nutrien dan mineral</mark>, (C) <mark>perusakan transkripsi DNA</mark>, (D) <mark>penghambatan translasi RNA</mark>, (E) <mark>penghambatan fungsi ribosom</mark> dalam sintesis protein, dan (F) <mark>pemblokiran protein chaperone</mark>, protein ini diperlukan untuk melipat protein dengan benar, (G) <mark>penghambatan respirasi seluler dan induksi pembentukan ROS</mark> dan kerusakan integritas membran sel mitokondria dan kegagalan pembentukan ATP dan NADH (modifikasi Hao Xiao <i>et al</i>. 2015)</p>
  </script>
 </section>
 
@@ -482,6 +483,36 @@ pemblokiran protein chaperone, protein ini diperlukan untuk melipat protein deng
  <h4><a href="#/daftar-isi">Simpulan</a></h4>
  <p align="justify" style="font-size:25px">1. Ayam broiler dan anak babi dapat dipicu performa pertumbuhannya menggunakan peptida antimikroba<br> 2. Level optimal peptida antimikroba pada <b style="color:#b32400">ayam broiler adalah 337 dan 359 mg Kg<sup>-1</sup></b> masing-masing pada fase starter dan finisher secara berurutan. Level optimal untuk <b style="color:#b32400">anak babi yaitu, 213 dan 221 mg Kg<sup>-1</sup></b> masing-masing pada fase 1 dan 2 secara berurutan.<br> 3. Nilai IC50 ekstrak etanol maggot adalah 203.76 dan 246.2 μg mL<sup>-1</sup></b> masing-masing pada sel leukimia MOLT4 dan K562 secara berurutan.</p>
  </script>
+</section>
+
+<section
+ data-markdown
+ data-transition="slide-in fade-out"
+ id = "publikasi">
+ <script>
+ <!-- .slide: class="center" -->
+ <h4><a href="#/daftar-isi">Publikasi</a></h4>
+ </script>
+</section>
+
+<section 
+	data-markdown
+	data-transition="slide-in fade-out"
+	id = "publikasi-penelitian">
+	<script>
+		<h4><a href="#/daftar-isi">Publikasi</a></h4>
+
+		|No.              |Publikasi|Jenis|Status|
+		|:----------------|:--------|:---:|-----:|
+		|<small>1.</small>|<small>A meta-analysis antimicrobial peptide effects on intestinal bacteria, immune response and antioxidant activity of broilers</small>|<small>TASJ (Q2)</small>|<small>diterima</small>|
+		|<small>2.</small>|<small>A meta-analysis of the effect of antimicrobial peptide purity on the growth performance, dry matter digestibility, and  intestinal morphology of broiler</small>|<small>AAVS (Q3)</small>|<small>revisi</small>|
+		|<small>3.</small>|<small>Evaluation of linear models and linear mixed models to predict the effects of antimicrobial peptides on broiler performance</small>|<small>iop</small>|<small><a href="https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012002">terbit</a></small>|
+		|<small>4.</small>|<small>The effect of antimicrobial peptide on growth performance, digestibility, small intestine morphology, and serum metabolites of broiler: A meta-analysis</small>|<small>AB (Q1)</small>|<small>submit</small>|
+		||||
+
+		<p style="text-align:center;">
+		</p>
+	</script>
 </section>
 
 <section
