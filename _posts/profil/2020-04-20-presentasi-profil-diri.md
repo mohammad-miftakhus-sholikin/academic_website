@@ -16,29 +16,33 @@ category: [profil]
   data-markdown
   id = sampul>
   <script>
-	# [Mohammad Miftakhus Sholikin]({{ site.github.url }}/profil/riwayat-hidup-penulis/)
+	#### [Mohammad Miftakhus Sholikin]({{ site.github.url }}/profil/riwayat-hidup-penulis/)
   </script>
 </section>
 
 
 <section
   data-markdown>
-  ## [Pendidikan](#/sampul)
-  Sedang menempuh pendidikan di [IPB University](https://ipb.ac.id/).
+  <script>
+  #### [Pendidikan](#/sampul)
+  <p style="font-size: 25px">Sedang menempuh pendidikan di [IPB University](https://ipb.ac.id/).</p>
+  </script>
 </section>
 
 
 <section
   data-markdown>
-  ## [Kegiatan](#/sampul)
-  Karena sekarang sedang ada musibah jadi waktu luang lebih banyak dan mulai mengerjakan pekerjaan lainnya namun tidak jauh-jauh dari laptop.
+  <script>
+  #### [Kegiatan](#/sampul)
+  <p style="font-size: 25px">Karena sekarang sedang ada musibah jadi waktu luang lebih banyak dan mulai mengerjakan pekerjaan lainnya namun tidak jauh-jauh dari laptop.</p>
+  </script>
 </section>
 
 
 <section 
   data-markdown>
   <script>
-  Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
-  <small><br/>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{ site.github.url }}/laman/profil">profil</a></small>
+  <p style="font-size: 25px">Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)</p>
+  <small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{ site.github.url }}/laman/profil">profil</a></small>
   </script>
 </section>

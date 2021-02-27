@@ -22,7 +22,7 @@ category: [akademik]
  <script>
   <!-- .slide: class="center" -->
   <h4><a href = "{{ site.github.url }}/laman/akademik/"><b>Kajian <i>in silico</i> dan <i>in vitro</i> peptida antimikroba pada<br>ayam broiler dan anak babi</b></a></h4>
-  <small>Mohammad Miftakhus Sholikin<br>Dibimbing oleh:<br>Prof. Dr. Ir. Nahrowi, MS.c.<br>Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br>Prof. Dr. Ir. Aris Tri Wahyudi, M.S.</small>
+  <small><b>Mohammad Miftakhus Sholikin</b><br><br><small>Dibimbing oleh:</small><br>Prof. Dr. Ir. Nahrowi, MS.c.<br>Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br>Prof. Dr. Ir. Aris Tri Wahyudi, M.S.</small>
  </script>
 </section>
 
@@ -35,7 +35,7 @@ category: [akademik]
  <h4 style="text-align:left"><small><a href="{{ site.github.url }}/akademik/presentasi-sidkom-prasidang/?print-pdf#/sampul">Cetak</a></small></h4>
  <div class="two-column">
   <div>
-   <p style="font-size:30px">
+   <p style="font-size:25px">
     <a href="#/pendahuluan">1. Pendahuluan</a><br><br>
      <a href="#/latar-belakang"><small>1.1 Latar belakang</small></a><br>
      <a href="#/ketergantungan"><small>1.2 Ketergantungan</small></a><br>
@@ -48,7 +48,7 @@ category: [akademik]
    </p>
   </div>
   <div>
-   <p style="font-size:30px">
+   <p style="font-size:25px">
     <a href="#/hasil-pembahasan">3. Hasil dan Pembahasan</a><br><br>
      <a href="#/karakteristik-amp"><small>3.1 Karakteristik AMP</small></a><br>
      <a href="#/peptida-clp1"><small>3.2 Peptida CLP1</small></a><br>
@@ -84,7 +84,7 @@ category: [akademik]
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-permasalahan.svg">
   </div>
   <div>
-   <br><p align="justify" style="font-size:20px">Avilamycin, Bacitracin, Enramycin, Flavomycin, Halquinol, Lincomycin, Narasin, Salinomycin, Tiamulin, Tylosin, Virginiamycin, dan Adapted <a href="https://www.pubvet.com.br/uploads/564b4cc69fbde87e053e3ae1b6d1f29b.pdf">(Cardinal 2020)</a></p>
+   <br><p align="justify" style="font-size:25px">Avilamycin, Bacitracin, Enramycin, Flavomycin, Halquinol, Lincomycin, Narasin, Salinomycin, Tiamulin, Tylosin, Virginiamycin, dan Adapted <a href="https://www.pubvet.com.br/uploads/564b4cc69fbde87e053e3ae1b6d1f29b.pdf">(Cardinal 2020)</a></p>
    <p style="font-size:25px">1. Residu<br> 2. Resistensi<br> 3. Alergi<br> 4. Kanker</p>
   </div>
  </div>
@@ -102,7 +102,7 @@ category: [akademik]
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-ketergantungan.svg">
   </div>
   <div>
-   <br><p align="justify" style="font-size:35px">Lalu apa yang menyebabkan peternak bergantung dengan AIP?</a></p>
+   <br><p align="justify" style="font-size:25px">Lalu apa yang menyebabkan peternak bergantung dengan AIP?</a></p>
    <p style="font-size:25px">1. Efisiensi<br> 2. Tropis<br> 3. Penyakit<br> 4. <a href="https://en.wikipedia.org/wiki/Biosecurity"><b>Biosekuriti?</b></a></p>
   </div>
  </div>
@@ -137,7 +137,7 @@ category: [akademik]
  <h4><a href="#/daftar-isi">Analisis komponen utama</a></h4>
  <div class="two-column">
    <div>
-     <br><p align="justify" style="font-size:30px">Mereduksi data dari multivariabel menjadi komponen utama yang lebih sederhana</a></p>
+     <br><p align="justify" style="font-size:25px">Mereduksi data dari multivariabel menjadi komponen utama yang lebih sederhana</a></p>
      <p style="font-size:25px; color:#b32400">1. Data dari multivariabel<br> 2. Komponen utama<br> 3. Nilai eigen >1<br> 4. Grafik biplot</p>
   </div>
   <div>
@@ -155,7 +155,7 @@ category: [akademik]
  <h4><a href="#/daftar-isi">Meta-analisis</a></h4>
  <div class="two-column">
    <div>
-     <br><p align="justify" style="font-size:30px">Kuantifikasi hasil-hasil penelitian agar kajian menjadi komprehensif. Adapun pemilahan literatur mengacu pada PRISMA-P (<a href="https://www.bmj.com/lookup/doi/10.1136/bmj.g7647">Shamseer et al. 2015</a>)</p>
+     <br><p align="justify" style="font-size:25px">Kuantifikasi hasil-hasil penelitian agar kajian menjadi komprehensif. Adapun pemilahan literatur mengacu pada PRISMA-P (<a href="https://www.bmj.com/lookup/doi/10.1136/bmj.g7647">Shamseer et al. 2015</a>)</p>
      <p style="font-size:25px; color:#b32400">1. Identifikasi<br> 2. Penyortiran<br> 3. Kelayakan<br> 4. Penyusunan data</p>
   </div>
   <div>
@@ -173,7 +173,7 @@ category: [akademik]
  <h4><a href="#/daftar-isi"><i>Cecropin like-peptide</i> 1</a></h4>
  <div class="two-column">
    <div>
-     <br><p align="justify" style="font-size:30px">RNA diekstraksi dari maggot (<i>Hermitia illucens</i>)</p>
+     <br><p align="justify" style="font-size:25px">RNA diekstraksi dari maggot (<i>Hermitia illucens</i>)</p>
      <p style="font-size:25px; color:#b32400"><b>CLP1</b>: 5’-GGT TGG CGG AAG AGG GTC TTC; 3’- TTA TCC TTG TTG TGG TGG TCC ACC TCG<br></p>
   </div>
   <div>
@@ -191,7 +191,7 @@ category: [akademik]
  <h4><a href="#/daftar-isi">Antikanker</a></h4>
  <div class="two-column">
    <div>
-     <br><p style="font-size:30px;">Ekstrak akuades dan etanol maggot</p>
+     <br><p style="font-size:25px;">Ekstrak akuades dan etanol maggot</p>
      <p align="justify" style="font-size:25px">Sel kanker <b>MOLT4</b> (<a href="https://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia">leukemia limfoblastik akut</a>) dan <b>K562</b> (<a href="https://en.wikipedia.org/wiki/Chronic_myelogenous_leukemia">leukemia myelogenous kronis</a>)</p>
   </div>
   <div>
@@ -218,7 +218,7 @@ category: [akademik]
  <script>
  <h4><a href="#/daftar-isi">Karakteristik AMP</a></h4>
  <div>
-   <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-biplot-amp.svg", height=475px><br> Kuadran: 1. Jenis lain (KHM gram+) 2. α-heliks dan glisin 3. sistein (KHM khamir<br>dan gram-) 4. prolin (KHM fungi)</p>
+   <p align="center" style="font-size:25px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-biplot-amp.svg", height=475px><br> Kuadran: 1. Jenis lain (KHM gram+) 2. α-heliks dan glisin 3. sistein (KHM khamir<br>dan gram-) 4. prolin (KHM fungi)</p>
  </div>
  </script>
 </section>
@@ -234,7 +234,7 @@ category: [akademik]
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-peptida-clp1.svg">
   </div>
    <div>
-     <br><p style="font-size:30px;">Perlakuan</p>
+     <br><p style="font-size:25px;">Perlakuan</p>
      <p align="left" style="font-size:25px">1. Kontrol-<br> 2. <i>Green fluorescent</i> protein<br> 3. CLP1</p>
   </div>
  </div>
@@ -252,7 +252,7 @@ category: [akademik]
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-ic50.png", height=475px>
   </div>
    <div>
-     <br><p style="font-size:30px;">IC50</p>
+     <br><p style="font-size:25px;">IC50</p>
      <p align="left" style="font-size:25px">1. Akuades<br> 2. Etanol</p>
   </div>
  </div>
