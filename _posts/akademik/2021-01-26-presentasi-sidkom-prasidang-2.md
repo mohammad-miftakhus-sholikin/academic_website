@@ -460,7 +460,7 @@ category: [akademik]
  id = "mekanisme-amp-bakteri">
  <script>
  <h4><a href="#/daftar-isi">Mekanisme Kerja AMP terhadap Bakteri Patogen</a></h4>
- <p align="center" style="font-size:12px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-mekanisme-amp-bakteri.png", height=475px><br> Model pengahambatan peptida antimikroba (A) <mark>perusakan dinding sel</mark>, (B) <mark>pengikatan nutrien dan mineral</mark>, (C) <mark>perusakan transkripsi DNA</mark>, (D) <mark>penghambatan translasi RNA</mark>, (E) <mark>penghambatan fungsi ribosom</mark> dalam sintesis protein, dan (F) <mark>pemblokiran protein chaperone</mark>, protein ini diperlukan untuk melipat protein dengan benar, (G) <mark>penghambatan respirasi seluler dan induksi pembentukan ROS</mark> dan kerusakan integritas membran sel mitokondria dan kegagalan pembentukan ATP dan NADH (modifikasi Hao Xiao <i>et al</i>. 2015)</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-mekanisme-amp-bakteri.png", height=475px><br> Model pengahambatan peptida antimikroba (A) <mark>perusakan dinding sel</mark>, (B) <mark>pengikatan nutrien dan mineral</mark>, (C) <mark>perusakan transkripsi DNA</mark>, (D) <mark>penghambatan translasi RNA</mark>, (E) <mark>penghambatan fungsi ribosom</mark> dalam sintesis protein, dan (F) <mark>pemblokiran protein chaperone</mark>, protein ini diperlukan untuk melipat protein dengan benar, (G) <mark>penghambatan respirasi seluler dan induksi pembentukan ROS</mark> dan kerusakan integritas membran sel mitokondria dan kegagalan pembentukan ATP dan NADH (modifikasi Hao Xiao <i>et al</i>. 2015)</p>
  </script>
 </section>
 
@@ -502,16 +502,14 @@ category: [akademik]
 	<script>
 		<h4><a href="#/daftar-isi">Publikasi</a></h4>
 
-		|No.              |Publikasi|Jenis|Status|
+		|<small>No.</small>|<small>Publikasi</small>|<small>Jenis</small>|<small>Status</small>|
 		|:----------------|:--------|:---:|-----:|
 		|<small>1.</small>|<small>A meta-analysis antimicrobial peptide effects on intestinal bacteria, immune response and antioxidant activity of broilers</small>|<small>TASJ (Q2)</small>|<small>diterima</small>|
 		|<small>2.</small>|<small>A meta-analysis of the effect of antimicrobial peptide purity on the growth performance, dry matter digestibility, and  intestinal morphology of broiler</small>|<small>AAVS (Q3)</small>|<small>revisi</small>|
 		|<small>3.</small>|<small>Evaluation of linear models and linear mixed models to predict the effects of antimicrobial peptides on broiler performance</small>|<small>iop</small>|<small><a href="https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012002">terbit</a></small>|
 		|<small>4.</small>|<small>The effect of antimicrobial peptide on growth performance, digestibility, small intestine morphology, and serum metabolites of broiler: A meta-analysis</small>|<small>AB (Q1)</small>|<small>submit</small>|
 		||||
-
-		<p style="text-align:center;">
-		</p>
+  
 	</script>
 </section>
 
@@ -521,8 +519,8 @@ category: [akademik]
  id = "sampul-belakang">
  <script>
  <!-- .slide: class="center" -->
- Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
- <p style="text-align:center;">
+ <p style= "font-size:25px">Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)</small>
+ <p style="text-align:center">
  <small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="#/daftar-isi">daftar isi</a></small></a>
  </p>
  </script>
