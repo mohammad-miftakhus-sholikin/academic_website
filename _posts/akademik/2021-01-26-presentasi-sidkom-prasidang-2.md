@@ -28,8 +28,8 @@ category: [akademik]
  id = "sampul">
  <script>
   <!-- .slide: class="center" -->
-  <h4><a href = "{{ site.github.url }}/laman/akademik/"><b>Kajian <i>in silico</i> dan <i>in vitro</i> peptida antimikroba pada ayam broiler dan anak babi</b></a></h4>
-  <hr><small><b>Mohammad Miftakhus Sholikin</b><br><br>Dibimbing oleh:<br>Prof. Dr. Ir. Nahrowi, MS.c.<br>Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br>Prof. Dr. Ir. Aris Tri Wahyudi, M.S.</small>
+  <h4><a href = "{{ site.github.url }}/laman/akademik/"><b>Kajian <i>in silico</i> dan <i>in vitro</i> peptida antimikroba pada<br>ayam broiler dan anak babi</b></a></h4>
+  <hr><small><b>Mohammad Miftakhus Sholikin</b><br><br><small>Dibimbing oleh:</small><br>Prof. Dr. Ir. Nahrowi, MS.c.<br>Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br>Prof. Dr. Ir. Aris Tri Wahyudi, M.S.</small>
  </script>
 </section>
 
