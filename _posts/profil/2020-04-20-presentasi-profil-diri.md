@@ -42,7 +42,7 @@ category: [profil]
 <section 
   data-markdown>
   <script>
-  <p style="font-size: 25px">Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)</p>
-  <small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{ site.github.url }}/laman/profil">profil</a></small>
+  <small>Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)</small>
+  <br/><small><small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="{{ site.github.url }}/laman/profil">profil</a></small></small>
   </script>
 </section>

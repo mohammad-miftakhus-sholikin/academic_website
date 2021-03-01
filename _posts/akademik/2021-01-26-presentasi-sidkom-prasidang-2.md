@@ -519,9 +519,8 @@ category: [akademik]
  id = "sampul-belakang">
  <script>
  <!-- .slide: class="center" -->
- <p style= "font-size:25px">Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)</small>
- <p style="text-align:center">
- <small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="#/daftar-isi">daftar isi</a></small></a>
+ <small>Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)</small>
+ <br/><small><small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="#/daftar-isi">daftar isi</a></small></small>
  </p>
  </script>
 </section>

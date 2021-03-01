@@ -13,8 +13,6 @@ category: [akademik]
 
 
 
-{% comment %}data-background-image="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-1.svg"{% endcomment %}
-
 <section
  data-markdown
  data-transition="zoom"
@@ -171,15 +169,9 @@ category: [akademik]
  id = "clp1">
  <script>
  <h4><a href="#/daftar-isi"><i>Cecropin like-peptide</i> 1</a></h4>
- <div class="two-column">
-   <div>
-     <br><p align="justify" style="font-size:25px">RNA diekstraksi dari maggot (<i>Hermitia illucens</i>)</p>
-     <p style="font-size:25px; color:#b32400"><b>CLP1</b>: 5’-GGT TGG CGG AAG AGG GTC TTC; 3’- TTA TCC TTG TTG TGG TGG TCC ACC TCG<br></p>
-  </div>
-  <div>
-   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-pembuatan-clp1.svg">
-  </div>
- </div>
+ <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-pembuatan-clp1.svg"; height=375px>
+ <br><p align="center" style="font-size:25px">RNA diekstraksi dari maggot (<i>Hermitia illucens</i>)
+ <br/><b>CLP1</b>: 5’-GGT TGG CGG AAG AGG GTC TTC;<br/><b>CLP1</b>: 3’- TTA TCC TTG TTG TGG TGG TCC ACC TCG;<br></p>
  </script>
 </section>
 
@@ -189,15 +181,9 @@ category: [akademik]
  id = "antikanker">
  <script>
  <h4><a href="#/daftar-isi">Antikanker</a></h4>
- <div class="two-column">
-   <div>
-     <br><p style="font-size:25px;">Ekstrak akuades dan etanol maggot</p>
-     <p align="justify" style="font-size:25px">Sel kanker <b>MOLT4</b> (<a href="https://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia">leukemia limfoblastik akut</a>) dan <b>K562</b> (<a href="https://en.wikipedia.org/wiki/Chronic_myelogenous_leukemia">leukemia myelogenous kronis</a>)</p>
-  </div>
-  <div>
-   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-uji-antikanker.svg">
-  </div>
- </div>
+ <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-uji-antikanker.svg"; height=375px>
+ <br><p align="center" style="font-size:25px;">Ekstrak akuades dan etanol maggot
+ <br/>Sel kanker <b>MOLT4</b> (<a href="https://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia">leukemia limfoblastik akut</a>) dan<br><b>K562</b> (<a href="https://en.wikipedia.org/wiki/Chronic_myelogenous_leukemia">leukemia myelogenous kronis</a>)</p>
  </script>
 </section>
 
@@ -229,7 +215,7 @@ category: [akademik]
  id = "peptida-clp1">
  <script>
  <h4><a href="#/daftar-isi">Peptida CLP1</a></h4>
- <div class="two-column">
+ <div class="one-half-column">
   <div>
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-peptida-clp1.svg">
   </div>
@@ -326,9 +312,8 @@ category: [akademik]
  id = "sampul-belakang">
  <script>
  <!-- .slide: class="center" -->
- <p style="font-size:25px">Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)</p>
- <p style="text-align:center">
- <small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="#/daftar-isi">daftar isi</a></small></a>
+ <small>Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)</small>
+ <br/><small><small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="#/daftar-isi">daftar isi</a></small></small>
  </p>
  </script>
 </section>
