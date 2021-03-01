@@ -17,7 +17,7 @@ category: [akademik]
  <style>
 	mark {
 		background-color: white;
-		color: "#800000ff";
+		color: "#960e29";
 	}
  </style>
 </script>
@@ -27,9 +27,8 @@ category: [akademik]
  data-transition="zoom"
  id = "sampul">
  <script>
-  <!-- .slide: class="center" -->
-  <h4><a href = "{{ site.github.url }}/laman/akademik/"><b>Kajian <i>in silico</i> dan <i>in vitro</i> peptida antimikroba pada<br>ayam broiler dan anak babi</b></a></h4>
-  <hr><small><b>Mohammad Miftakhus Sholikin</b><br><br><small>Dibimbing oleh:</small><br>Prof. Dr. Ir. Nahrowi, MS.c.<br>Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br>Prof. Dr. Ir. Aris Tri Wahyudi, M.S.</small>
+  <h4><a href = "{{ site.github.url }}/laman/akademik/"><b>Kajian <i>in silico</i> dan <i>in vitro</i> peptida antimikroba pada<br/>ayam broiler dan anak babi</b></a></h4>
+  <hr><small><b>Mohammad Miftakhus Sholikin</b><br/><br/><small>Dibimbing oleh:</small><br/>Prof. Dr. Ir. Nahrowi, MS.c.<br/>Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br/>Prof. Dr. Ir. Aris Tri Wahyudi, M.S.</small>
  </script>
 </section>
 
@@ -43,40 +42,42 @@ category: [akademik]
  <div class="three-column">
   <div>
    <p style="font-size:25px">
-    <a href="#/pendahuluan">1. Pendahuluan</a><br><br>
-    <a href="#/permasalahan"><small>1.1 Permasalahan</small></a><br>
-    <a href="#/ketergantungan"><small>1.2 Ketergantungan</small></a><br>
-    <a href="#/alternatif"><small>1.3 Alternatif</small></a><br>
-    <a href="#/peptida-antimikroba"><small>1.4 Peptida Antimikroba (AMP)</small></a><br>
-    <a href="#/keunggulan-amp"><small>1.5 Keunggulan AMP</small></a><br>
-    <a href="#/tujuan"><small>1.6 Tujuan</small></a><br>
-    <a href="#/rumusan-masalah"><small>1.7 Rumusan Masalah</small></a><br>
-    <a href="#/kebaruan"><small>1.8 Kebaruan</small></a><br>
-    <a href="#/ruang-lingkup"><small>1.9 Ruang Lingkup</small></a><br>
+    <a href="#/pendahuluan">1. Pendahuluan</a><br/><br/>
+    <a href="#/permasalahan"><small>1.1 Permasalahan</small></a><br/>
+    <a href="#/ketergantungan"><small>1.2 Ketergantungan</small></a><br/>
+    <a href="#/alternatif"><small>1.3 Alternatif</small></a><br/>
+    <a href="#/peptida-antimikroba"><small>1.4 Peptida Antimikroba PAM</small></a><br/>
+    <a href="#/keunggulan-pam"><small>1.5 Keunggulan PAM</small></a><br/>
+    <a href="#/tujuan"><small>1.6 Tujuan</small></a><br/>
+    <a href="#/rumusan-masalah"><small>1.7 Rumusan Masalah</small></a><br/>
+    <a href="#/kebaruan"><small>1.8 Kebaruan</small></a><br/><br/>
+    <a href="#/materi-metode">2. Materi dan Metode</a><br/><br/>
+    <a href="#/parameter-penelitian"><small>2.1 Parameter Penelitian</small></a><br/>
    </p>
   </div>
   <div>
    <p style="font-size:25px">
-    <a href="#/materi-metode">2. Materi dan Metode</a><br><br>
-    <a href="#/tahapan-dan-parameter-penelitian"><small>2.1 Tahapan dan Parameter Penelitian</small></a><br>
-    <a href="#/aku"><small>2.2 Analisis Komponen Utama</small></a><br>
-    <a href="#/meta-analisis"><small>2.3 Meta-Analisis</small></a><br>
-    <a href="#/sintesis-clp1"><small>2.4 Sintesis Peptida CLP1</small></a><br>
-    <a href="#/antikanker"><small>2.5 Uji Antikanker</small></a><br>
-    <br><a href="#/hasil-pembahasan">3. Hasil dan Pembahasan</a><br><br>
-    <a href="#/karakteristik-amp"><small>3.1 Karakteristik AMP</small></a><br>
+    <a href="#/aku"><small>2.2 Analisis Komponen Utama</small></a><br/>
+    <a href="#/meta-analisis"><small>2.3 Meta-Analisis</small></a><br/>
+    <a href="#/sintesis-clp1"><small>2.4 Sintesis Peptida CLP1</small></a><br/>
+    <a href="#/antikanker"><small>2.5 Uji Antikanker</small></a><br/>
+    <br/><a href="#/hasil-pembahasan">3. Hasil dan Pembahasan</a><br/><br/>
+    <a href="#/karakteristik-pam"><small>3.1 Karakteristik PAM</small></a><br/>
+    <a href="#/peptida-clp1"><small>3.2 Peptida CLP1</small></a><br/>
+    <a href="#/antikanker-maggot"><small>3.3 Antikanker dari Maggot</small></a><br/>
+    <a href="#/meta-broiler-1"><small>3.4 Meta-Analisis Ayam Broiler</small></a><br/>
+    <a href="#/meta-babi-1"><small>3.4 Meta-Analisis Anak Babi</small></a><br/>
+    <a href="#/mekanisme-pam-bakteri"><small>3.5 Mekanisme PAM Bakteri</small></a><br/>
    </p>
   </div>
   <div>
    <p style="font-size:25px">
-    <a href="#/peptida-clp1"><small>3.2 Peptida CLP1</small></a><br>
-    <a href="#/antikanker-maggot"><small>3.3 Antikanker dari Maggot</small></a><br>
-    <a href="#/meta-broiler-1"><small>3.4 Meta-Analisis Ayam Broiler</small></a><br>
-    <a href="#/meta-babi-1"><small>3.4 Meta-Analisis Anak Babi</small></a><br>
-    <br><a href="#/simpulan">4. Simpulan</a><br><br>
-    <a href="#/simpulan-penelitian"><small>4.1 Simpulan</small></a><br><br>
-    <a href="#/publikasi">5. Publikasi</a><br>
-    <a href="#/publikasi-penelitian"><small>5.1 Publikasi</small></a><br>
+    <a href="#/mekanisme-pam-invivo"><small>3.6 Mekanisme PAM <i>In Vivo</i></small></a><br/>
+    <a href="#/diagram-mekanisme-pam-invivo"><small>3.7 Diagram Mekanisme PAM <i>In Vivo</i></small></a><br/>
+    <br/><a href="#/simpulan">4. Simpulan</a><br/><br/>
+    <a href="#/simpulan-penelitian"><small>4.1 Simpulan</small></a><br/><br/>
+    <a href="#/publikasi">5. Publikasi</a><br/><br/>
+    <a href="#/publikasi-penelitian"><small>5.1 Publikasi</small></a><br/>
   </div>
  </div>
  </script>
@@ -87,7 +88,6 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "pendahuluan">
  <script>
- <!-- .slide: class="center" -->
  <h4><a href="#/daftar-isi">Pendahuluan</a></h4>
  </script>
 </section>
@@ -103,9 +103,9 @@ category: [akademik]
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-permasalahan.svg">
   </div>
   <div>
-   <br><p align="justify" style="font-size:18px">Antibiotik imbuhan pakan (<mark><b>AIP</b></mark>) yang sering dipergunakan pada ternak ayam broiler dan anak babi yakni avilamycin, bacitracin, enramycin, flavomycin, halquinol, lincomycin, narasin, salinomycin, tiamulin, tylosin, dan virginiamycin <a href="https://www.pubvet.com.br/uploads/564b4cc69fbde87e053e3ae1b6d1f29b.pdf">(Cardinal <i>et al</i>. 2020)</a></p>
-   <p style="font-size:18px">Damapak negatif penggunaan AIP<br>1. Residu<br> 2. Resistensi<br> 3. Alergi<br> 4. Kanker</p>
-   <p style="font-size:18px">Pelarangan penggunaan AIP oleh <mark>FAO, Uni Eropa, dan WHO</mark> (FAO dan IFIF 2010; Anom 2019; Bronzwaer <i>et al</i>. 2019). Pembatasan dan pelarangan AIP oleh <mark>Kementrian Pertanian</mark> melalui <mark>permentan nomer 14 tahun 2017</mark> (Kementan 2017)</p>
+   <br/><p align="justify" style="font-size:18px">Antibiotik imbuhan pakan (<mark><b>AIP</b></mark>) &#x2192; avilamycin, bacitracin, enramycin, flavomycin, halquinol, lincomycin, narasin, salinomycin, tiamulin, tylosin, dan virginiamycin <a href="https://www.pubvet.com.br/uploads/564b4cc69fbde87e053e3ae1b6d1f29b.pdf">(Cardinal <i>et al</i>. 2020)</a></p>
+   <p style="font-size:18px">Dampak negatif AIP<br/>1. Reistensi<br/> 2. Residu<br/> 3. Alergi<br/> 4. Kanker</p>
+   <p style="font-size:18px">Dilarang oleh<br/> a.<mark> FAO</mark>,<br/> b.<mark> Uni Eropa</mark>,<br/> c.<mark> WHO</mark>,<br/> d.<mark> Kementan</mark> &#x2192; permentan nomer 14 tahun 2017</p>
   </div>
  </div>
  </script>
@@ -122,8 +122,9 @@ category: [akademik]
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-ketergantungan.svg">
   </div>
   <div>
-   <br><p align="justify" style="font-size:35px">Lalu apa yang menyebabkan peternak bergantung dengan AIP?</p>
-   <p style="font-size:30px">1. Efisiensi<br> 2. Tropis<br> 3. Penyakit<br> 4. <a href="https://en.wikipedia.org/wiki/Biosecurity"><b>Biosekuriti?</b></a></p>
+   <br/><p align="justify" style="font-size:25px">Lalu apa yang menyebabkan peternak bergantung dengan AIP?</p>
+   <p style="font-size:25px">1. Efisiensi<br/> 2. Lingkungan tropis &#x2192; sumber penyakit<br/> 3. <a href="https://en.wikipedia.org/wiki/Biosecurity"><b>Biosekuriti?</b></a></p>
+   <p style="font-size:25px; color:orange"><b>Tambahan di sini</b></p>
   </div>
  </div>
  </script>
@@ -140,8 +141,8 @@ category: [akademik]
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-alternatif.png">
   </div>
   <div>
-   <br><p align="justify" style="font-size:25px">Alternatif antibiotik imbuhan pakan menurut Gadde <i>et al.</i> (2017) antara lain:</p>
-   <p class="paragraf-column" style="font-size:25px">1. Probiotik<br> 2. Prebiotik<br> 3. Simbiotik<br> 4. Silika aktif<br> 5. Fitobiotik<br> 6. Asam organik<br> 7. <mark>Peptida aktif</mark><br> 8. Hiperimun</p>
+   <br/><p align="justify" style="font-size:25px">Alternatif AIP Gadde <i>et al.</i> (2017):</p>
+   <p class="paragraf-column" style="font-size:25px">1. Probiotik<br/> 2. Prebiotik<br/> 3. Simbiotik<br/> 4. Silika aktif<br/> 5. Fitobiotik<br/> 6. Asam organik<br/> 7. <mark>Peptida aktif</mark><br/> 8. Hiperimun</p>
   </div>
  </div>
  </script>
@@ -152,16 +153,16 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "peptida-antimikroba">
  <script>
- <h4><a href="#/daftar-isi">Peptida Antimikroba (AMP)</a></h4>
+ <h4><a href="#/daftar-isi">Peptida Antimikroba PAM</a></h4>
  <div class="two-column">
    <div>
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-peptida-antimikroba.svg">
   </div>
   <div>
-   <br><p align="justify" style="font-size:20px">AMP memiliki karakteristik sebagai berikut (Park <i>et al</i>. 2015; Wang <i>et al</i>. 2016; Gadde <i>et al</i>. 2017).</p>
-   <p align="left" class="paragraf-column" style="font-size:18px">1. Peptida (12-100 asam amino)<br> 2. Bersifat amfipatik<br> 3. Berukuran 4-12 kDa<br> 4. Bersifat bakteriostatik dan/atau bakterisidal terhadap bakteri gram-positif, gram-negartif, fungi, khamir, dan virus</p>
-   <p align="justify" style="font-size:20px">Sumber AMP yaitu bakteri, fungi, tumbuhan, dan hewan (kelas amfibia dan <mark>insekta</mark>) (Bopari <i>et al</i>. 2020).</p>
-   <p align="justify" style="font-size:20px">Peptida asal serangga dikelompokan menjadi lima jenis peptida berdasarkan struktur dan jumlah asam amino (glisin, prolin, dan sistein) (Yi <i>et al</i>. 2014).</p>
+   <br/><p align="justify" style="font-size:25px">Karakteristik PAM (Wang <i>et al</i>. 2016):</p>
+   <p align="left" class="paragraf-column" style="font-size:20px">1. Peptida (12-100 aa)<br/> 2. Bersifat amfipatik<br/> 3. Berukuran 4-12 kDa<br/> 4. Bersifat bakteriostatik dan/atau bakterisidal terhadap bakteri gram-positif, gram-negartif, fungi, khamir, dan virus</p>
+   <p align="justify" style="font-size:25px">Sumber PAM: bakteri, fungi, tumbuhan, dan hewan.</p>
+   <p align="justify" style="font-size:25px">PAM serangga dikelompokan menjadi lima jenis (Yi <i>et al</i>. 2014).</p>
   </div>
  </div>
  </script>
@@ -170,16 +171,16 @@ category: [akademik]
 <section
  data-markdown
  data-transition="slide-in fade-out"
- id = "keunggulan-amp">
+ id = "keunggulan-pam">
  <script>
- <h4><a href="#/daftar-isi">Keunggulan AMP</a></h4>
+ <h4><a href="#/daftar-isi">Keunggulan PAM</a></h4>
  <div class="two-column">
    <div>
-   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-keunggulan-amp.svg">
+   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-keunggulan-pam.svg">
   </div>
   <div>
-   <p align="justify" style="font-size:25px">Keunggulan AMP sebagai pemacu pertumbuhan pada ayam broiler dan anak babi (Hao Xiao <i>et al</i>. 2015).</p>
-   <p align="justify" style="font-size:25px">1. Tidak menimbulkan residu<br> 2. Antimikroba spektrum luas<br> 3. Bersifat antikanker<br> 4. Menurunkan konversi pakan<br> 5. Meningkatkan bobot potong<br> 6. Memperbaiki morfologi usus halus</p>
+   <p align="justify" style="font-size:25px">Keunggulan PAM (Hao Xiao <i>et al</i>. 2015).</p>
+   <p align="justify" style="font-size:25px">1. Tidak menimbulkan residu<br/> 2. Antimikroba spektrum luas<br/> 3. Bersifat antikanker<br/> 4. Menurunkan konversi pakan<br/> 5. Meningkatkan bobot potong<br/> 6. Memperbaiki morfologi usus halus</p>
   </div>
  </div>
  </script>
@@ -191,7 +192,7 @@ category: [akademik]
  id = "tujuan">
  <script>
  <h4><a href="#/daftar-isi">Tujuan</a></h4>
- <p align="justify" style="font-size:25px"><mark>Tujuan umum</mark>: evaluasi peptida antimikroba berdasarkan kajian <i>in silico</i> dan <i>in vitro</i> terhadap performa pertumbuhan dari ayam broiler dan anak babi.<br><mark>Tujuan khusus</mark>:<br> (i) karakteristik AMP,<br> (ii) sintesis CLP1,<br> (iii) ekstrak maggot sebagai antikanker,<br> (iv) kajian komprehensif AMP pada ayam broiler dan anak babi, dan<br> (v) level optimal pemberiannya.</p>
+ <p align="justify" style="font-size:25px"><mark>Tujuan umum</mark>: evaluasi PAM &#x2192; <i>in silico</i> dan <i>in vitro</i> &#x2192; performa pertumbuhan (ayam broiler dan anak babi).<br/><mark>Tujuan khusus</mark>:<br/> (i) karakteristik PAM,<br/> (ii) sintesis PAM (CLP1),<br/> (iii) ekstrak maggot sebagai antikanker,<br/> (iv) kajian komprehensif PAM (meta-analisis), dan<br/> (v) level optimal pemberiannya.</p>
  </script>
 </section>
 
@@ -201,7 +202,7 @@ category: [akademik]
  id = "rumusan-masalah">
  <script>
  <h4><a href="#/daftar-isi">Rumusan Masalah</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-rumusan-masalah.svg", width=775px> <br>Rumusan Masalah <mark>Kajian <i>In Silico</i> dan <i>In Vitro</i> Peptida Antimikroba pada Ayam Broiler dan Anak Babi</mark></p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-rumusan-masalah.svg"; height="475px"> <br/>Rumusan Masalah <mark>Kajian <i>In Silico</i> dan <i>In Vitro</i> Peptida Antimikroba pada Ayam Broiler dan Anak Babi</mark></p>
  </script>
 </section>
 
@@ -211,19 +212,8 @@ category: [akademik]
  id = "kebaruan">
  <script>
  <h4><a href="#/daftar-isi">Kebaruan</a></h4>
-   <p align="left" style="font-size:20px"><mark>Penelitian terdahulu</mark>:<br> 1. Park <i>et al</i>. (2017) berhasil mengidentifikasi dan mengisolasi AMP (cecropin like-peptide 1 atau CLP1) dari maggot,<br> 2. Meta-analisis aditif antimikroba (tidak hanya AMP) telah dilaporkan oleh Vanrolleghem <i>et al</i>. (2019) dan Xu <i>et al</i>. (2021) pada ternak babi.</p>
-   <p align="left" style="font-size:20px"><mark>Keunggulan penelitian ini</mark>:<br> 1. Kajian metadata AMP asal serangga,<br> 2. Sintesis <i>in vitro</i> AMP dan ekstrak antikanker maggot,<br> 3. Kajian komprehensif dan level optimal AMP pada ayam broiler dan anak babi<br></p>
-   <p align="left" style="font-size:20px"><mark>Kebaruan</mark>:<br> 1. Produk fragmen plasmid T7-IRES-Kozak-CLP1 dari maggot,<br> 2. Produk ekstrak antikanker maggot<br> 3. Metodologi pemetaan karakteristik AMP berdasarkan bobot molekul, sekuen asam amino, dan nilai konsentrasi hambat minimal,<br> 4. Metodologi kajian komprehensif <i>in vivo</i> AMP dan rekomendasi level pengguanaannya.</p>
- </script>
-</section>
-
-<section
- data-markdown
- data-transition="slide-in fade-out"
- id = "ruang-lingkup">
- <script>
- <h4><a href="#/daftar-isi">Ruang Lingkup</a></h4>
- <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-ruang-lingkup.svg", width=475px> <br>Ruang lingkup <mark>Kajian <i>In Silico</i> dan <i>In Vitro</i> Peptida Antimikroba pada Ayam Broiler dan Anak Babi</mark>, pengertian <i>in silico</i> adalah kajian tentang pemodelan baik empiris ataupun dinamis dari suatu sistem biologi sedangkan <i>in vitro</i> adalah kajian sel atau molekul diluar konteks biologis normalnya</p>
+   <p align="left" style="font-size:20px"><mark>Penelitian terdahulu</mark>:<br/> 1. <b>Park <i>et al</i>. (2017)</b> berhasil mengisolasi PAM (cecropin like-peptide 1 atau CLP1) dari maggot,<br/> 2. Meta-analisis aditif antimikroba (tidak hanya PAM) telah dilaporkan oleh <b>Vanrolleghem <i>et al</i>. (2019) dan Xu <i>et al</i>. (2021)</b> pada ternak babi.</p>
+   <p align="left" style="font-size:20px"><mark>Kebaruan</mark>:<br/> 1. <b>Produk</b> plasmid pt7CFE1-CHis yang disisipi cDNA CLP1,<br/> 2. <b>Produk</b> ekstrak antikanker maggot<br/> 3. <b>Metodologi</b> pemetaan karakteristik PAM berdasarkan bobot molekul, sekuen asam amino, dan nilai konsentrasi hambat minimal,<br/> 4. <b>Metodologi</b> kajian komprehensif <i>in vivo</i> PAM dan rekomendasi level pengguanaannya.</p>
  </script>
 </section>
 
@@ -232,7 +222,6 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "materi-metode">
  <script>
- <!-- .slide: class="center" -->
  <h4><a href="#/daftar-isi">Materi dan Metode</a></h4>
  </script>
 </section>
@@ -240,10 +229,10 @@ category: [akademik]
 <section
  data-markdown
  data-transition="slide-in fade-out"
- id = "tahapan-dan-parameter-penelitian">
+ id = "parameter-penelitian">
  <script>
- <h4><a href="#/daftar-isi">Tahapan dan Parameter Penelitian</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-tahapan-dan-parameter-penelitian.svg", width=675px> <br>Tahapan dan parameter <mark>Kajian <i>In Silico</i> dan <i>In Vitro</i> Peptida Antimikroba pada Ayam Broiler dan Anak Babi</mark>.</p>
+ <h4><a href="#/daftar-isi">Parameter Penelitian</a></h4>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-parameter-penelitian.svg"; height="475px"> <br/>Parameter <mark>Kajian <i>In Silico</i> dan <i>In Vitro</i> Peptida Antimikroba pada Ayam Broiler dan Anak Babi</mark>.</p>
  </script>
 </section>
 
@@ -255,8 +244,9 @@ category: [akademik]
  <h4><a href="#/daftar-isi">Analisis Komponen Utama</a></h4>
  <div class="two-column">
    <div>
-     <br><p align="justify" style="font-size:30px">Mereduksi data dari multivariabel menjadi komponen utama yang lebih sederhana</a></p>
-     <p style="font-size:25px">Tujuan:<br> 1. Penyederhanaan data<br> 2. Ukuran statistik --> <mark>nilai eigen</mark><br> 3. Karakterisasi data --> <mark>grafik biplot</mark></p>
+     <br/><p align="justify" style="font-size:25px">Mereduksi data dari multivariabel menjadi komponen utama yang lebih sederhana</a></p>
+     <p style="font-size:25px">Tujuan:<br/> 1. Penyederhanaan data<br/> 2. Ukuran statistik &#x2192; <mark>nilai eigen</mark><br/> 3. Karakterisasi data &#x2192; <mark>grafik biplot</mark></p>
+     <p style="font-size:25px; color:orange"><b>Tambahan di sini</b></p>
   </div>
   <div>
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-aku.svg">
@@ -271,7 +261,7 @@ category: [akademik]
  id = "langkah-aku">
  <script>
  <h4><a href="#/daftar-isi">Analisis Komponen Utama</a></h4>
- <p style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-langkah-aku.svg", height=475px><br>Langkah tabulasi data dan nalisis menggunakan analisis komponen utama</p>
+ <p style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-langkah-aku.svg"; height="475px"><br/>Langkah tabulasi data dan analisis menggunakan analisis komponen utama</p>
  </script>
 </section>
 
@@ -283,8 +273,8 @@ category: [akademik]
  <h4><a href="#/daftar-isi">Meta-Analisis</a></h4>
  <div class="two-column">
    <div>
-     <br><p align="justify" style="font-size:30px">Kuantifikasi hasil-hasil penelitian agar kajian menjadi komprehensif. Adapun pemilahan literatur mengacu pada PRISMA-P (<a href="https://www.bmj.com/lookup/doi/10.1136/bmj.g7647">Shamseer et al. 2015</a>)</p>
-     <p style="font-size:25px; color:#b32400">1. Identifikasi<br> 2. Penyortiran<br> 3. Kelayakan<br> 4. Penyusunan data</p>
+     <br/><p align="justify" style="font-size:25px">Kuantifikasi hasil-hasil penelitian agar kajian menjadi komprehensif. Adapun pemilahan literatur mengacu pada PRISMA-P (<a href="https://www.bmj.com/lookup/doi/10.1136/bmj.g7647">Shamseer et al. 2015</a>)</p>
+     <p style="font-size:25px; color:#b32400">1. Identifikasi<br/> 2. Penyortiran<br/> 3. Kelayakan<br/> 4. Penyusunan data</p>
   </div>
   <div>
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-metal.svg">
@@ -301,8 +291,8 @@ category: [akademik]
  <h4><a href="#/daftar-isi">Sintesis <i>Cecropin Like-Peptide</i> 1 asal Maggot</a></h4>
  <div class="two-column">
    <div>
-     <p align="justify" style="font-size:30px">RNA diekstraksi dari maggot (<i>Hermitia illucens</i>)</p>
-     <p style="font-size:25px; color:#b32400"><b>Komplemen DNA CLP1</b>: 5’-GGT TGG CGG AAG AGG GTC TTC; 3’- TTA TCC TTG TTG TGG TGG TCC ACC TCG<br></p>
+     <p align="justify" style="font-size:25px">RNA diekstraksi dari maggot (<i>Hermitia illucens</i>)</p>
+     <p style="font-size:25px; color:#b32400"><b>Komplemen DNA CLP1</b>: 5’-GGT TGG CGG AAG AGG GTC TTC; 3’- TTA TCC TTG TTG TGG TGG TCC ACC TCG<br/></p>
      <p style="font-size:25px; color:#b32400"><b>T7</b>: 5’ – AAC GAC GGC CAG TGA ATT GTA ATA</p>
      <p style="font-size:25px; color:#b32400"><b>IRES (<i>internal ribosome entry site</i>)</b>: 5’ – ATG GGT GGT GGC CAT ATT ATC ATC</p>
      <p style="font-size:25px; color:#b32400"><b><i>His-tagged</i> (<i>internal ribosome entry site</i>)</b>: 5’ – ATG GTG ATG GTG ATG ATG</p>
@@ -320,7 +310,7 @@ category: [akademik]
  id = "ektraksi-rna">
  <script>
  <h4><a href="#/daftar-isi">Ekstraksi RNA asal Maggot</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-ekstraksi-rna.png", height=350px><br> Langkah ekstraksi RNA dari Maggot</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-ekstraksi-rna.png"; height="350px"><br/> Langkah ekstraksi RNA dari Maggot</p>
  </script>
 </section>
 
@@ -329,8 +319,8 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "pembuatan-fragmen-clp1">
  <script>
- <h4><a href="#/daftar-isi">Pembuatan Plasmid T7-IRES-Kozak-CLP1</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-pembuatan-fragmen-clp1.svg", height=450px><br> Langkah pembuatan plasmid T7-IRES-Kozak-CLP1</p>
+ <h4><a href="#/daftar-isi">Penyisipan cDNA CLP1 pada Plasmid pt7CFE1-CHis</a></h4>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-pembuatan-fragmen-clp1.svg"; height="450px"><br/> Langkah penyisipan cDNA CLP1 pada <i>multiple cloning site</i> (MSC) pada plasmid pt7CFE1-CHis</p>
  </script>
 </section>
 
@@ -340,7 +330,7 @@ category: [akademik]
  id = "antikanker">
  <script>
  <h4><a href="#/daftar-isi">Uji Antikanker</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-uji-antikanker.svg", height=475px><br> Ekstrak akuades dan etanol maggot, Sel kanker <b>MOLT4</b> (<a href="https://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia">leukemia limfoblastik akut</a>)<br>dan <b>K562</b> (<a href="https://en.wikipedia.org/wiki/Chronic_myelogenous_leukemia">leukemia myelogenous kronis</a>)</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-uji-antikanker.svg"; height="475px"><br/> Sel kanker <b>MOLT4</b> (<a href="https://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia">leukemia limfoblastik akut</a>)<br/>dan <b>K562</b> (<a href="https://en.wikipedia.org/wiki/Chronic_myelogenous_leukemia">leukemia myelogenous kronis</a>)</p>
  </script>
 </section>
 
@@ -350,7 +340,7 @@ category: [akademik]
  id = "langkah-antikanker">
  <script>
  <h4><a href="#/daftar-isi">Langkah Uji Antikanker</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-langkah-uji-antikanker.svg", height=450px><br> Langkah uji antikanker ekstrak etanol dan akuades dari maggot</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-langkah-uji-antikanker.svg"; height="450px"><br/> Langkah uji antikanker ekstrak etanol dan akuades dari maggot</p>
  </script>
 </section>
 
@@ -359,7 +349,6 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "hasil-pembahasan">
  <script>
- <!-- .slide: class="center" -->
  <h4><a href="#/daftar-isi">Hasil dan Pembahasan</a></h4>
  </script>
 </section>
@@ -367,10 +356,10 @@ category: [akademik]
 <section
  data-markdown
  data-transition="slide-in fade-out"
- id = "karakteristik-amp">
+ id = "karakteristik-pam">
  <script>
- <h4><a href="#/daftar-isi">Karakteristik AMP</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-biplot-amp.svg", height=450px><br>Kuadran: 1. Jenis lain (KHM gram+) 2. α-heliks dan glisin, 3. sistein (KHM khamir dan gram-), 4. prolin (KHM fungi), sifat AMP pada kuadran 1 dan 3 memiliki perbedaan yang kontras demikian pula dengan kuadran 2 dan 4</p>
+ <h4><a href="#/daftar-isi">Karakteristik PAM</a></h4>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-biplot-pam.svg"; height="475px"><br/>Kuadran: 1. Jenis lain (KHM gram+) 2. α-heliks dan glisin, 3. sistein (KHM khamir dan gram-), 4. prolin (KHM fungi), sifat PAM pada kuadran 1 dan 3 memiliki perbedaan yang kontras demikian pula dengan kuadran 2 dan 4</p>
  </script>
 </section>
 
@@ -380,7 +369,7 @@ category: [akademik]
  id = "peptida-clp1">
  <script>
  <h4><a href="#/daftar-isi">Peptida CLP1</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-peptida-clp1.svg", height=475px><br> Hasil pengujian SDS-page, dot blot, dan mikroskopi flourosensi dari A. Kontrol negatif<br>B. <i>Green fluorescent</i> protein C. Peptida CLP1</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-peptida-clp1.svg"; height="375px"><br/> Hasil pengujian SDS-page, dot blot, dan mikroskop flourosen dari A. Kontrol negatif<br/>B. <i>Green fluorescent</i> protein C. Peptida CLP1</p>
  </script>
 </section>
 
@@ -390,7 +379,7 @@ category: [akademik]
  id = "sds-page">
  <script>
  <h4><a href="#/daftar-isi">Hasil Pengujian Menggunakan SDS-Page</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-hasil-sds-page.png", height=475px><br> Hasil pengujian SDS-page, dot blot, dan mikroskopi flourosensi dari A. Kontrol negatif<br>B. <i>Green fluorescent</i> protein C. Peptida CLP1</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-hasil-sds-page.png"; height="375px"><br/> Hasil pengujian SDS-page, dot blot, dan mikroskop flourosen dari A. Kontrol negatif<br/>B. <i>Green fluorescent</i> protein C. Peptida CLP1</p>
  </script>
 </section>
 
@@ -400,7 +389,7 @@ category: [akademik]
  id = "antikanker-maggot">
  <script>
  <h4><a href="#/daftar-isi">Nilai IC50 Ekstrak Etanol dan Akuades dari Maggot</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-ic50.png", height=475px><br> Nilai IC50 dari ekstrak akuades dan etanol maggot, Sitotoksisititas dikelompokkan menjadi tiga yaitu sitotoksik potensial jika IC50 <100 μg mL<sup>-1</sup>, sitotoksik moderat jika 100 μg mL<sup>-1</sup> < IC50 < 1000 μg mL<sup>-1</sup> dan<br> tidak toksik jika IC50 >1000 μg mL <sup>-1</sup> (Yun <i>et al</i>. 2017).</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-ic50.png"; height="375px"><br/> Nilai IC50 dari ekstrak akuades dan etanol maggot, sitotoksisititas<br/> (i) sitotoksik potensial &#x2192; IC50 <100 μg mL<sup>-1</sup>,<br/> (ii) sitotoksik moderat &#x2192; 100 μg mL<sup>-1</sup> < IC50 < 1000 μg mL<sup>-1</sup> dan<br/> (iii) tidak toksik &#x2192; IC50 >1000 μg mL <sup>-1</sup> (Yun <i>et al</i>. 2017).</p>
  </script>
 </section>
 
@@ -410,7 +399,7 @@ category: [akademik]
  id = "meta-broiler-1">
  <script>
  <h4><a href="#/daftar-isi">Tabel Meta-Analisis: Performa Pertumbuhan Ayam Broiler</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-meta-broiler-01.png", height=475px><br> Berdasarkan tabel di atas pada fase starter dan finisher ayam broiler. Parameter performa pertumbuhan (bobot bada / BB, pertambahan bobot badan harian / PPBH, dan konversi pakan / FCR) nyata meningkat akibat penambahan AMP. Sedangkan, konsumsi pakan (KPH) tidak signifikan.</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-meta-broiler-01.png"; height="375px"><br/> Berdasarkan tabel di atas pada fase starter dan finisher ayam broiler. Parameter performa pertumbuhan (bobot bada / BB, pertambahan bobot badan harian / PPBH, dan konversi pakan / FCR) nyata meningkat akibat penambahan PAM. Sedangkan, konsumsi pakan (KPH) tidak signifikan.</p>
  </script>
 </section>
 
@@ -420,7 +409,7 @@ category: [akademik]
  id = "meta-broiler-2">
  <script>
  <h4><a href="#/daftar-isi">Tabel Meta-Analisis: Performa Pertumbuhan Ayam Broiler (lanjutan)</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-meta-broiler-02.png", height=250px><br> Berdasarkan tabel di atas pada total fase ayam broiler. Parameter performa pertumbuhan (bobot bada / BB, pertambahan bobot badan harian / PPBH, dan konversi pakan / FCR) nyata meningkat akibat penambahan AMP. Sedangkan, konsumsi pakan (KPH) tidak signifikan.</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-meta-broiler-02.png"; height="250px"><br/> Berdasarkan tabel di atas pada total fase ayam broiler. Parameter performa pertumbuhan (bobot bada / BB, pertambahan bobot badan harian / PPBH, dan konversi pakan / FCR) nyata meningkat akibat penambahan PAM. Sedangkan, konsumsi pakan (KPH) tidak signifikan.</p>
  </script>
 </section>
 
@@ -430,7 +419,7 @@ category: [akademik]
  id = "meta-babi-1">
  <script>
  <h4><a href="#/daftar-isi">Tabel Meta-Analisis: Performa Pertumbuhan Anak Babi</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-meta-babi-01.png", height=475px><br> Berdasarkan tabel di atas pada fase 1 dan 2 anak babi. Parameter performa pertumbuhan (bobot bada / BB, pertambahan bobot badan harian / PPBH, konsumsi pakan harian / KPH, dan konversi pakan / FCR) nyata meningkat akibat penambahan AMP. Sedangkan, konsumsi pakan (KPH) pada fase 2 tidak signifikan.</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-meta-babi-01.png"; height="375px"><br/> Berdasarkan tabel di atas pada fase 1 dan 2 anak babi. Parameter performa pertumbuhan (bobot bada / BB, pertambahan bobot badan harian / PPBH, konsumsi pakan harian / KPH, dan konversi pakan / FCR) nyata meningkat akibat penambahan PAM. Sedangkan, konsumsi pakan (KPH) pada fase 2 tidak signifikan.</p>
  </script>
 </section>
 
@@ -440,27 +429,37 @@ category: [akademik]
  id = "meta-babi-2">
  <script>
  <h4><a href="#/daftar-isi">Tabel Meta-Analisis: Performa Pertumbuhan Anak Babi (lanjutan)</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-meta-babi-02.png", height=250px><br> Berdasarkan tabel di atas pada total fase anak babi. Parameter bobot bada / BB nyata meningkat akibat penambahan AMP. Sedangkan, parameter lain tidak signifikan.</p>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-meta-babi-02.png"; height="250px"><br/> Berdasarkan tabel di atas pada total fase anak babi. Parameter bobot bada / BB nyata meningkat akibat penambahan PAM. Sedangkan, parameter lain tidak signifikan.</p>
  </script>
 </section>
 
 <section
  data-markdown
  data-transition="slide-in fade-out"
- id = "mekanisme-amp-invivo">
+ id = "mekanisme-pam-bakteri">
  <script>
- <h4><a href="#/daftar-isi">Mekanisme Kerja AMP dalam Meningkatkan Perfoma Pertumbuhan</a></h4>
- <p align="justify" style="font-size:25px"><mark>Menyebabkan:</mark><br> 1. AMP mengeliminasi bakteri patogen yang menutupi dinding usus halus sehingga poliferasi bakteri asam laktat meningkat,<br> 2. AMP memperbaiki status imunitas lumen usus dengan menginduksi pembentukan senyawa imunostimulan,<br> 3. ekosistem saluran cerna yang seimbang menyebabkan peningkatan perkembangan morfologi vilus usus.<br> <mark>Dampak:</mark><br> 1. Rasio vilus terhadap kedalaman kripta meningkat,<br> 2. memperluas luas bidang penyerapan,<br> 3. penyerapan nutrien lebih banyak dan efisien, dan<br> 4. meningkatkan performa pertumbuhan.</p>
+ <h4><a href="#/daftar-isi">Mekanisme Kerja PAM terhadap Bakteri Patogen</a></h4>
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-mekanisme-pam-bakteri.png"; height="375px"><br/> Model pengahambatan peptida antimikroba (A) <mark>perusakan dinding sel</mark>, (B) <mark>pengikatan nutrien dan mineral</mark>, (C) <mark>perusakan transkripsi DNA</mark>, (D) <mark>penghambatan translasi RNA</mark>, (E) <mark>penghambatan fungsi ribosom</mark> dalam sintesis protein, dan (F) <mark>pemblokiran protein chaperone</mark>, protein ini diperlukan untuk melipat protein dengan benar, (G) <mark>penghambatan respirasi seluler dan induksi pembentukan ROS</mark> dan kerusakan integritas membran sel mitokondria dan kegagalan pembentukan ATP dan NADH (modifikasi Hao Xiao <i>et al</i>. 2015)</p>
  </script>
 </section>
 
 <section
  data-markdown
  data-transition="slide-in fade-out"
- id = "mekanisme-amp-bakteri">
+ id = "mekanisme-pam-invivo">
  <script>
- <h4><a href="#/daftar-isi">Mekanisme Kerja AMP terhadap Bakteri Patogen</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-mekanisme-amp-bakteri.png", height=475px><br> Model pengahambatan peptida antimikroba (A) <mark>perusakan dinding sel</mark>, (B) <mark>pengikatan nutrien dan mineral</mark>, (C) <mark>perusakan transkripsi DNA</mark>, (D) <mark>penghambatan translasi RNA</mark>, (E) <mark>penghambatan fungsi ribosom</mark> dalam sintesis protein, dan (F) <mark>pemblokiran protein chaperone</mark>, protein ini diperlukan untuk melipat protein dengan benar, (G) <mark>penghambatan respirasi seluler dan induksi pembentukan ROS</mark> dan kerusakan integritas membran sel mitokondria dan kegagalan pembentukan ATP dan NADH (modifikasi Hao Xiao <i>et al</i>. 2015)</p>
+ <h4><a href="#/daftar-isi">Mekanisme Kerja PAM dalam Meningkatkan Perfoma Pertumbuhan</a></h4>
+ <p align="justify" style="font-size:25px"><mark>Menyebabkan:</mark><br/> 1. PAM mengeliminasi bakteri patogen yang menutupi dinding usus halus sehingga poliferasi bakteri asam laktat meningkat,<br/> 2. PAM memperbaiki status imunitas lumen usus dengan menginduksi pembentukan senyawa imunostimulan,<br/> 3. ekosistem saluran cerna yang seimbang menyebabkan peningkatan perkembangan morfologi vilus usus.<br/><br/> <mark>Dampak:</mark><br/> 1. Rasio vilus terhadap kedalaman kripta meningkat,<br/> 2. memperluas bidang penyerapan,<br/> 3. penyerapan nutrien lebih banyak dan efisien, dan<br/> 4. meningkatkan performa pertumbuhan.</p>
+ </script>
+</section>
+
+<section
+ data-markdown
+ data-transition="slide-in fade-out"
+ id = "diagram-mekanisme-pam-invivo">
+ <script>
+ <small><a href="#/daftar-isi">Diagram Mekanisme Kerja PAM dalam Meningkatkan Perfoma Pertumbuhan</a></small>
+ <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-mekanisme-pam-invivo.svg"; width="875px">
  </script>
 </section>
 
@@ -469,7 +468,6 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "simpulan">
  <script>
- <!-- .slide: class="center" -->
  <h4><a href="#/daftar-isi">Simpulan</a></h4>
  </script>
 </section>
@@ -479,9 +477,8 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "simpulan-penelitian">
  <script>
- <!-- .slide: class="center" -->
  <h4><a href="#/daftar-isi">Simpulan</a></h4>
- <p align="justify" style="font-size:25px">1. Ayam broiler dan anak babi dapat dipicu performa pertumbuhannya menggunakan peptida antimikroba<br> 2. Level optimal peptida antimikroba pada <b style="color:#b32400">ayam broiler adalah 337 dan 359 mg Kg<sup>-1</sup></b> masing-masing pada fase starter dan finisher secara berurutan. Level optimal untuk <b style="color:#b32400">anak babi yaitu, 213 dan 221 mg Kg<sup>-1</sup></b> masing-masing pada fase 1 dan 2 secara berurutan.<br> 3. Nilai IC50 ekstrak etanol maggot adalah 203.76 dan 246.2 μg mL<sup>-1</sup></b> masing-masing pada sel leukimia MOLT4 dan K562 secara berurutan.</p>
+ <p align="justify" style="font-size:25px">1. Ayam broiler dan anak babi dapat dipicu performa pertumbuhannya menggunakan peptida antimikroba<br/> 2. Level optimal peptida antimikroba pada <b style="color:#b32400">ayam broiler adalah 337 dan 359 mg Kg<sup>-1</sup></b> masing-masing pada fase starter dan finisher secara berurutan. Level optimal untuk <b style="color:#b32400">anak babi yaitu, 213 dan 221 mg Kg<sup>-1</sup></b> masing-masing pada fase 1 dan 2 secara berurutan.<br/> 3. Nilai IC50 ekstrak etanol maggot adalah 203.76 dan 246.2 μg mL<sup>-1</sup></b> masing-masing pada sel leukimia MOLT4 dan K562 secara berurutan.</p>
  </script>
 </section>
 
@@ -490,7 +487,6 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "publikasi">
  <script>
- <!-- .slide: class="center" -->
  <h4><a href="#/daftar-isi">Publikasi</a></h4>
  </script>
 </section>
@@ -500,16 +496,15 @@ category: [akademik]
 	data-transition="slide-in fade-out"
 	id = "publikasi-penelitian">
 	<script>
-		<h4><a href="#/daftar-isi">Publikasi</a></h4>
+	<h4><a href="#/daftar-isi">Publikasi</a></h4>
 
-		|<small>No.</small>|<small>Publikasi</small>|<small>Jenis</small>|<small>Status</small>|
-		|:----------------|:--------|:---:|-----:|
-		|<small>1.</small>|<small>A meta-analysis antimicrobial peptide effects on intestinal bacteria, immune response and antioxidant activity of broilers</small>|<small>TASJ (Q2)</small>|<small>diterima</small>|
-		|<small>2.</small>|<small>A meta-analysis of the effect of antimicrobial peptide purity on the growth performance, dry matter digestibility, and  intestinal morphology of broiler</small>|<small>AAVS (Q3)</small>|<small>revisi</small>|
-		|<small>3.</small>|<small>Evaluation of linear models and linear mixed models to predict the effects of antimicrobial peptides on broiler performance</small>|<small>iop</small>|<small><a href="https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012002">terbit</a></small>|
-		|<small>4.</small>|<small>The effect of antimicrobial peptide on growth performance, digestibility, small intestine morphology, and serum metabolites of broiler: A meta-analysis</small>|<small>AB (Q1)</small>|<small>submit</small>|
-		||||
-  
+	|<small>No.</small>|<small>Publikasi</small>|<small>Jenis</small>|<small>Status</small>|
+	|:----------------|:--------|:---:|-----:|
+	|<small>1.</small>|<small>A meta-analysis antimicrobial peptide effects on intestinal bacteria, immune response and antioxidant activity of broilers</small>|<small>TASJ (Q2)</small>|<small>diterima</small>|
+	|<small>2.</small>|<small>A meta-analysis of the effect of antimicrobial peptide purity on the growth performance, dry matter digestibility, and  intestinal morphology of broiler</small>|<small>AAVS (Q3)</small>|<small>revisi</small>|
+	|<small>3.</small>|<small>Evaluation of linear models and linear mixed models to predict the effects of antimicrobial peptides on broiler performance</small>|<small>iop</small>|<small><a href="https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012002">terbit</a></small>|
+	|<small>4.</small>|<small>The effect of antimicrobial peptide on growth performance, digestibility, small intestine morphology, and serum metabolites of broiler: A meta-analysis</small>|<small>AB (Q1)</small>|<small>submit</small>|
+	||||
 	</script>
 </section>
 
@@ -518,7 +513,6 @@ category: [akademik]
  data-transition="zoom"
  id = "sampul-belakang">
  <script>
- <!-- .slide: class="center" -->
  <small>Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)</small>
  <br/><small><small>Kembali ke <a href="#/sampul">sampul</a> atau <a href="#/daftar-isi">daftar isi</a></small></small>
  </p>
