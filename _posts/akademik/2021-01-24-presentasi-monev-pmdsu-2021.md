@@ -107,7 +107,7 @@ id = "publikasi_lain2">
 |:----------------|:--------|:---:|-----:|
 |<small>9.</small>|<small><b>Dr. Tri R. Prihambodo (Pascasarjana IPB)</b>; Effects of dietary flavonoids on performance, blood constituents, carcass composition and small intestinal morphology of broilers: A meta-analysis</small>|<small>AB (Q1)</small>|<small><a href="https://www.ajas.info/journal/view.php?number=24585">terbit</a></small>|
 |<small>10.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; Effect of dietary black cumin seed (Nigella sativa) on performance, immune status, and serum metabolites of small ruminants: A meta-analysis</small>|<small>SRR (Q2)</small>|<small>submit</small>|
-|<small>11.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; Effect of dietary propolis supplementation on broiler chickens performance, nutrient digestibility, and carcass characteristics: A meta-analysis</small>|<small>TASJ (Q2)</small>|<small>revisi</small>|
+|<small>11.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; Effect of dietary propolis supplementation on broiler chickens performance, nutrient digestibility, and carcass characteristics: A meta-analysis</small>|<small>TASJ (Q2)</small>|<small>diterima</small>|
 |<small>12.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; Effect of dietary propolis supplementation on growth performance, intestinal morphology, antiviral immune response, and bacterial population of broiler chickens: a meta-analysis</small>|<small>BPS (Q2)</small>|<small>submit</small>|
 ||||
 </p>
