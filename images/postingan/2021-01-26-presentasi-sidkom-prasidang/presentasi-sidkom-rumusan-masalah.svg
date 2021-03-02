@@ -52,7 +52,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1389683"
-     inkscape:cx="566.92913"
+     inkscape:cx="737.78547"
      inkscape:cy="396.85039"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
@@ -79,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -556,13 +556,13 @@
          font-size="14.00"
          y="-258.79999"
          x="337"
-         style="font-size:14px;font-family:Times, serif;text-anchor:middle">pembuatan</text>
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">penyisipan pada plasmid</text>
       <text
          id="text193"
          font-size="14.00"
          y="-243.8"
          x="337"
-         style="font-size:14px;font-family:Times, serif;text-anchor:middle">fragmen T7-IRES-Kozak</text>
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">pT7CFE-CHis</text>
     </g>
     <g
        class="edge"

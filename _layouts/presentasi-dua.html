@@ -35,6 +35,19 @@
       link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/assets/js/reveal.js/css/print/pdf.css" | prepend: site.github.url }}' : '{{ "/assets/js/reveal.js/css/print/paper.css" | prepend: site.github.url }}';
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
+    <!-- Math JS -->
+    <script src="{{ "/assets/js/reveal.js/plugin/math/math.js" | prepend: site.github.url }}"></script>
+    <script>
+      Reveal.initialize({
+        math: {
+          mathjax: '{{ '/assets/js/reveal.js/plugin/math/MathJax.js' | prepend: site.github.url }}',
+          config: 'TeX-AMS_HTML-full',
+          // pass other options into `MathJax.Hub.Config()`
+          TeX: { Macros: { RR: "{\\bf R}" } }
+        },
+        plugins: [ RevealMath ]
+      });
+    </script>
 		<!-- Icon -->
     <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.github.url }}" />
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.github.url }}">
