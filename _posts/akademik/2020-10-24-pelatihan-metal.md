@@ -23,7 +23,7 @@ Tutorial ini dibuat untuk pengenalan dan penggunaan R sebagai alat meta-analisis
 <b>Langkah 2.</b> Lakukan instalasi pada umumnya (pergi ke folder download -> klik dua kali file instaler -> ikuti petunjuk).
 {: #satudua}
 
-   ![cara install]({{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/cara-install-r-windows.gif)
+   ![cara install]({{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-cara-install-r-windows.gif)
 
 <b>Langkah 3.</b> Kalau udah kelar coba cari di start menu ketikan **R** atau cari saja _scrolling_.
 
@@ -37,7 +37,7 @@ Tutorial ini dibuat untuk pengenalan dan penggunaan R sebagai alat meta-analisis
 ## Install <i>packages</i> yang dibutuhkan buat metal (langkah ini bisa dilewati)
 <b>Langkah 1.</b> Lihat dulu tampilan program R nya.
 
-   ![r interface 1]({{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/rconsole-1.png)
+   ![r interface 1]({{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-rconsole-1.png)
 
    ini tanda klo R console siap diberikan perintah.
    ```
@@ -69,9 +69,9 @@ Tutorial ini dibuat untuk pengenalan dan penggunaan R sebagai alat meta-analisis
 ## Menjalankan R script untuk meta-analisis
 <b>Langkah 1.</b> Pastikan R nya udah jalan, abis itu ganti diriektorinya dengan cara kilk File -> Change dir.... -> (cari lokasi tadi ekstrak filenya) -> klik ok
 
-   ![r interface 2]({{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/rconsole-2.png)
+   ![r interface 2]({{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-rconsole-2.png)
 
-   ![r interface 3]({{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/rconsole-3.png)
+   ![r interface 3]({{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-rconsole-3.png)
 
    <b>Langkah 2.</b> Untuk memastikan saja, ketikan perintah berikut di R console.
    
@@ -100,11 +100,11 @@ Klo tampilannya yang penting tuh ada dua: satu, **R console** buat eksekusi kode
    
    __ini R console__
 
-   ![r interface 4]({{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/rconsole-4.png)
+   ![r interface 4]({{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-rconsole-4.png)
    
    __ini R script__
    
-   ![r interface 5]({{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/rscript.png)
+   ![r interface 5]({{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-rscript.png)
 
 
 ## Daftar pustaka

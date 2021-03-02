@@ -77,7 +77,7 @@ category: [akademik]
  <h4><a href="#/daftar-isi">Latar belakang</a></h4>
  <div class="two-column">
   <div>
-   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-permasalahan.svg">
+   <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-permasalahan.svg">
   </div>
   <div>
    <br/><p align="justify" style="font-size:25px">Avilamycin, Bacitracin, Enramycin, Flavomycin, Halquinol, Lincomycin, Narasin, Salinomycin, Tiamulin, Tylosin, Virginiamycin, dan Adapted <a href="https://www.pubvet.com.br/uploads/564b4cc69fbde87e053e3ae1b6d1f29b.pdf">(Cardinal 2020)</a></p>
@@ -95,7 +95,7 @@ category: [akademik]
  <h4><a href="#/daftar-isi">Ketergantungan</a></h4>
  <div class="two-column">
   <div>
-   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-ketergantungan.svg">
+   <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-ketergantungan.svg">
   </div>
   <div>
    <br/><p align="justify" style="font-size:25px">Lalu apa yang menyebabkan peternak bergantung dengan AIP?</a></p>
@@ -111,7 +111,7 @@ category: [akademik]
  id = "ruang-lingkup">
  <script>
  <h4><a href="#/daftar-isi">Ruang lingkup</a></h4>
- <p style="font-size:25px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-ruang-lingkup.svg", height="275px"><br/> Skema dan ruang lingkup penelitian</p>
+ <p style="font-size:25px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-ruang-lingkup.svg", height="275px"><br/> Skema dan ruang lingkup penelitian</p>
  </script>
 </section>
 
@@ -136,7 +136,7 @@ category: [akademik]
      <p style="font-size:25px; color:#b32400">1. Data dari multivariabel<br/> 2. Komponen utama<br/> 3. Nilai eigen >1<br/> 4. Grafik biplot</p>
   </div>
   <div>
-   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-aku.svg">
+   <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-aku.svg">
   </div>
  </div>
  </script>
@@ -154,7 +154,7 @@ category: [akademik]
      <p style="font-size:25px; color:#b32400">1. Identifikasi<br/> 2. Penyortiran<br/> 3. Kelayakan<br/> 4. Penyusunan data</p>
   </div>
   <div>
-   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-metal.svg">
+   <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-metal.svg">
   </div>
  </div>
  </script>
@@ -166,7 +166,7 @@ category: [akademik]
  id = "clp1">
  <script>
  <h4><a href="#/daftar-isi"><i>Cecropin like-peptide</i> 1</a></h4>
- <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-pembuatan-clp1.svg"; height="375px">
+ <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-penyisipan-clp1.svg"; height="375px">
  <br/><p align="center" style="font-size:25px">RNA diekstraksi dari maggot (<i>Hermitia illucens</i>)
  <br/><b>CLP1</b>: 5’-GGT TGG CGG AAG AGG GTC TTC;<br/><b>CLP1</b>: 3’- TTA TCC TTG TTG TGG TGG TCC ACC TCG;<br/></p>
  </script>
@@ -178,7 +178,7 @@ category: [akademik]
  id = "antikanker">
  <script>
  <h4><a href="#/daftar-isi">Antikanker</a></h4>
- <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-uji-antikanker.svg"; height="375px">
+ <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-uji-antikanker.svg"; height="375px">
  <br/><p align="center" style="font-size:25px;">Ekstrak akuades dan etanol maggot
  <br/>Sel kanker <b>MOLT4</b> (<a href="https://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia">leukemia limfoblastik akut</a>) dan<br/><b>K562</b> (<a href="https://en.wikipedia.org/wiki/Chronic_myelogenous_leukemia">leukemia myelogenous kronis</a>)</p>
  </script>
@@ -200,7 +200,7 @@ category: [akademik]
  <script>
  <h4><a href="#/daftar-isi">Karakteristik PAM</a></h4>
  <div>
-   <p align="center" style="font-size:25px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-biplot-pam.svg", height="475px"><br/> Kuadran: 1. Jenis lain (KHM gram+) 2. α-heliks dan glisin 3. sistein (KHM khamir<br/> dan gram-) 4. prolin (KHM fungi)</p>
+   <p align="center" style="font-size:25px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-biplot-pam.svg", height="475px"><br/> Kuadran: 1. Jenis lain (KHM gram+) 2. α-heliks dan glisin 3. sistein (KHM khamir<br/> dan gram-) 4. prolin (KHM fungi)</p>
  </div>
  </script>
 </section>
@@ -213,7 +213,7 @@ category: [akademik]
  <h4><a href="#/daftar-isi">Peptida CLP1</a></h4>
  <div class="one-half-column">
   <div>
-   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-peptida-clp1.svg">
+   <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-peptida-clp1.svg">
   </div>
   <div>
      <br/><p style="font-size:25px;">Perlakuan</p>
@@ -231,7 +231,7 @@ category: [akademik]
  <h4><a href="#/daftar-isi">Antikanker dari maggot</a></h4>
  <div class="one-half-column">
   <div>
-   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-ic50.png", height="475px">
+   <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-ic50.svg", height="475px">
   </div>
   <div>
      <br/><p style="font-size:25px;">IC50</p>
@@ -247,7 +247,7 @@ category: [akademik]
  id = "meta-broiler-1">
  <script>
  <h4><a href="#/daftar-isi">Meta-analisis ayam broiler</a></h4>
- <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-meta-broiler-01.png">
+ <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-broiler-1.svg">
  </script>
 </section>
 
@@ -257,7 +257,7 @@ category: [akademik]
  id = "meta-broiler-2">
  <script>
  <h4><a href="#/daftar-isi">Meta-analisis ayam broiler</a></h4>
- <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-meta-broiler-02.png">
+ <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-broiler-2.svg">
  </script>
 </section>
 
@@ -267,7 +267,7 @@ category: [akademik]
  id = "meta-babi-1">
  <script>
  <h4><a href="#/daftar-isi">Meta-analisis anak babi</a></h4>
- <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-meta-babi-01.png">
+ <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-babi-1.svg">
  </script>
 </section>
 
@@ -277,7 +277,7 @@ category: [akademik]
  id = "meta-babi-2">
  <script>
  <h4><a href="#/daftar-isi">Meta-analisis anak babi</a></h4>
- <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-meta-babi-02.png">
+ <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-babi-2.svg">
  </script>
 </section>
 

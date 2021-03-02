@@ -34,7 +34,7 @@ _site/*
 *.zip
 
 
-##### Basisdata #####
+##### Basis data #####
 *.log
 *.sql
 *.sqlite

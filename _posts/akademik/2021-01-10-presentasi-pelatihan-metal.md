@@ -23,13 +23,13 @@ category: [akademik, rumah]
 <section data-markdown
  data-transition="zoom">
  <script> 
- <img src="{{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/rober-gentleman.jpg"; height=150px>
- <img src="{{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/ross-Ihaka.jpg"; height=150px>
+ <img src="{{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-rober-gentleman.jpg"; height=150px>
+ <img src="{{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-ross-Ihaka.jpg"; height=150px>
 
  --[rober-gentleman](https://mathgenealogy.org/id.php?id=26386)--
  --[ross-Ihaka](https://en.wikipedia.org/wiki/Ross_Ihaka)--
 
- <img src="{{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/rlogo.svg"; height=85px>
+ <img src="{{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-rlogo.svg"; height=85px>
 
  https://cran.r-project.org/
  
@@ -40,7 +40,7 @@ category: [akademik, rumah]
 <section data-markdown
   data-transition="zoom">
   <script>
-  <img src="{{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/presentasi-metal-1.svg"; height=575px>
+  <img src="{{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-metal-1.svg"; height=575px>
   </script>
 </section>
 
@@ -48,7 +48,7 @@ category: [akademik, rumah]
  data-transition="zoom">
  <script>
  <h4><a href="#/sampul">Apa itu __Metal__ (Meta-Analisis)?</a></h4>
- <img src="{{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/presentasi-metal-2.svg"; height=475px>
+ <img src="{{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-metal-2.svg"; height=475px>
  </script>
 </section>
 
@@ -56,7 +56,7 @@ category: [akademik, rumah]
  data-transition="zoom">
  <script>
  <h4><a href="#/sampul">Penentuan dan Pecarian Topik Metal</a></h4>
- <img src="{{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/presentasi-metal-3.svg"; height=475px>
+ <img src="{{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-metal-3.svg"; height=475px>
  </script>
 </section>
 
@@ -64,7 +64,7 @@ category: [akademik, rumah]
  data-transition="zoom">
  <script>
  <h4><a href="#/sampul">PRISMA dan Metal</a></h4>
- <img src="{{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/presentasi-metal-4.svg"; height=475px>
+ <img src="{{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-metal-4.svg"; height=475px>
  </script>
 </section>
 
@@ -72,7 +72,7 @@ category: [akademik, rumah]
  data-transition="zoom">
  <script>
  <h4><a href="#/sampul">Penyususnan Data dan Analisis dengan R</a></h4>
- <img src="{{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/presentasi-metal-5.svg"; height=475px>
+ <img src="{{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-metal-5.svg"; height=475px>
  </script>
 </section>
 
@@ -83,7 +83,7 @@ category: [akademik, rumah]
  <p style="text-align:justify; font-size:20px"><b>Langkah 1.</b> Download di <a href="https://cran.r-project.org/bin/windows/base/R-4.0.2-win.exe"><b>sini</b></a> atau pergi kelaman <a href="https://cran.r-project.org/bin/windows/base/"><b>ini</b></a>. (<b>NB: file rada gede gan 80an MB</b>)
  <br/><b>Langkah 2.</b> Lakukan instalasi pada umumnya (pergi ke folder download -> klik dua kali file instaler -> ikuti petunjuk).
  <br/><b>Langkah 3.</b> Kalau udah kelar coba cari di start menu ketikan <b>R</b> atau cari saja <i>scrolling</i>.</p>
- <center><img src="{{ site.github.url }}/images/postingan/2021-01-10-presentasi-pelatihan-metal/cara-install-r-windows.gif"; height=375px></center>
+ <center><img src="{{ site.github.url }}/images/postingan/2021-01-10-pelatihan-metal/pelatihan-metal-cara-install-r-windows.gif"; height=375px></center>
 </script>
 </section>
 

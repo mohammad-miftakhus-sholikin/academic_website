@@ -18,7 +18,7 @@ category: [akademik, rumah]
   id = sampul>
   <script>
   <h4><a href = "{{ site.github.url }}/laman/akademik/">The Pattern of Association of Amino Acids from Insect Antimicrobial Peptides with Antimicrobial Activity: The PCA Approach</a></h4>
-  <img src="{{ site.github.url }}/images/postingan/2020-04-21-presentasi-peptida-antimikroba.svg"; height="375">
+  <img src="{{ site.github.url }}/images/postingan/2020-04-21-peptida-antimikroba.svg"; height="375">
   </script>
 </section>
 

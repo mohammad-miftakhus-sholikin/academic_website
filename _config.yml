@@ -1,7 +1,7 @@
 ##### Profil #####
 owner:
   name: "Mohammad Miftakhus Sholikin"
-  avatar: /pengaturan/bio-photo.jpg
+  avatar: /pengaturan/biography-photo.jpg
   bio: "Adeg-adeg anteb."
   email: mohammadmiftakhussholikin@gmail.com
   github: mohammad-miftakhus-sholikin
@@ -37,7 +37,7 @@ owner:
 ##### Konfigurasi logo #####
 title: Sholikin
 locale: en_US
-logo: /pengaturan/logo.svg
+logo: /pengaturan/logo-icon.svg
 
 
 ##### Konfigurasi warna dasar lainnya ada di _sass/variables.scss #####
