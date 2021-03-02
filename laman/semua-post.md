@@ -19,7 +19,7 @@ excerpt: "Semua Post dari Penulis"
 {% endfor %}
 
 {% for tag in site.tags %}
-  <h4>Semua tulisan yang bertag <mark>{{ tag[0] }}</mark></h4>
+  <h4>Semua tulisan yang ber<i>tag</i> <mark>{{ tag[0] }}</mark></h4>
   <ul>
     {% for post in tag[1] %}
       <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
