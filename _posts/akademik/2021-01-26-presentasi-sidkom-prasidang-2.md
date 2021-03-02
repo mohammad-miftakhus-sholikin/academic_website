@@ -176,11 +176,11 @@ category: [akademik]
  <h4><a href="#/daftar-isi">Keunggulan PAM</a></h4>
  <div class="two-column">
    <div>
-   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-keunggulan-pam.svg"; height="345px">
+   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-keunggulan-pam.svg"; height="275px">
   </div>
   <div>
    <p align="justify" style="font-size:25px">Keunggulan PAM (Hao Xiao <i>et al</i>. 2015).</p>
-   <p align="justify" style="font-size:25px">1. Tidak menimbulkan residu<br/> 2. Antimikroba spektrum luas<br/> 3. Bersifat antikanker<br/> 4. Menurunkan konversi pakan<br/> 5. Meningkatkan bobot potong<br/> 6. Memperbaiki morfologi usus halus</p>
+   <p align="justify" style="font-size:20px">1. Tidak menimbulkan residu<br/> 2. Antimikroba spektrum luas<br/> 3. Bersifat antikanker<br/> 4. Menurunkan konversi pakan<br/> 5. Meningkatkan bobot potong<br/> 6. Memperbaiki morfologi usus halus</p>
   </div>
  </div>
  </script>
@@ -272,7 +272,7 @@ category: [akademik]
  <h4><a href="#/daftar-isi">Meta-Analisis</a></h4>
  <div class="two-column">
    <div>
-     <br/><p align="justify" style="font-size:25px">Kuantifikasi hasil-hasil penelitian agar kajian menjadi komprehensif. Adapun pemilahan literatur mengacu pada PRISMA-P (<a href="https://www.bmj.com/lookup/doi/10.1136/bmj.g7647">Shamseer et al. 2015</a>)</p>
+     <p align="justify" style="font-size:25px">Kuantifikasi hasil-hasil penelitian agar kajian menjadi komprehensif. Adapun pemilahan literatur mengacu pada PRISMA-P (<a href="https://www.bmj.com/lookup/doi/10.1136/bmj.g7647">Shamseer et al. 2015</a>)</p>
      <p style="font-size:25px; color:#b32400">1. Identifikasi<br/> 2. Penyortiran<br/> 3. Kelayakan<br/> 4. Penyusunan data</p>
   </div>
   <div>
@@ -288,15 +288,7 @@ category: [akademik]
  id = "langkah-meta-analisis">
  <script>
  <h4><a href="#/daftar-isi">Langkah Meta-Analisis</a></h4>
- <div class="two-column">
-   <div>
-     <br/><p align="justify" style="font-size:25px">Kuantifikasi hasil-hasil penelitian agar kajian menjadi komprehensif. Adapun pemilahan literatur mengacu pada PRISMA-P (<a href="https://www.bmj.com/lookup/doi/10.1136/bmj.g7647">Shamseer et al. 2015</a>)</p>
-     <p style="font-size:25px; color:#b32400">1. Identifikasi<br/> 2. Penyortiran<br/> 3. Kelayakan<br/> 4. Penyusunan data</p>
-  </div>
-  <div>
-   <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-langkah-metal.svg"; height="475px">
-  </div>
- </div>
+ <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-langkah-metal.svg"; height="475px"><br/> Langkah pemilihan literatur yang dipergunakan dalam meta-analisis<br/> pengaruh PAM terhadap performa ayam broiler dan anak babi</p>
  </script>
 </section>
 
@@ -376,7 +368,7 @@ category: [akademik]
  id = "karakteristik-pam">
  <script>
  <h4><a href="#/daftar-isi">Karakteristik PAM</a></h4>
- <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-biplot-pam.svg"; height="475px"><br/>Kuadran: 1. Jenis lain (KHM gram+) 2. α-heliks dan glisin, 3. sistein (KHM khamir dan gram-), 4. prolin (KHM fungi), sifat PAM pada kuadran 1 dan 3 memiliki perbedaan yang kontras demikian pula dengan kuadran 2 dan 4</p>
+ <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-biplot-pam.svg"; height="475px"><br/>Kuadran: 1. Jenis lain (KHM gram+) 2. α-heliks dan glisin, 3. sistein (KHM khamir dan gram-),<br/> 4. prolin (KHM fungi), sifat PAM pada kuadran 1 dan 3 memiliki perbedaan yang kontras<br/> demikian pula dengan kuadran 2 dan 4</p>
  </script>
 </section>
 
