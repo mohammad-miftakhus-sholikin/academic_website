@@ -192,7 +192,7 @@ category: [akademik]
  id = "tujuan">
  <script>
  <h4><a href="#/daftar-isi">Tujuan</a></h4>
- <p align="justify" style="font-size:25px"><mark>Tujuan umum</mark>: evaluasi PAM &#x2192; <i>in silico</i> dan <i>in vitro</i> &#x2192; performa pertumbuhan (ayam broiler dan anak babi).<br/><mark>Tujuan khusus</mark>:<br/> (i) karakteristik PAM,<br/> (ii) sintesis PAM (CLP1),<br/> (iii) ekstrak maggot sebagai antikanker,<br/> (iv) kajian komprehensif PAM (meta-analisis), dan<br/> (v) level optimal pemberiannya.</p>
+ <p align="left" style="font-size:24px"><mark>Tujuan umum</mark>: <br/>evaluasi PAM &#x2192; <i>in silico</i> dan <i>in vitro</i> &#x2192; performa pertumbuhan (ayam broiler dan anak babi). <br/><br/><mark>Tujuan khusus</mark>: <br/>i. karakteristik PAM, <br/>ii. sintesis PAM (CLP1), <br/>iii. ekstrak maggot sebagai antikanker, <br/>iv. kajian komprehensif PAM (meta-analisis), dan <br/>v. level optimal pemberiannya.
  </script>
 </section>
 
@@ -439,7 +439,45 @@ category: [akademik]
  id = "mekanisme-pam-bakteri">
  <script>
  <h4><a href="#/daftar-isi">Mekanisme Kerja PAM terhadap Bakteri Patogen</a></h4>
- <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-mekanisme-pam-bakteri.png"; height="375px"><br/> Model pengahambatan peptida antimikroba (A) <mark>perusakan dinding sel</mark>, (B) <mark>pengikatan nutrien dan mineral</mark>, (C) <mark>perusakan transkripsi DNA</mark>, (D) <mark>penghambatan translasi RNA</mark>, (E) <mark>penghambatan fungsi ribosom</mark> dalam sintesis protein, dan (F) <mark>pemblokiran protein chaperone</mark>, protein ini diperlukan untuk melipat protein dengan benar, (G) <mark>penghambatan respirasi seluler dan induksi pembentukan ROS</mark> dan kerusakan integritas membran sel mitokondria dan kegagalan pembentukan ATP dan NADH (modifikasi Hao Xiao <i>et al</i>. 2015)</p>
+ <div class="two-column">
+  <div>
+    <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-mekanisme-pam-bakteri.svg"; height="375px">
+  </div>
+  <div>
+    <p align="left" style="font-size:20px">Model pengahambatan peptida antimikroba</p>
+    <table style="width: 100%; border: 0px; font-size: 20px">
+    <tr>
+        <td>A.</td>
+        <td><mark>perusakan dinding sel</mark>,</td>
+    </tr>
+    <tr>
+        <td>B.</td>
+        <td><mark>pengikatan nutrien dan mineral</mark>,</td>
+    </tr>
+    <tr>
+        <td>C.</td>
+        <td><mark>perusakan transkripsi DNA</mark>,</td>
+    </tr>
+    <tr>
+        <td>D.</td>
+        <td><mark>penghambatan translasi RNA</mark>,</td>
+    </tr>
+    <tr>
+        <td>E.</td>
+        <td><mark>penghambatan fungsi ribosom</mark> dalam sintesis protein, dan</td>
+    </tr>
+    <tr>
+        <td>F.</td>
+        <td><mark>pemblokiran protein chaperone</mark>, protein ini diperlukan untuk melipat protein dengan benar,</td>
+    </tr>
+    <tr>
+        <td>G.</td>
+        <td><mark><mark>penghambatan respirasi seluler dan induksi pembentukan ROS</mark> dan kerusakan integritas membran sel mitokondria dan kegagalan pembentukan ATP dan NADH (modifikasi Hao Xiao <i>et al</i>. 2015)</td>
+    </tr>
+    <tr></tr>
+    </table>
+  </div>
+ </div>
  </script>
 </section>
 
@@ -448,8 +486,46 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "mekanisme-pam-invivo">
  <script>
- <h4><a href="#/daftar-isi">Mekanisme Kerja PAM dalam Meningkatkan Perfoma Pertumbuhan</a></h4>
- <p align="justify" style="font-size:25px"><mark>Menyebabkan:</mark><br/> 1. PAM mengeliminasi bakteri patogen yang menutupi dinding usus halus sehingga poliferasi bakteri asam laktat meningkat,<br/> 2. PAM memperbaiki status imunitas lumen usus dengan menginduksi pembentukan senyawa imunostimulan,<br/> 3. ekosistem saluran cerna yang seimbang menyebabkan peningkatan perkembangan morfologi vilus usus.<br/><br/> <mark>Dampak:</mark><br/> 1. Rasio vilus terhadap kedalaman kripta meningkat,<br/> 2. memperluas bidang penyerapan,<br/> 3. penyerapan nutrien lebih banyak dan efisien, dan<br/> 4. meningkatkan performa pertumbuhan.</p>
+  <h4><a href="#/daftar-isi">Mekanisme Kerja PAM dalam Meningkatkan Perfoma Pertumbuhan</a></h4>
+  <table style="width: 100%; border: 0px; font-size: 25px">
+    <tr>
+        <td></td>
+        <td><mark>Menyebabkan:</mark></td>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>PAM mengeliminasi bakteri patogen yang menutupi dinding usus halus sehingga poliferasi bakteri asam laktat meningkat,</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>PAM memperbaiki status imunitas lumen usus dengan menginduksi pembentukan senyawa imunostimulan,</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>ekosistem saluran cerna yang seimbang menyebabkan peningkatan perkembangan morfologi vilus usus.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><br/><mark>Dampak:</mark></td>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>Rasio vilus terhadap kedalaman kripta meningkat,</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>memperluas bidang penyerapan,</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>penyerapan nutrien lebih banyak dan efisien, dan</td>
+    </tr>
+    <tr>
+        <td>4.</td>
+        <td>meningkatkan performa pertumbuhan.</td>
+    </tr>
+    <tr></tr>
+  </table>
  </script>
 </section>
 
@@ -459,7 +535,7 @@ category: [akademik]
  id = "diagram-mekanisme-pam-invivo">
  <script>
  <small><a href="#/daftar-isi">Diagram Mekanisme Kerja PAM dalam Meningkatkan Perfoma Pertumbuhan</a></small>
- <img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-mekanisme-pam-invivo.svg"; width="875px">
+ <p align="center" style="font-size:18px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-presentasi-sidkom-prasidang/presentasi-sidkom-mekanisme-pam-invivo.svg"; width="875px"><br/> Mekanime PAM dalam meningkatkan performa pertumbuhan ayam broiler dan anak babi berdasarkan hasil meta-analisis</p>
  </script>
 </section>
 
