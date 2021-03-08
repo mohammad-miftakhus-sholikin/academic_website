@@ -12,5 +12,5 @@
 - [ ] 1. Membuat _table of content__ sesuai format jekyll
 - [ ] 2. Membuat _drop down menu bar_
 
-## Sidkom 26-02-2021
-- [X] 1. ID meeting: 874 6613 6401 dan Password: 000048
+## Sidang tertutup 26-03-2021 
+- [ ] 1. ID meeting: ..... dan Password: .....

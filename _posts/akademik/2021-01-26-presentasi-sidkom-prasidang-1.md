@@ -29,7 +29,7 @@ category: [akademik]
  id = "daftar-isi">
  <script>
  <h4 style="text-align:left"><a href="#/sampul">Daftar Isi</a></h4>
- <h4 style="text-align:left"><small><a href="{{ site.github.url }}/akademik/presentasi-sidkom-prasidang/?print-pdf#/sampul">Cetak</a></small></h4>
+ <h4 style="text-align:left"><small><a href="{{ site.github.url }}/akademik/presentasi-sidkom-prasidang-1/?print-pdf#/sampul">Cetak</a></small></h4>
  <div class="two-column">
   <div>
    <p style="font-size:25px">

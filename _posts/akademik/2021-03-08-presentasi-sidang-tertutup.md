@@ -1,12 +1,12 @@
 ---
 layout: presentasi-dua
-title: Presentasi - Sidkom prasidang ke-2
-excerpt: Sidkom prasidang ke-2
+title: Presentasi - Sidkom tertutup
+excerpt: Sidkom tertutup
 author: Mohammad Miftakhus Sholikin
-modified: 26-02-2021
+modified: 08-03-2021
 theme: simple
 transition: convex
-#autoslide: 10000 
+autoslide: 10000 
 tags: [personal project]
 category: [akademik]
 ---
@@ -38,7 +38,7 @@ category: [akademik]
  id = "daftar-isi">
  <script>
  <h4 style="text-align:left"><a href="#/sampul">Daftar Isi</a></h4>
- <h4 style="text-align:left"><small><a href="{{ site.github.url }}/akademik/presentasi-sidkom-prasidang/?print-pdf#/sampul">Cetak</a></small></h4>
+ <h4 style="text-align:left"><small><a href="{{ site.github.url }}/akademik/presentasi-sidang-tertutup/?print-pdf#/sampul">Cetak</a></small></h4>
  <div class="three-column">
   <div>
    <p style="font-size:25px">
