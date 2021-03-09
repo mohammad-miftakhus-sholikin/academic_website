@@ -1,7 +1,7 @@
 ---
 layout: presentasi-dua
-title: Presentasi - Sidkom tertutup
-excerpt: Sidkom tertutup
+title: Presentasi - Sidang tertutup
+excerpt: Sidang tertutup
 author: Mohammad Miftakhus Sholikin
 modified: 08-03-2021
 theme: simple
