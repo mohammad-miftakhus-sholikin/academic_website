@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="950pt"
+   height="525pt"
+   viewBox="0 0 949.81419 525"
+   version="1.1"
+   id="svg614"
+   sodipodi:docname="sidkom-prasidang-mekanisme-pam-invivo-1.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata620">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs618" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     id="namedview616"
+     showgrid="false"
+     inkscape:zoom="1.1068421"
+     inkscape:cx="633.33333"
+     inkscape:cy="350"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg614" />
+  <g
+     class="cluster"
+     id="clust1"
+     transform="translate(10.087774,525.51123)">
+    <title
+       id="title6">cluster_1</title>
+  </g>
+  <g
+     class="cluster"
+     id="clust2"
+     transform="translate(10.087774,525.51123)">
+    <title
+       id="title9">cluster_5</title>
+  </g>
+  <g
+     id="g2646"
+     transform="matrix(1.103305,0,0,1.103305,-1.5414674,-31.543388)">
+    <g
+       id="g2139"
+       transform="translate(-0.41240507,-27.539581)">
+      <g
+         class="node"
+         id="node5-3"
+         transform="translate(4,545)">
+        <title
+           id="title78-6">b1</title>
+      </g>
+      <g
+         class="node"
+         id="node7-6"
+         transform="translate(4,545)">
+        <title
+           id="title150-2">c1</title>
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path152-9"
+           d="m 839,-249 c 0,0 -49,0 -49,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 49,0 49,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12" />
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text154-1"
+           font-size="14.00"
+           font-weight="bold"
+           y="-234.8"
+           x="786">ketebalan</text>
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text156-2"
+           font-size="14.00"
+           font-weight="bold"
+           y="-220.8"
+           x="791.5">mukosa</text>
+      </g>
+      <g
+         class="node"
+         id="node8-7"
+         transform="translate(4,545)">
+        <title
+           id="title177-0">c2</title>
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path179-93"
+           d="m 844.5,-303 c 0,0 -60,0 -60,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 60,0 60,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12" />
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text181-6"
+           font-size="14.00"
+           font-weight="bold"
+           y="-282.29999"
+           x="780.5">tinggi villus</text>
+      </g>
+      <g
+         class="node"
+         id="node9-06"
+         transform="translate(4,545)">
+        <title
+           id="title193-2">c3</title>
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path195-6"
+           d="m 843,-195 c 0,0 -57,0 -57,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 57,0 57,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12" />
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text197-1"
+           font-size="14.00"
+           font-weight="bold"
+           y="-180.8"
+           x="782">kedalaman</text>
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text199-8"
+           font-size="14.00"
+           font-weight="bold"
+           y="-166.8"
+           x="796">kripta</text>
+      </g>
+      <g
+         class="node"
+         id="node13-7"
+         transform="translate(4,545)">
+        <title
+           id="title258-9">e1</title>
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path260-2"
+           d="m 548.5,-384 c 0,0 -30,0 -30,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 30,0 30,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12" />
+        <text
+           style="font-style:italic;font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text262-0"
+           font-size="14.00"
+           font-style="italic"
+           font-weight="bold"
+           y="-363.29999"
+           x="515">E. coli</text>
+      </g>
+      <g
+         class="node"
+         id="node14-2"
+         transform="translate(4,545)">
+        <title
+           id="title265-3">e4</title>
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path267-7"
+           d="m 713,-276 c 0,0 -69,0 -69,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 69,0 69,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12" />
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text269-5"
+           font-size="14.00"
+           font-weight="bold"
+           y="-261.79999"
+           x="656.5">Bakteri</text>
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text271-9"
+           font-size="14.00"
+           font-weight="bold"
+           y="-247.8"
+           x="640">Asam Laktat</text>
+      </g>
+      <g
+         class="edge"
+         id="edge6-2"
+         transform="translate(4,545)">
+        <title
+           id="title274-2">e1-&gt;e4</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path276-8"
+           d="m 560.62,-354.21 c 8.67,4.33 18.19,9.58 26.38,15.21 23.8,16.37 48.05,38.42 65.45,55.38" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon278-9"
+           points="650.36,-280.76 655.28,-285.74 659.93,-276.22 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text280-7"
+           font-size="14.00"
+           y="-328.79999"
+           x="609.5">+</text>
+      </g>
+      <g
+         class="edge"
+         id="edge28-3"
+         transform="translate(4,545)">
+        <title
+           id="title283-6">e4-&gt;c1</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path285-1"
+           d="m 725.24,-247.72 c 5.97,1.29 12.01,2.56 17.76,3.72 8.07,1.63 16.67,3.29 24.99,4.85" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon287-2"
+           points="767.48,-235.69 768.76,-242.57 777.95,-237.31 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text289-9"
+           font-size="14.00"
+           y="-247.8"
+           x="747.5">+</text>
+      </g>
+      <g
+         class="edge"
+         id="edge29-3"
+         transform="translate(4,545)">
+        <title
+           id="title292-1">e4-&gt;c2</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path294-9"
+           d="m 725.24,-267.22 c 11.97,-2.41 24.94,-5.02 37.16,-7.48" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon296-4"
+           points="763.35,-271.32 761.96,-278.19 772.46,-276.73 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text298-7"
+           font-size="14.00"
+           y="-275.79999"
+           x="747.5">+</text>
+      </g>
+      <g
+         class="edge"
+         id="edge30-8"
+         transform="translate(4,545)">
+        <title
+           id="title301-4">e4-&gt;c3</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path303-5"
+           d="m 705.84,-239.83 c 16,10.81 36.97,24.56 56.16,35.83 2.21,1.3 4.49,2.6 6.8,3.9" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon305-0"
+           points="767.34,-196.9 770.72,-203.03 777.79,-195.15 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text307-3"
+           font-size="14.00"
+           y="-218.8"
+           x="747.5">+</text>
+      </g>
+      <g
+         class="node"
+         id="node15-6"
+         transform="translate(4,545)">
+        <title
+           id="title310-1">e2</title>
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path312-0"
+           d="m 555.5,-330 c 0,0 -44,0 -44,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 44,0 44,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12" />
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text314-6"
+           font-size="14.00"
+           font-weight="bold"
+           y="-309.29999"
+           x="507.5">koliform</text>
+      </g>
+      <g
+         class="edge"
+         id="edge7-3"
+         transform="translate(4,545)">
+        <title
+           id="title317-2">e2-&gt;e4</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path319-0"
+           d="m 567.67,-299.48 c 16.23,6.13 36.2,13.67 54.64,20.64" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon321-6"
+           points="621.2,-275.52 623.67,-282.07 631.79,-275.26 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text323-1"
+           font-size="14.00"
+           y="-288.79999"
+           x="609.5">+</text>
+      </g>
+      <g
+         class="node"
+         id="node16-5"
+         transform="translate(4,545)">
+        <title
+           id="title326-5">e3</title>
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path328-4"
+           d="m 575,-276 c 0,0 -83,0 -83,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 83,0 83,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12" />
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text330-7"
+           font-size="14.00"
+           font-weight="bold"
+           y="-255.3"
+           x="488">bakteri aerobik</text>
+      </g>
+      <g
+         class="edge"
+         id="edge8-6"
+         transform="translate(4,545)">
+        <title
+           id="title333-5">e3-&gt;e4</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path335-6"
+           d="m 587.34,-258 c 11.21,0 23.08,0 34.39,0" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon337-9"
+           points="621.93,-254.5 621.93,-261.5 631.93,-258 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text339-3"
+           font-size="14.00"
+           y="-261.79999"
+           x="609.5">+</text>
+      </g>
+      <g
+         class="node"
+         id="node17-7"
+         transform="translate(4,545)">
+        <title
+           id="title342-4">f1</title>
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path344-5"
+           d="m 187,-375 c 0,0 -30,0 -30,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 30,0 30,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12" />
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text346-2"
+           font-size="14.00"
+           font-weight="bold"
+           y="-354.29999"
+           x="159">IgM</text>
+      </g>
+      <g
+         class="edge"
+         id="edge20-5"
+         transform="translate(4,545)">
+        <title
+           id="title349-4">f1-&gt;e1</title>
+        <path
+           style="fill:none;stroke:#ff0000"
+           inkscape:connector-curvature="0"
+           id="path351-7"
+           d="m 173.86,-375.33 c 2.34,-26.71 11.05,-75.52 43.14,-97.67 45.62,-31.49 217.12,16.61 245,32 21.18,11.7 39.68,32 52.41,48.53" />
+        <polygon
+           style="fill:#ff0000;stroke:#ff0000"
+           id="polygon353-4"
+           points="511.75,-390.17 517.37,-394.34 520.52,-384.23 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#ff0000"
+           id="text355-4"
+           font-size="14.00"
+           y="-482.79999"
+           x="320.5">-</text>
+      </g>
+      <g
+         class="edge"
+         id="edge21-3"
+         transform="translate(4,545)">
+        <title
+           id="title358-0">f1-&gt;e2</title>
+        <path
+           style="fill:none;stroke:#ff0000"
+           inkscape:connector-curvature="0"
+           id="path360-7"
+           d="m 185.79,-375.21 c 12.65,-16.28 33.64,-39.03 58.21,-48.79 22.3,-8.86 30.18,-2.91 54,0 74.69,9.13 108.18,-8.45 164,42 15.37,13.89 3.94,27.79 18,43 3.1,3.35 6.7,6.35 10.55,9.02" />
+        <polygon
+           style="fill:#ff0000;stroke:#ff0000"
+           id="polygon362-8"
+           points="488.89,-326.89 492.55,-332.85 499.25,-324.64 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#ff0000"
+           id="text364-6"
+           font-size="14.00"
+           y="-425.79999"
+           x="320.5">-</text>
+      </g>
+      <g
+         class="edge"
+         id="edge22-8"
+         transform="translate(4,545)">
+        <title
+           id="title367-8">f1-&gt;e3</title>
+        <path
+           style="fill:none;stroke:#ff0000"
+           inkscape:connector-curvature="0"
+           id="path369-4"
+           d="m 179.07,-338.65 c 9.41,25.09 30.15,69.08 64.93,87.65 70.34,37.55 164.71,25.71 226.06,11.37" />
+        <polygon
+           style="fill:#ff0000;stroke:#ff0000"
+           id="polygon371-3"
+           points="471.1,-236.28 469.45,-243.08 479.99,-242.04 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#ff0000"
+           id="text373-1"
+           font-size="14.00"
+           y="-231.8"
+           x="320.5">-</text>
+      </g>
+      <g
+         class="node"
+         id="node18-4"
+         transform="translate(4,545)">
+        <title
+           id="title376-9">f3</title>
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path378-2"
+           d="m 425,-380 c 0,0 -68,0 -68,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 68,0 68,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12" />
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text380-0"
+           font-size="14.00"
+           font-weight="bold"
+           y="-359.29999"
+           x="353">titer antibodi</text>
+      </g>
+      <g
+         class="edge"
+         id="edge9-6"
+         transform="translate(4,545)">
+        <title
+           id="title383-8">f1-&gt;f3</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path385-9"
+           d="m 193.66,-375.23 c 13.33,-10.38 31.62,-22.21 50.34,-26.77 23.32,-5.69 30.5,-4.89 54,0 17.09,3.55 34.89,10.45 50.24,17.54" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon387-2"
+           points="346.91,-381.22 349.93,-387.53 357.44,-380.06 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text389-6"
+           font-size="14.00"
+           y="-408.79999"
+           x="271">+</text>
+      </g>
+      <g
+         class="node"
+         id="node19-6"
+         transform="translate(4,545)">
+        <title
+           id="title392-4">f4</title>
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path394-9"
+           d="m 427,-326 c 0,0 -72,0 -72,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 72,0 72,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12" />
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text396-5"
+           font-size="14.00"
+           font-weight="bold"
+           y="-305.29999"
+           x="351">organ limfoid</text>
+      </g>
+      <g
+         class="edge"
+         id="edge10-0"
+         transform="translate(4,545)">
+        <title
+           id="title399-4">f1-&gt;f4</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path401-8"
+           d="m 199.19,-358.29 c 25.53,-0.66 65.29,-0.11 98.81,7.29 12.65,2.8 15.18,5.69 27,11 6.63,2.98 13.57,6.24 20.35,9.51" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon403-7"
+           points="343.93,-327.29 347,-333.59 354.45,-326.06 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text405-1"
+           font-size="14.00"
+           y="-360.79999"
+           x="271">+</text>
+      </g>
+      <g
+         class="node"
+         id="node20-7"
+         transform="translate(4,545)">
+        <title
+           id="title408-2">f2</title>
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path410-7"
+           d="m 286,-296 c 0,0 -30,0 -30,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 30,0 30,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12" />
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text412-2"
+           font-size="14.00"
+           font-weight="bold"
+           y="-275.29999"
+           x="257.5">CD4</text>
+      </g>
+      <g
+         class="edge"
+         id="edge13-2"
+         transform="translate(4,545)">
+        <title
+           id="title415-6">f1-&gt;f2</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path417-1"
+           d="m 188.86,-338.97 c 8.01,8.63 18.14,18.83 28.14,26.97 5.71,4.65 12.09,9.21 18.38,13.4" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon419-0"
+           points="233.55,-295.62 237.34,-301.5 243.85,-293.14 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text421-6"
+           font-size="14.00"
+           y="-315.79999"
+           x="221.5">+</text>
+      </g>
+      <g
+         class="edge"
+         id="edge17-1"
+         transform="translate(4,545)">
+        <title
+           id="title424-5">f3-&gt;e1</title>
+        <path
+           style="fill:none;stroke:#ff0000"
+           inkscape:connector-curvature="0"
+           id="path426-9"
+           d="m 437.23,-363.29 c 19.04,-0.54 40.91,-1.16 58.89,-1.67" />
+        <polygon
+           style="fill:#ff0000;stroke:#ff0000"
+           id="polygon428-4"
+           points="496.31,-361.47 496.11,-368.47 506.2,-365.25 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#ff0000"
+           id="text430-9"
+           font-size="14.00"
+           y="-366.79999"
+           x="459.5">-</text>
+      </g>
+      <g
+         class="edge"
+         id="edge18-0"
+         transform="translate(4,545)">
+        <title
+           id="title433-9">f3-&gt;e2</title>
+        <path
+           style="fill:none;stroke:#ff0000"
+           inkscape:connector-curvature="0"
+           id="path435-1"
+           d="m 437.23,-345.9 c 16.9,6.01 36.02,12.81 52.67,18.74" />
+        <polygon
+           style="fill:#ff0000;stroke:#ff0000"
+           id="polygon437-7"
+           points="488.79,-323.84 491.14,-330.43 499.39,-323.78 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#ff0000"
+           id="text439-7"
+           font-size="14.00"
+           y="-341.79999"
+           x="459.5">-</text>
+      </g>
+      <g
+         class="edge"
+         id="edge19-1"
+         transform="translate(4,545)">
+        <title
+           id="title442-1">f3-&gt;e3</title>
+        <path
+           style="fill:none;stroke:#ff0000"
+           inkscape:connector-curvature="0"
+           id="path444-5"
+           d="m 426.86,-343.91 c 4.25,2.76 8.41,5.75 12.14,8.91 21.93,18.57 18.64,31.94 41,50 1.37,1.11 2.79,2.19 4.26,3.24" />
+        <polygon
+           style="fill:#ff0000;stroke:#ff0000"
+           id="polygon446-9"
+           points="482.69,-278.61 486.52,-284.46 492.97,-276.06 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#ff0000"
+           id="text448-7"
+           font-size="14.00"
+           y="-316.79999"
+           x="459.5">-</text>
+      </g>
+      <g
+         class="edge"
+         id="edge14-7"
+         transform="translate(4,545)">
+        <title
+           id="title451-6">f4-&gt;f1</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path453-7"
+           d="M 342.88,-313.61 C 314.07,-317.56 276.6,-323.65 244,-332 c -11.65,-2.98 -24.1,-7.05 -35.27,-11.04" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon455-3"
+           points="209.89,-346.35 207.48,-339.77 199.29,-346.5 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text457-6"
+           font-size="14.00"
+           y="-335.79999"
+           x="271">+</text>
+      </g>
+      <g
+         class="edge"
+         id="edge11-5"
+         transform="translate(4,545)">
+        <title
+           id="title460-6">f2-&gt;f3</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path462-3"
+           d="m 292.78,-296.1 c 13.81,-11.68 32.59,-26.87 50.22,-38.9 1.66,-1.13 3.37,-2.27 5.11,-3.39" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon464-9"
+           points="350.34,-335.65 346.64,-341.6 356.98,-343.9 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text466-4"
+           font-size="14.00"
+           y="-324.79999"
+           x="320.5">+</text>
+      </g>
+      <g
+         class="edge"
+         id="edge12-8"
+         transform="translate(4,545)">
+        <title
+           id="title469-1">f2-&gt;f4</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path471-2"
+           d="m 298.19,-284.66 c 10.39,-2.64 22.78,-5.79 35.03,-8.91" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon473-9"
+           points="334.16,-290.19 332.43,-296.98 342.99,-296.05 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text475-3"
+           font-size="14.00"
+           y="-294.79999"
+           x="320.5">+</text>
+      </g>
+      <g
+         class="node"
+         id="node21-9"
+         transform="translate(4,545)">
+        <title
+           id="title478-0">PAM</title>
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path480-8"
+           d="m 88,-174 c 0,0 -76,0 -76,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 76,0 76,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12" />
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text482-8"
+           font-size="14.00"
+           font-weight="bold"
+           y="-159.8"
+           x="27.5">Peptida</text>
+        <text
+           style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
+           id="text484-5"
+           font-size="14.00"
+           font-weight="bold"
+           y="-145.8"
+           x="8">Antimikroba  </text>
+      </g>
+      <g
+         class="edge"
+         id="edge27-0"
+         transform="translate(4,545)">
+        <title
+           id="title487-9">PAM-&gt;c1</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path489-6"
+           d="M 56.82,-137.98 C 70.31,-100.17 107.46,-16 171,-16 c 0,0 0,0 508.5,0 91.25,0 20.25,-121.28 82.5,-188 2.24,-2.4 4.74,-4.62 7.4,-6.68" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon491-3"
+           points="771.44,-207.84 767.51,-213.63 777.75,-216.35 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text493-8"
+           font-size="14.00"
+           y="-19.799999"
+           x="391">+</text>
+      </g>
+      <g
+         class="edge"
+         id="edge23-5"
+         transform="translate(4,545)">
+        <title
+           id="title496-6">PAM-&gt;e1</title>
+        <path
+           style="fill:none;stroke:#ff0000"
+           inkscape:connector-curvature="0"
+           id="path498-1"
+           d="m 100.03,-166.53 c 60.94,-13.23 161.39,-35.53 197.97,-46.47 12.26,-3.67 15.28,-4.87 27,-10 52.07,-22.8 67.25,-25.65 114,-58 11.38,-7.88 14.71,-9.91 23,-21 10.95,-14.65 5.21,-23.93 18,-37 4.91,-5.02 10.96,-9.29 17.17,-12.85" />
+        <polygon
+           style="fill:#ff0000;stroke:#ff0000"
+           id="polygon500-1"
+           points="499.02,-348.86 495.81,-355.08 506.3,-356.56 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#ff0000"
+           id="text502-5"
+           font-size="14.00"
+           y="-216.8"
+           x="271">-</text>
+      </g>
+      <g
+         class="edge"
+         id="edge26-9"
+         transform="translate(4,545)">
+        <title
+           id="title505-8">PAM-&gt;e4</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path507-4"
+           d="M 62.13,-137.76 C 80.84,-109.66 121.44,-59 171,-59 c 0,0 0,0 363.5,0 83.33,0 122.86,-116.5 136.83,-171.23" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon509-8"
+           points="674.74,-229.44 667.94,-231.11 673.72,-239.99 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text511-1"
+           font-size="14.00"
+           y="-62.799999"
+           x="320.5">+</text>
+      </g>
+      <g
+         class="edge"
+         id="edge24-0"
+         transform="translate(4,545)">
+        <title
+           id="title514-3">PAM-&gt;e2</title>
+        <path
+           style="fill:none;stroke:#ff0000"
+           inkscape:connector-curvature="0"
+           id="path516-0"
+           d="m 100.04,-156 c 21.74,0 47.63,0 70.96,0 0,0 0,0 221,0 35.19,0 49.02,-8.75 70,-37 24.84,-33.45 -7.03,-58.69 18,-92 2.96,-3.94 6.66,-7.35 10.72,-10.3" />
+        <polygon
+           style="fill:#ff0000;stroke:#ff0000"
+           id="polygon518-4"
+           points="492.78,-292.46 489.09,-298.4 499.43,-300.7 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#ff0000"
+           id="text520-4"
+           font-size="14.00"
+           y="-159.8"
+           x="271">-</text>
+      </g>
+      <g
+         class="edge"
+         id="edge25-4"
+         transform="translate(4,545)">
+        <title
+           id="title523-4">PAM-&gt;e3</title>
+        <path
+           style="fill:none;stroke:#ff0000"
+           inkscape:connector-curvature="0"
+           id="path525-7"
+           d="m 76.83,-137.88 c 23.44,14.66 59.54,32.88 94.17,32.88 0,0 0,0 221,0 67.39,0 111.26,-81.52 130.04,-125.55" />
+        <polygon
+           style="fill:#ff0000;stroke:#ff0000"
+           id="polygon527-6"
+           points="525.3,-229.27 518.82,-231.94 525.87,-239.85 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#ff0000"
+           id="text529-3"
+           font-size="14.00"
+           y="-108.8"
+           x="271">-</text>
+      </g>
+      <g
+         class="edge"
+         id="edge15-1"
+         transform="translate(4,545)">
+        <title
+           id="title532-7">PAM-&gt;f1</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path534-5"
+           d="m 61.86,-174.19 c 21.24,-35.58 68.36,-114.51 93.17,-156.05" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon536-9"
+           points="158.13,-328.61 152.12,-332.2 160.25,-338.99 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text538-6"
+           font-size="14.00"
+           y="-283.79999"
+           x="122.5">+</text>
+      </g>
+      <g
+         class="edge"
+         id="edge16-2"
+         transform="translate(4,545)">
+        <title
+           id="title541-1">PAM-&gt;f2</title>
+        <path
+           style="fill:none;stroke:#0000ff"
+           inkscape:connector-curvature="0"
+           id="path543-7"
+           d="m 69.8,-174.24 c 12.84,-11.8 30.65,-26.93 48.2,-37.76 37.45,-23.11 84.4,-42.16 116.14,-53.76" />
+        <polygon
+           style="fill:#0000ff;stroke:#0000ff"
+           id="polygon545-8"
+           points="235.65,-262.58 233.28,-269.17 243.88,-269.26 " />
+        <text
+           style="font-size:14px;font-family:Times, serif;text-anchor:middle;fill:#0000ff"
+           id="text547-5"
+           font-size="14.00"
+           y="-254.8"
+           x="172">+</text>
+      </g>
+    </g>
+  </g>
+</svg>
