@@ -104,7 +104,7 @@ category: [akademik]
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-permasalahan.svg"; height="475px">
   </div>
   <div>
-   <br/><p align="justify" style="font-size:20px">Antibiotik imbuhan pakan (<mark><b>AIP</b></mark>) &#x2192; avilamycin, bacitracin, enramycin, flavomycin, halquinol, lincomycin, narasin, salinomycin, tiamulin, tylosin, dan virginiamycin <a href="https://www.pubvet.com.br/uploads/564b4cc69fbde87e053e3ae1b6d1f29b.pdf">(Cardinal <i>et al</i>. 2020)</a></p>
+   <br/><p align="justify" style="font-size:20px">Antibiotik imbuhan pakan (<mark><b>AIP</b></mark>) &#x2192; avilamycin, bacitracin, enramycin, flavomycin, halquinol, lincomycin, narasin, salinomycin, tiamulin, tylosin, dan virginiamycin (<a href="https://www.pubvet.com.br/uploads/564b4cc69fbde87e053e3ae1b6d1f29b.pdf">Cardinal <i>et al</i>. 2020</a>)</p>
    <p style="font-size:20px">Dampak negatif AIP<br/>1. Reistensi<br/> 2. Residu<br/> 3. Alergi<br/> 4. Kanker</p>
    <p style="font-size:20px">Dilarang oleh<br/> a.<mark> FAO</mark>,<br/> b.<mark> Uni Eropa</mark>,<br/> c.<mark> WHO</mark>,<br/> d.<mark> Kementan</mark> &#x2192; permentan nomer 14 tahun 2017</p>
   </div>
@@ -142,7 +142,7 @@ category: [akademik]
    <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-alternatif.svg"; height="375px">
   </div>
   <div>
-   <br/><br/><p align="justify" style="font-size:25px">Alternatif AIP Gadde <i>et al.</i> (2017):</p>
+   <br/><br/><p align="justify" style="font-size:25px">Alternatif AIP <a href="https://www.cambridge.org/core/product/identifier/S1466252316000207/type/journal_article">Gadde <i>et al.</i> (2017)</a>:</p>
    <p class="paragraf-column" style="font-size:25px">1. Probiotik<br/> 2. Prebiotik<br/> 3. Simbiotik<br/> 4. Silika aktif<br/> 5. Fitobiotik<br/> 6. Asam organik<br/> 7. <mark><a href="#/peptida-antimikroba">Peptida aktif</a></mark><br/> 8. Hiperimun</p>
   </div>
  </div>
