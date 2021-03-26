@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="21cm"
+   width="25cm"
    height="21cm"
-   viewBox="0 0 209.99999 210"
+   viewBox="0 0 249.99999 210"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="presentasi-sidkom-6.svg"
+   sodipodi:docname="sidkom-prasidang-penyisipan-clp1.svg"
    inkscape:export-filename="/home/sholikinshino/Desktop/Pelatihan/pelatihan-2020-metal/ch1_intro_and_build_data/Sholikin_2020__Metal.png"
    inkscape:export-xdpi="750.02698"
    inkscape:export-ydpi="750.02698">
@@ -40,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.094871"
-     inkscape:cx="396.85039"
-     inkscape:cy="412.74844"
+     inkscape:zoom="1.1389683"
+     inkscape:cx="472.44094"
+     inkscape:cy="396.85039"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,7 +79,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot1259"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:5.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.87387439,0,0,0.87387439,39.75689,12.905377)"><flowRegion
          id="flowRegion1261"><rect
            id="rect1263"
            width="10.046845"
@@ -88,7 +89,7 @@
            y="197.28349" /></flowRegion><flowPara
          id="flowPara1265" /></flowRoot>    <g
        id="g3057"
-       transform="matrix(0.59654526,0,0,0.59654526,44.510298,29.072912)">
+       transform="matrix(0.38419555,0,0,0.38419555,123.80166,48.19159)">
       <text
          id="text1776"
          y="82.472389"
@@ -146,7 +147,7 @@
     </g>
     <g
        id="g2732"
-       transform="matrix(0.84650318,0,0,0.84650318,21.074896,20.145364)">
+       transform="matrix(0.73973745,0,0,0.73973745,89.419107,30.509895)">
       <g
          transform="matrix(0.83901695,0,0,0.83901695,-17.77944,2.6839926)"
          id="g1728">
@@ -2091,7 +2092,7 @@
     </g>
     <g
        id="g1884"
-       transform="matrix(1.013524,0,0,1.013524,35.480964,-2.3751406)">
+       transform="matrix(0.88569267,0,0,0.88569267,102.0082,10.829802)">
       <g
          transform="matrix(1.304257,0,0,1.304257,-37.105969,-122.5429)"
          id="g1372">
@@ -2834,7 +2835,7 @@
     </g>
     <g
        id="g3044"
-       transform="translate(2.155585)">
+       transform="matrix(0.87387439,0,0,0.87387439,72.886005,12.905377)">
       <g
          transform="translate(-139.67778,41.607148)"
          id="g1967">
@@ -5029,57 +5030,113 @@
     </g>
     <path
        sodipodi:type="star"
-       style="opacity:1;fill:#782121;stroke:none;stroke-width:0.51852268;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:#782121;stroke:none;stroke-width:0.45312369;stroke-miterlimit:4;stroke-dasharray:none"
        id="path2447"
        sodipodi:sides="3"
-       sodipodi:cx="-105"
-       sodipodi:cy="-47.969536"
-       sodipodi:r1="4.7367811"
-       sodipodi:r2="2.3683908"
+       sodipodi:cx="-162.75911"
+       sodipodi:cy="-54.824726"
+       sodipodi:r1="4.1393518"
+       sodipodi:r2="2.0696762"
        sodipodi:arg1="0.52359878"
        sodipodi:arg2="1.5707963"
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m -100.89782,-45.601145 -4.10218,0 -4.10217,0 2.05109,-3.552586 2.05108,-3.552586 2.05109,3.552586 z"
-       inkscape:transform-center-y="1.1841978"
+       d="m -159.17433,-52.75505 -3.58478,0 -3.58478,0 1.79239,-3.104514 1.79239,-3.104514 1.79239,3.104514 z"
+       inkscape:transform-center-y="1.0348403"
        transform="scale(-1)"
-       inkscape:transform-center-x="7.3532658e-06" />
+       inkscape:transform-center-x="6.7562179e-06" />
     <path
        sodipodi:type="star"
-       style="opacity:1;fill:#782121;stroke:none;stroke-width:0.51852268;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:#782121;stroke:none;stroke-width:0.45312369;stroke-miterlimit:4;stroke-dasharray:none"
        id="path2447-8"
        sodipodi:sides="3"
-       sodipodi:cx="-105"
-       sodipodi:cy="-97.033524"
-       sodipodi:r1="4.7367811"
-       sodipodi:r2="2.3683906"
+       sodipodi:cx="-162.75911"
+       sodipodi:cy="-97.700485"
+       sodipodi:r1="4.1393518"
+       sodipodi:r2="2.0696759"
        sodipodi:arg1="0.52359878"
        sodipodi:arg2="1.5707963"
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m -100.89782,-94.665133 -4.10218,0 -4.10217,0 2.05109,-3.552586 2.05108,-3.552581 2.05109,3.552581 z"
-       inkscape:transform-center-y="1.1841974"
+       d="m -159.17433,-95.630809 -3.58478,0 -3.58478,0 1.79239,-3.104514 1.79239,-3.104517 1.79239,3.104517 z"
+       inkscape:transform-center-y="1.0348367"
        transform="scale(-1)"
-       inkscape:transform-center-x="7.3532658e-06" />
+       inkscape:transform-center-x="6.7562179e-06" />
     <path
        sodipodi:type="star"
-       style="opacity:1;fill:#782121;stroke:none;stroke-width:0.51852268;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:#782121;stroke:none;stroke-width:0.45312369;stroke-miterlimit:4;stroke-dasharray:none"
        id="path2447-9"
        sodipodi:sides="3"
-       sodipodi:cx="-105"
-       sodipodi:cy="-152.597"
-       sodipodi:r1="4.7367811"
-       sodipodi:r2="2.3683906"
+       sodipodi:cx="-162.75911"
+       sodipodi:cy="-146.256"
+       sodipodi:r1="4.1393518"
+       sodipodi:r2="2.0696759"
        sodipodi:arg1="0.52359878"
        sodipodi:arg2="1.5707963"
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m -100.89782,-150.22861 -4.10218,0 -4.10217,0 2.05109,-3.55259 2.05108,-3.55258 2.05109,3.55258 z"
-       inkscape:transform-center-y="0.70112004"
+       d="m -159.17433,-144.18632 -3.58478,0 -3.58478,0 1.79239,-3.10451 1.79239,-3.10452 1.79239,3.10452 z"
+       inkscape:transform-center-y="0.61269992"
        transform="scale(-1)"
-       inkscape:transform-center-x="7.3532658e-06" />
+       inkscape:transform-center-x="6.7562179e-06" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.90193939px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#501616;fill-opacity:1;stroke:none;stroke-width:0.91911352"
+       x="7.3240719"
+       y="29.768135"
+       id="text1517"><tspan
+         sodipodi:role="line"
+         id="tspan1515"
+         x="7.3240719"
+         y="29.768135"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#501616;stroke-width:0.91911352">1. Ekstraksi RNA </tspan><tspan
+         sodipodi:role="line"
+         x="7.3240719"
+         y="35.895561"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#501616;stroke-width:0.91911352"
+         id="tspan1577">dan Pembuatan cDNA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.90193939px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#501616;fill-opacity:1;stroke:none;stroke-width:0.91911352"
+       x="7.2355118"
+       y="77.704147"
+       id="text1517-3"><tspan
+         sodipodi:role="line"
+         id="tspan1515-6"
+         x="7.2355118"
+         y="77.704147"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#501616;stroke-width:0.91911352">2. Seleksi cDNA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.90193939px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#501616;fill-opacity:1;stroke:none;stroke-width:0.91911352"
+       x="7.2211504"
+       y="121.7868"
+       id="text1517-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan1515-6-5"
+         x="7.2211504"
+         y="121.7868"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#501616;stroke-width:0.91911352">3. Penyisipan cDNA </tspan><tspan
+         sodipodi:role="line"
+         x="7.2211504"
+         y="127.91422"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#501616;stroke-width:0.91911352"
+         id="tspan1575">pada plasmid pT7CFE1-Chis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.90193939px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#501616;fill-opacity:1;stroke:none;stroke-width:0.91911352"
+       x="7.3551884"
+       y="177.13864"
+       id="text1517-3-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan1515-6-5-5"
+         x="7.3551884"
+         y="177.13864"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#501616;stroke-width:0.91911352">4. Translasi <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+   id="tspan1579">In Vitro</tspan></tspan></text>
   </g>
 </svg>

@@ -14,3 +14,7 @@
 
 ## Sidang tertutup 26-03-2021 
 - [ ] 1. ID meeting: ..... dan Password: .....
+- [ ] 2. Konfirmasi Pembimbing dan Penguji berdasarkan Undangan Persetujuan Sidang Tertutup (oleh Pasca sarjana IPB)
+- [ ] 3. Slide 
+	- Lengkapi subab 2.4 Sintesis Cecropin Like-Peptide 1 asal Maggot dengan 1. Ekstraksi RNA, 2. Pembuatan cDNA PAM, 3. Penyispan cDNA CLP1 ke dalam pt7CFE1-CHis, dan 4. Sintesis IVT CLP1
+	- Lengkapi subab 2.5 Langkah Uji Antikanker
