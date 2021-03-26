@@ -125,7 +125,7 @@ category: [akademik]
   <div>
    <br/><br/><p align="justify" style="font-size:25px">Lalu apa yang menyebabkan peternak bergantung dengan AIP?</p>
    <p style="font-size:25px">1. Efisiensi<br/> 2. Lingkungan tropis &#x2192; sumber penyakit<br/> 3. <a href="https://en.wikipedia.org/wiki/Biosecurity"><b>Biosekuriti?</b></a></p>
-   <p style="font-size:25px; color:orange"><b>Alternatif AIP</b></p>
+   <p style="font-size:25px"><b><a href="#/alternatif">Alternatif AIP</a></b></p>
   </div>
  </div>
  </script>
@@ -143,7 +143,7 @@ category: [akademik]
   </div>
   <div>
    <br/><br/><p align="justify" style="font-size:25px">Alternatif AIP Gadde <i>et al.</i> (2017):</p>
-   <p class="paragraf-column" style="font-size:25px">1. Probiotik<br/> 2. Prebiotik<br/> 3. Simbiotik<br/> 4. Silika aktif<br/> 5. Fitobiotik<br/> 6. Asam organik<br/> 7. <mark>Peptida aktif</mark><br/> 8. Hiperimun</p>
+   <p class="paragraf-column" style="font-size:25px">1. Probiotik<br/> 2. Prebiotik<br/> 3. Simbiotik<br/> 4. Silika aktif<br/> 5. Fitobiotik<br/> 6. Asam organik<br/> 7. <mark><a href="#/peptida-antimikroba">Peptida aktif</a></mark><br/> 8. Hiperimun</p>
   </div>
  </div>
  </script>
