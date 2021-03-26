@@ -332,7 +332,7 @@ category: [akademik]
  id = "ektraksi-rna">
  <script>
  <h4><a href="#/daftar-isi">2.4 <b>Langkah</b> Ekstraksi RNA asal Maggot</a></h4>
- <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-ekstraksi-rna.svg"; height="350px"><br/> Langkah ekstraksi RNA dari Maggot</p>
+ <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-ekstraksi-rna.svg"; height="350px"><br/> Langkah ekstraksi RNA dari Maggot (<a href="https://www.nippongenetics.eu/app/uploads/2017/04/RNA-Isolation-Kit_Manual.pdf">FastGene® 2017</a>)</p>
  </script>
 </section>
 
@@ -342,7 +342,7 @@ category: [akademik]
  id = "pembuatan-fragmen-clp1">
  <script>
  <h4><a href="#/daftar-isi">2.4 <b>Langkah</b> Penyisipan cDNA CLP1 pada Plasmid pt7CFE1-CHis</a></h4>
- <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-langkah-penyisipan-clp1.svg"; height="450px"><br/> Langkah penyisipan cDNA CLP1 pada <i>multiple cloning site</i> (MSC) pada plasmid pt7CFE1-CHis</p>
+ <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-langkah-penyisipan-clp1.svg"; height="450px"><br/> Langkah penyisipan cDNA CLP1 pada <i>multiple cloning site</i> (MSC) pada plasmid pt7CFE1-CHis (<a href="https://linkinghub.elsevier.com/retrieve/pii/S0378111905004348">Kozak 2005</a>)</p>
  </script>
 </section>
 
