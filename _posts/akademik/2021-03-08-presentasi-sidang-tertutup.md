@@ -411,7 +411,7 @@ category: [akademik]
  id = "antikanker-maggot">
  <script>
  <h4><a href="#/daftar-isi">3.3 Nilai IC50 Ekstrak Etanol dan Akuades dari Maggot</a></h4>
- <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-ic50.svg"; height="375px"><br/> Nilai IC50 dari ekstrak akuades dan etanol maggot, sitotoksisititas<br/> (i) sitotoksik potensial &#x2192; IC50 <100 μg mL<sup>-1</sup>,<br/> (ii) sitotoksik moderat &#x2192; 100 μg mL<sup>-1</sup> < IC50 < 1000 μg mL<sup>-1</sup> dan<br/> (iii) tidak toksik &#x2192; IC50 >1000 μg mL <sup>-1</sup> (Yun <i>et al</i>. 2017).</p>
+ <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-ic50.svg"; height="375px"><br/> Nilai IC50 dari ekstrak akuades dan etanol maggot, sitotoksisititas<br/> (i) sitotoksik potensial &#x2192; IC50 <100 μg mL<sup>-1</sup>,<br/> (ii) sitotoksik moderat &#x2192; 100 μg mL<sup>-1</sup> < IC50 < 1000 μg mL<sup>-1</sup> dan<br/> (iii) tidak toksik &#x2192; IC50 >1000 μg mL <sup>-1</sup> (<a href="https://linkinghub.elsevier.com/retrieve/pii/S1382668917301126">Yun <i>et al</i>. 2017</a>).</p>
  </script>
 </section>
 
