@@ -494,7 +494,7 @@ category: [akademik]
     </tr>
     <tr>
         <td>G.</td>
-        <td><mark><mark>penghambatan respirasi seluler dan induksi pembentukan ROS</mark> dan kerusakan integritas membran sel mitokondria dan kegagalan pembentukan ATP dan NADH (modifikasi Hao Xiao <i>et al</i>. 2015)</td>
+        <td><mark><mark>penghambatan respirasi seluler dan induksi pembentukan ROS</mark> dan kerusakan integritas membran sel mitokondria dan kegagalan pembentukan ATP dan NADH (modifikasi <a href="http://www.jasbsci.com/content/6/1/19">Hao Xiao <i>et al</i>. 2015</a>)</td>
     </tr>
     <tr></tr>
     </table>
