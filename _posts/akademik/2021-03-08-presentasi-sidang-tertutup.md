@@ -305,7 +305,7 @@ category: [akademik]
      <p style="font-size:25px; color:#b32400"><b>Komplemen DNA CLP1</b>: 5’-GGT TGG CGG AAG AGG GTC TTC; 3’- TTA TCC TTG TTG TGG TGG TCC ACC TCG<br/></p>
      <p style="font-size:25px; color:#b32400"><b>T7</b>: 5’ – AAC GAC GGC CAG TGA ATT GTA ATA</p>
      <p style="font-size:25px; color:#b32400"><b>IRES (<i>internal ribosome entry site</i>)</b>: 5’ – ATG GGT GGT GGC CAT ATT ATC ATC</p>
-     <p style="font-size:25px; color:#b32400"><b><i>His-tagged</i> (<i>internal ribosome entry site</i>)</b>: 5’ – ATG GTG ATG GTG ATG ATG</p>
+     <p style="font-size:25px; color:#b32400"><b><i>His-tagged</i> </b>: 5’ – ATG GTG ATG GTG ATG ATG</p>
    </div>
    <div>
      <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-sintesis-clp1.svg"; height="475px">
