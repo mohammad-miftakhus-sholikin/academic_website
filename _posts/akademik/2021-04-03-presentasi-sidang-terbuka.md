@@ -622,7 +622,7 @@ category: [akademik]
  id = "publikasi-1">
  <script>
  <h4 style="font-size:25px"><a href="#/publikasi-penelitian">A meta-analysis antimicrobial peptide effects on intestinal bacteria, immune response and antioxidant activity of broilers</a></h4>
- <p align="center" style="font-size:20px"><a href="https://www.researchgate.net/profile/Mohammad_Sholikin2">Mohammad Miftakhus Sholikin</a>, Aris Tri Wahyudi, Anuraga Jayanegara, Jun Nomura and Nahrowi</p>
+ <p align="center" style="font-size:20px"><a href="https://www.researchgate.net/profile/Mohammad_Sholikin2">Mohammad Miftakhus Sholikin</a>, Aris Tri Wahyudi, Anuraga Jayanegara, Jun Nomura dan Nahrowi</p>
  <object data="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-publikasi-1.pdf" width="775" height="475" type='application/pdf'/>
  </script>
 </section>
@@ -633,7 +633,7 @@ category: [akademik]
  id = "publikasi-2">
  <script>
  <h4 style="font-size:25px"><a href="#/publikasi-penelitian">A meta-analysis of the effect of antimicrobial peptide purity on the growth performance, dry matter digestibility, and  intestinal morphology of broiler</a></h4>
- <p align="center" style="font-size:20px"><a href="https://www.researchgate.net/profile/Mohammad_Sholikin2">Mohammad Miftakhus Sholikin</a>, Aris Tri Wahyudi, Anuraga Jayanegara, Jun Nomura and Nahrowi</p>
+ <p align="center" style="font-size:20px"><a href="https://www.researchgate.net/profile/Mohammad_Sholikin2">Mohammad Miftakhus Sholikin</a>, Aris Tri Wahyudi, Anuraga Jayanegara, Jun Nomura dan Nahrowi</p>
  <object data="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-publikasi-2.pdf" width="775" height="475" type='application/pdf'/>
  </script>
 </section>
@@ -644,7 +644,7 @@ category: [akademik]
  id = "publikasi-3">
  <script>
  <h4 style="font-size:25px"><a href="#/publikasi-penelitian">Evaluation of linear models and linear mixed models to predict the effects of antimicrobial peptides on broiler performance</a></h4>
- <p align="center" style="font-size:20px"><a href="https://www.researchgate.net/profile/Mohammad_Sholikin2">Mohammad Miftakhus Sholikin</a>, Aris Tri Wahyudi, Anuraga Jayanegara, Jun Nomura and Nahrowi</p>
+ <p align="center" style="font-size:20px"><a href="https://www.researchgate.net/profile/Mohammad_Sholikin2">Mohammad Miftakhus Sholikin</a>, Aris Tri Wahyudi, Anuraga Jayanegara, Jun Nomura dan Nahrowi</p>
  <object data="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-publikasi-3.pdf" width="775" height="475" type='application/pdf'/>
  </script>
 </section>
@@ -655,7 +655,7 @@ category: [akademik]
  id = "publikasi-4">
  <script>
  <h4 style="font-size:25px"><a href="#/publikasi-penelitian">Antimicrobial peptides as additive: A meta-analysis on broiler chickens performance, nutrient digestibility, and serum metabolites</a></h4>
- <p align="center" style="font-size:20px"><a href="https://www.researchgate.net/profile/Mohammad_Sholikin2">Mohammad Miftakhus Sholikin</a>, Sadarman, Agung Irawan, Tri Rachmanto Prihambodo, Novia Qomariyah, Aris Tri Wahyudi, Anuraga Jayanegara, Jun Nomura and Nahrowi</p>
+ <p align="center" style="font-size:20px"><a href="https://www.researchgate.net/profile/Mohammad_Sholikin2">Mohammad Miftakhus Sholikin</a>, Sadarman, Agung Irawan, Tri Rachmanto Prihambodo, Novia Qomariyah, Aris Tri Wahyudi, Anuraga Jayanegara, Jun Nomura dan Nahrowi</p>
  <object data="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-publikasi-4.pdf" width="775" height="475" type='application/pdf'/>
  </script>
 </section>
