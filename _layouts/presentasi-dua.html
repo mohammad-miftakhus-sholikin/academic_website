@@ -35,19 +35,6 @@
       link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/assets/js/reveal.js/css/print/pdf.css" | prepend: site.github.url }}' : '{{ "/assets/js/reveal.js/css/print/paper.css" | prepend: site.github.url }}';
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
-    <!-- Math JS -->
-    <script src="{{ "/assets/js/reveal.js/plugin/math/math.js" | prepend: site.github.url }}"></script>
-    <script>
-      Reveal.initialize({
-        math: {
-          mathjax: '{{ '/assets/js/reveal.js/plugin/math/MathJax.js' | prepend: site.github.url }}',
-          config: 'TeX-AMS_HTML-full',
-          // pass other options into `MathJax.Hub.Config()`
-          TeX: { Macros: { RR: "{\\bf R}" } }
-        },
-        plugins: [ RevealMath ]
-      });
-    </script>
 		<!-- Icon -->
     <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.github.url }}" />
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.github.url }}">
@@ -55,10 +42,12 @@
     <link rel="shortcut icon" href="{{ site.github.url }}/images/pengaturan/title-icon.svg">
     <!--CSS mark and column-->
     <style>
+    /* 1. Mark color */
 		mark {
 			background-color: white;
 			color: crimson;
 		}
+    /* 2. Column */
 		.two-column {
 			 display: grid;
 			 grid-template-columns: 1fr 1fr;
@@ -94,7 +83,7 @@
     <script>
       // Full list of configuration options available at:
       // https://github.com/hakimel/reveal.js#configuration
-      Reveal.initialize({		
+      Reveal.initialize({
         // Autoslide
         {% if page.autoslide %}
           autoSlide: "{{ page.autoslide }}",
@@ -120,6 +109,12 @@
         {% else %}
           transition: 'slide', // none/fade/slide/convex/concave/zoom
         {% endif %}
+        // MathJax
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/gh/mathjax/mathjax@2.7.8/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          TeX: { Macros: { RR: "{\\bf R}" } }
+        },
         // Optional reveal.js plugins
         dependencies: [
           { src: '{{ "/assets/js/reveal.js/lib/js/classList.js" | prepend: site.github.url }}', condition: function() { return !document.body.classList; } },
@@ -127,7 +122,8 @@
           { src: '{{ "/assets/js/reveal.js/plugin/markdown/markdown.js" | prepend: site.github.url }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
           { src: '{{ "/assets/js/reveal.js/plugin/highlight/highlight.js" | prepend: site.github.url }}', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
           { src: '{{ "/assets/js/reveal.js/plugin/zoom-js/zoom.js" | prepend: site.github.url }}', async: true },
-          { src: '{{ "/assets/js/reveal.js/plugin/notes/notes.js" | prepend: site.github.url }}', async: true }
+          { src: '{{ "/assets/js/reveal.js/plugin/notes/notes.js" | prepend: site.github.url }}', async: true },
+          { src: '{{ "/assets/js/reveal.js/plugin/math/math.js" | prepend: site.github.url }}', async: true }
         ]
       });
     </script>

@@ -1,7 +1,7 @@
 ---
 layout: presentasi-dua
-title: Presentasi - Sidang terbuka
-excerpt: Sidang terbuka
+title: Presentasi - Sidang promosi
+excerpt: Sidang promosi
 author: Mohammad Miftakhus Sholikin
 modified: 08-03-2021
 theme: simple
@@ -24,14 +24,22 @@ category: [akademik]
 
 <section 
  data-markdown
- data-background-image="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-background.svg"
- data-background-size="100% 100%"
+ data-background-image="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-logo-ipb.png"
+ data-background-size="100px"
+ data-background-repeat="no-repeat">
+ <h1>Halo, Cek Reaveal.JS</h1>
+ 1. $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+ 2. \\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
+</section>
+
+<section 
+ data-markdown
  data-transition="zoom"
  id = "sampul">
  <script>
   <h4><a href = "{{ site.github.url }}/laman/akademik/"><b>Kajian <i>in silico</i> dan <i>in vitro</i> peptida antimikroba pada<br/>ayam broiler dan anak babi</b></a></h4>
   <hr><small><b>Mohammad Miftakhus Sholikin</b><br/><br/><small>Dibimbing oleh:</small><br/>Prof. Dr. Ir. Nahrowi, MS.c.<br/>Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br/>Prof. Dr. Ir. Aris Tri Wahyudi, M.S.</small>
-  <hr><small><small>Penguji Sidang Terbuka:</small><br/>Dr. Cahyo Budiman, S.Pt. M.Eng.<br/>Drh. Desianto Budi Utomo, Ph.D.</small>
+  <hr><small><small>Penguji Sidang Promosi:</small><br/>Dr. Cahyo Budiman, S.Pt. M.Eng.<br/>Drh. Desianto Budi Utomo, Ph.D.</small>
  </script>
 </section>
 
@@ -41,7 +49,7 @@ category: [akademik]
  id = "daftar-isi">
  <script>
  <h4 style="text-align:left"><a href="#/sampul">Daftar Isi</a></h4>
- <h4 style="text-align:left"><small><a href="{{ site.github.url }}/akademik/presentasi-sidang-terbuka/?print-pdf#/sampul">Cetak</a></small></h4>
+ <h4 style="text-align:left"><small><a href="{{ site.github.url }}/akademik/presentasi-sidang-promosi/?print-pdf#/sampul">Cetak</a></small></h4>
  <div class="three-column">
   <div>
    <p style="font-size:25px">
