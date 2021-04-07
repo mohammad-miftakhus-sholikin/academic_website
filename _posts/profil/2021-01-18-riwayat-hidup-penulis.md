@@ -1,6 +1,6 @@
 ---
 layout: riwayat-hidup
-title: Profil - Riwayat hidup dari penulis
+title: Profil - Mohammad Miftakhus Sholikin
 excerpt: Riwayat hidup dari penulis, berisi tentang jenjang pendidikan dan karir
 modified: 18-01-2021
 tags: [personal project]
@@ -154,27 +154,36 @@ d. Website statis
 Tersedia di [_Mohammad Miftakhus Sholikin_](https://scholar.google.fr/citations?user=koSsmk8AAAAJ) scholar
 
 ##### _Artikel ilmiah_
-`2020`
+`2021`
+The effects of probiotics on the performance, egg quality and blood parameters of laying hens: _A meta-analysis_. doi: [10.22358/jafs/133432/2021](http://www.jafs.com.pl/The-effects-of-probiotics-on-the-performance-egg-quality-and-blood-parameters-of,133432,0,2.html)
+
+`2021`
+Influence of different forms of flavonoid on growth performance and gut morphology of broiler: _A meta-analysis_. doi: [10.1088/1757-899X/1098/6/062024](https://iopscience.iop.org/article/10.1088/1757-899X/1098/6/062024/meta)
+
+`2021`
 Effects of dietary flavonoids on performance, blood constituents, carcass composition and small intestinal morphology of broilers: _A meta-analysis_. doi: [10.5713/ajas.20.0379](https://www.ajas.info/journal/view.php?number=24585)
 
-`2020`
-Evaluation of Linear Models and _Linear Mixed Models_ to Predict the Effects of Antimicrobial Peptides on Broiler Performance. doi: [10.1088/1755-1315/372/1/012049](https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012002)
+`2021`
+The effects of mixed vitamins, minerals, fatty acids and amino acids supplementation into drinking water on broiler chickens’ performance and carcass traits. doi: [10.36380/jwpr.2021.7](https://jwpr.science-line.com/attachments/article/57/JWPR%2011(1)%2047-52,%202021.pdf)
 
 `2020`
-Evaluate _Non-Linear Model_ Logistic, Gompertz, and Weibull: Study Case on Calcium and phosphor Requirements of Laying Hen. doi: [10.1088/1755-1315/372/1/012049](https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012016)
+Evaluation of linear models and _linear mixed models_ to predict the effects of antimicrobial peptides on broiler performance. doi: [10.1088/1755-1315/372/1/012049](https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012002)
+
+`2020`
+Evaluate _non-linear model_ logistic, gompertz, and weibull: study case on calcium and phosphor requirements of laying hen. doi: [10.1088/1755-1315/372/1/012049](https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012016)
 
 `2019`
-_Artificial Neural Network_ Model to Predict Crude Protein and Crude Fiber from Physical Properties of Feedstuffs. doi: [10.1088/1755-1315/372/1/012049](https://iopscience.iop.org/article/10.1088/1755-1315/372/1/012049/meta)
+_Artificial neural network_ model to predict crude protein and crude fiber from physical properties of feedstuffs. doi: [10.1088/1755-1315/372/1/012049](https://iopscience.iop.org/article/10.1088/1755-1315/372/1/012049/meta)
 
 `2019`
-Optimization of the <u>Hermetia</u> <u>illucens</u> Larvae Extraction Process with _Response Surface Modelling_ and Its Amino Acid Profile and Antibacterial Activity. doi: [10.1088/1757-899X/546/6/062030](https://iopscience.iop.org/article/10.1088/1757-899X/546/6/062030/meta)
+Optimization of the <u>Hermetia</u> <u>illucens</u> larvae extraction process with _response surface modelling_ and its amino acid profile and antibacterial activity. doi: [10.1088/1757-899X/546/6/062030](https://iopscience.iop.org/article/10.1088/1757-899X/546/6/062030/meta)
 
 `2019`
-Potential _Fatty Acid Composition_ of <u>Hermetia</u> <u>illucens</u> Oil Reared on Different Substrates. doi: [10.1088/1757-899X/546/6/062002](https://iopscience.iop.org/article/10.1088/1757-899X/546/6/062002/meta)
+Potential _fatty acid composition_ of <u>hermetia</u> <u>illucens</u> oil reared on different substrates. doi: [10.1088/1757-899X/546/6/062002](https://iopscience.iop.org/article/10.1088/1757-899X/546/6/062002/meta)
 
 `2017`
-_Lowering Chitin Content_ of Cricket (<u>Gryllus</u> <u>assimilis</u>) Through Exoskeleton Removal and _Chemical Extraction_ and its Utilization as a Ruminant Feed in vitro. doi: [10.3923/pjbs.2017.523.529](https://scialert.net/abstract/?doi=pjbs.2017.523.529)
+_Lowering chitin content_ of cricket (<u>gryllus</u> <u>assimilis</u>) through exoskeleton removal and _chemical extraction_ and its utilization as a ruminant feed in vitro. doi: [10.3923/pjbs.2017.523.529](https://scialert.net/abstract/?doi=pjbs.2017.523.529)
 
 
 ##### _Catatan_
-Update terakhir: Oktober 2020
+Update terakhir: November 2020
