@@ -608,12 +608,12 @@ category: [akademik]
 	<script>
 	<h4><a href="#/daftar-isi">5.1 Publikasi</a></h4>
 
-	|<small>No.</small>|<small>Publikasi</small>|<small>Jenis</small>|<small>Status</small>|
+	|<small>No.</small>|<small>Judul</small>|<small>Publikasi</small>|
 	|:----------------|:--------|:---:|-----:|
-	|<small>1.</small>|<small><a href="#/publikasi-1">A meta-analysis antimicrobial peptide effects on intestinal bacteria, immune response and antioxidant activity of broilers</a></small>|<small>TASJ (Q2)</small>|<small>diterima</small>|
-	|<small>2.</small>|<small><a href="#/publikasi-2">A meta-analysis of the effect of antimicrobial peptide purity on the growth performance, dry matter digestibility, and  intestinal morphology of broiler</a></small>|<small>AAVS (Q3)</small>|<small>diterima</small>|
-	|<small>3.</small>|<small><a href="#/publikasi-3">Evaluation of linear models and linear mixed models to predict the effects of antimicrobial peptides on broiler performance</a></small>|<small>iop</small>|<small><a href="https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012002">terbit</a></small>|
-	|<small>4.</small>|<small><a href="#/publikasi-4">Antimicrobial peptides as additive: A meta-analysis on broiler chickens performance, nutrient digestibility, and serum metabolites</a></small>|<small>JAFS (Q2)</small>|<small>submit</small>|
+	|<small>1.</small>|<small><a href="#/publikasi-1">A meta-analysis antimicrobial peptide effects on intestinal bacteria, immune response and antioxidant activity of broilers</a></small>|<small>TASJ (Q2)</small>|
+	|<small>2.</small>|<small><a href="#/publikasi-2">A meta-analysis of the effect of antimicrobial peptide purity on the growth performance, dry matter digestibility, and  intestinal morphology of broiler</a></small>|<small>AAVS (Q3)</small>|
+	|<small>3.</small>|<small><a href="#/publikasi-3">Evaluation of linear models and linear mixed models to predict the effects of antimicrobial peptides on broiler performance</a></small>|<small><a href="https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012002">iop</a></small>|
+	|<small>4.</small>|<small><a href="#/publikasi-4">Antimicrobial peptides as additive: A meta-analysis on broiler chickens performance, nutrient digestibility, and serum metabolites</a></small>|<small>JAFS (Q2)</small>|
 	||||
 	</script>
 </section>

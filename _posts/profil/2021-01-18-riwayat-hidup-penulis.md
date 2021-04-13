@@ -155,16 +155,16 @@ Tersedia di [_Mohammad Miftakhus Sholikin_](https://scholar.google.fr/citations?
 
 ##### _Artikel ilmiah_
 `2021`
-The effects of probiotics on the performance, egg quality and blood parameters of laying hens: _A meta-analysis_. doi: [10.22358/jafs/133432/2021](http://www.jafs.com.pl/The-effects-of-probiotics-on-the-performance-egg-quality-and-blood-parameters-of,133432,0,2.html)
+The effects of _probiotics_ on the performance, egg quality and blood parameters of laying hens: _A meta-analysis_. doi: [10.22358/jafs/133432/2021](http://www.jafs.com.pl/The-effects-of-probiotics-on-the-performance-egg-quality-and-blood-parameters-of,133432,0,2.html)
 
 `2021`
-Influence of different forms of flavonoid on growth performance and gut morphology of broiler: _A meta-analysis_. doi: [10.1088/1757-899X/1098/6/062024](https://iopscience.iop.org/article/10.1088/1757-899X/1098/6/062024/meta)
+Influence of different forms of _flavonoid_ on growth performance and gut morphology of broiler: _A meta-analysis_. doi: [10.1088/1757-899X/1098/6/062024](https://iopscience.iop.org/article/10.1088/1757-899X/1098/6/062024/meta)
 
 `2021`
-Effects of dietary flavonoids on performance, blood constituents, carcass composition and small intestinal morphology of broilers: _A meta-analysis_. doi: [10.5713/ajas.20.0379](https://www.ajas.info/journal/view.php?number=24585)
+Effects of dietary _flavonoids_ on performance, blood constituents, carcass composition and small intestinal morphology of broilers: _A meta-analysis_. doi: [10.5713/ajas.20.0379](https://www.ajas.info/journal/view.php?number=24585)
 
 `2021`
-The effects of mixed vitamins, minerals, fatty acids and amino acids supplementation into drinking water on broiler chickens’ performance and carcass traits. doi: [10.36380/jwpr.2021.7](https://jwpr.science-line.com/attachments/article/57/JWPR%2011(1)%2047-52,%202021.pdf)
+The effects of _mixed vitamins_, minerals, fatty acids and amino acids supplementation into drinking water on broiler chickens’ performance and carcass traits. doi: [10.36380/jwpr.2021.7](https://jwpr.science-line.com/attachments/article/57/JWPR%2011(1)%2047-52,%202021.pdf)
 
 `2020`
 Evaluation of linear models and _linear mixed models_ to predict the effects of antimicrobial peptides on broiler performance. doi: [10.1088/1755-1315/372/1/012049](https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012002)
@@ -176,13 +176,13 @@ Evaluate _non-linear model_ logistic, gompertz, and weibull: study case on calci
 _Artificial neural network_ model to predict crude protein and crude fiber from physical properties of feedstuffs. doi: [10.1088/1755-1315/372/1/012049](https://iopscience.iop.org/article/10.1088/1755-1315/372/1/012049/meta)
 
 `2019`
-Optimization of the <u>Hermetia</u> <u>illucens</u> larvae extraction process with _response surface modelling_ and its amino acid profile and antibacterial activity. doi: [10.1088/1757-899X/546/6/062030](https://iopscience.iop.org/article/10.1088/1757-899X/546/6/062030/meta)
+Optimization of the _Hermetia illucens_ larvae extraction process with _response surface modelling_ and its amino acid profile and antibacterial activity. doi: [10.1088/1757-899X/546/6/062030](https://iopscience.iop.org/article/10.1088/1757-899X/546/6/062030/meta)
 
 `2019`
-Potential _fatty acid composition_ of <u>hermetia</u> <u>illucens</u> oil reared on different substrates. doi: [10.1088/1757-899X/546/6/062002](https://iopscience.iop.org/article/10.1088/1757-899X/546/6/062002/meta)
+Potential _fatty acid composition_ of _Hermetia illucens_ oil reared on different substrates. doi: [10.1088/1757-899X/546/6/062002](https://iopscience.iop.org/article/10.1088/1757-899X/546/6/062002/meta)
 
 `2017`
-_Lowering chitin content_ of cricket (<u>gryllus</u> <u>assimilis</u>) through exoskeleton removal and _chemical extraction_ and its utilization as a ruminant feed in vitro. doi: [10.3923/pjbs.2017.523.529](https://scialert.net/abstract/?doi=pjbs.2017.523.529)
+_Lowering chitin content_ of cricket (_Gryllus assimilis_) through exoskeleton removal and _chemical extraction_ and its utilization as a ruminant feed in vitro. doi: [10.3923/pjbs.2017.523.529](https://scialert.net/abstract/?doi=pjbs.2017.523.529)
 
 
 ##### _Catatan_
