@@ -212,6 +212,16 @@ id = "peptida-clp1">
     <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-broiler-2.svg"; height="250px"><br/> Total fase parameter (BB, PPBH, dan FCR) nyata meningkat, KPH tidak signifikan</p>
   </script>
   </section>
+
+  <section
+  data-markdown
+  data-transition="slide-in fade-out"
+  id = "antibiotik-vs-pam">
+  <script>
+    <h4 style="font-size:35px"><a href="#/sampul"><b>Tabel</b> Meta-Analisis: Antibiotik vs PAM</a></h4>
+    <object data="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-antibiotik-vs-pam.pdf" width="775" height="475" type='application/pdf'/>
+  </script>
+  </section>
 </section>
 
 <section>
@@ -486,15 +496,15 @@ id = "pidato-penutup">
   Assalamualaikum Warahmatullahi Wabarakatuh
   <br/>Salam Sejahtera Bagi Kita Semua
   <br/><br/>Yang Terhormat:
-  <br/>1. Ketua dan Sekretaris Sidang Promosi;
-  <br/>2. Ketua beserta Anggota Komisi Promosi; dan
-  <br/>3. Hadirin Para Undangan.
-  <br/><br/>Puji dan syukur saya panjatkan kehadirat Tuhan Yang Maha Kuasa, karena berkat, ridho dan perkenan-Nyalah, maka pada hari ini saya mendapat limpahan karunia dan anugrah yang sangat besar dengan  mendapatkan gelar Doktor dalam bidang Peternakan, Bidang Kajian Utama Ilmu Nutrisi dan Pakan dari IPB University.
+  <br/>1. Rektor Institut Pertanian Bogor;
+  <br/>2. Ketua dan Sekretaris Sidang Promosi;
+  <br/>3. Ketua beserta Anggota Komisi Promosi; dan
+  <br/>4. Hadirin Para Undangan.
+  <br/><br/>Puji dan syukur saya panjatkan kehadirat Tuhan Yang Maha Kuasa, karena berkat, ridho dan perkenan-Nyalah, maka pada hari ini saya mendapat limpahan karunia dan anugrah yang sangat besar dengan  mendapatkan gelar Doktor dalam bidang Peternakan, Bidang Kajian Utama Ilmu Nutrisi dan Pakan dari Institut Pertanian Bogor.
   <br/><br/>Disamping karena Berkat dari Tuhan Yang Maha Kuasa, tentunya keberhasilan ini karena bantuan, arahan, dan bimbingan dari berbagai pihak. Untuk itu, saya menyampaikan penghargaan dan terima kasih setinggi-tingginya kepada:
-  <br/>1. <b>Bapak Prof. Dr. Arif Satria, SP.</b> Rektor IPB University;
-  <br/>2. <b>Bapak Dr. Ir. Idat Galih Permana, M.Sc.</b> atau <mark><b>Ibu Prof. Dr. Irma Isnafia Arief S.Pt., M.Si.</b></mark> selaku Pimpinan Sidang pada Sidang Promosi hari ini di Program Pascasarjana IPB University;
-  <br/>3. <b>Bapak Prof. Dr. Ir. Luki Abdullah, M.Sc.Agr.</b> atau <mark><b>Ibu Dr.rer.nat. Nur Rochmah Kumalasari S.Pt, M.Si.</b></mark> selaku Sekretaris Sidang;
-  <br/>4. Tim Promotor, yaitu: <b>Bapak Prof. Dr. Ir. Nahrowi, M.Sc.</b>, selaku KetuaPromotor terima kasih untuk bimbingannya selama ini;  <b>Bapak Dr. Anuraga Jayanegara, S.Pt., M.Sc.</b> selaku Anggota Promotor; dan <b>Bapak Prof. Dr. Aris Tri Wahyudi, M.Si.</b> selaku Anggota Tim Promotor.
+  <br/>1. <b>Bapak Prof. Dr. Arif Satria, SP.</b> Institut Pertanian Bogor;
+  <br/>2. <b>Bapak Dr. Ir. Idat Galih Permana, M.Sc.</b> atau <mark><b>Ibu Prof. Dr. Irma Isnafia Arief, S.Pt. M.Si.</b></mark> selaku Pimpinan Sidang pada Sidang Promosi hari ini di Program Pascasarjana Institut Pertanian Bogor;
+  <br/>3. <b>Bapak Prof. Dr. Ir. Luki Abdullah, M.Sc.Agr.</b> atau <mark><b>Ibu Dr.rer.nat. Nur Rochmah Kumalasari, S.Pt M.Si.</b></mark> selaku Sekretaris Sidang;
 </p>
 </script>
 </section>
@@ -505,16 +515,16 @@ data-transition="slide-in fade-out"
 id = "pidato-penutup-lanjutan">
 <script>
   <h4><a href="#/sampul">Pidato Penutup (lanjutan)</a></h4>
-  <p align="justify" style="font-size:20px">
-  Saya sampaikan terima kasih yang sebesar-besarnya kepada Tim Promotor yang telah bersusah payah dan dengan sabar membimbing, membina, dan mengarahkan sejak awal sampai akhir.
-  <br/>5. Penguji Sidang tertutup, yaitu: <b>Bapak Dr. Cahyo Budiman, S.Pt., M.Sc.</b>, selaku Staf pengajar IPB University dan <b>Ibu Dr. Dilla Mareistia Fassah, S.Pt., M.Sc.</b> selaku Staf pengajar IPB University.
-  <br/>6. Penguji Sidang promosi, yaitu: <b>Bapak Dr. Cahyo Budiman, S.Pt., M.Sc.</b>, selaku Staf pengajar Fakultas Peternakan, IPB University dan <b>Bapak Drh. Desianto Budi Utomo, Ph.D.</b> selaku Vice President, Charoen Pokphand Indonesia dan Ketua Umum Gabungan Perusahaan Makanan Ternak.
+  <p align="justify" style="font-size:19px">
+  <br/>4. Tim Promotor, yaitu: <b>Bapak Prof. Dr. Ir. Nahrowi, M.Sc.</b> selaku Ketua Promotor;  <b>Bapak Dr. Anuraga Jayanegara, S.Pt. M.Sc.</b> selaku Anggota Promotor; dan <b>Bapak Prof. Dr. Aris Tri Wahyudi, M.Si.</b> selaku Anggota Tim Promotor. Saya sampaikan terima kasih yang sebesar-besarnya kepada Tim Promotor yang telah bersusah payah dan dengan sabar membimbing, membina, dan mengarahkan sejak awal sampai akhir.
+  <br/>5. Penguji Sidang tertutup, yaitu: <b>Bapak Dr. Cahyo Budiman, S.Pt. M.Sc.</b> selaku Staf pengajar Institut Pertanian Bogor dan <b>Ibu Dr. Dilla Mareistia Fassah, S.Pt. M.Sc.</b> selaku Staf pengajar Institut Pertanian Bogor.
+  <br/>6. Penguji Sidang promosi, yaitu: <b>Bapak Dr. Cahyo Budiman, S.Pt. M.Sc.</b> selaku Staf pengajar di Fakultas Peternakan, Institut Pertanian Bogor dan <b>Bapak Drh. Desianto Budi Utomo, Ph.D.</b> selaku Vice President Charoen Pokphand Indonesia dan Ketua Umum Gabungan Perusahaan Makanan Ternak Indonesia.
   <br/><br/>Selanjutnya ucapan terimakasih juga saya sampaikan kepada:
-  <br/>1. <b>Bapak Prof Jun Nomura, Ph.D</b> selaku Promotor dari Chiba University.
-  <br/>2. Terima kasih juga saya sampaikan kepada keluarga, teman, staf pendidikan, dan pihak terkait lainnya selama menempuh pendidikan Doktor di IPB University.
+  <br/>1. <b>Bapak Prof. Jun Nomura, Ph.D</b> selaku Promotor dari Chiba University.
+  <br/>2. Terima kasih saya sampaikan kepada keluarga, teman, staf kependidikan, dan pihak terkait lainnya selama menempuh pendidikan Doktor di Institut Pertanian Bogor.
   <br/><br/> Hadirin yang saya Muliakan,
-  <br/>Semoga segala bentuk perhatian, dan bantuan dari semua pihak serta teman-teman undangan yang telah berkenan hadir dalam Sidang Promosi ini, mendapat balasan pahala dari Tuhan Yang Maha Kuasa.
-  <br/>Demikianlah pidato ini saya sampaikan, mohon maaf atas segala kesahan dan kekurangan yang saya lakukan selama ini.
+  <br/>Semoga segala bentuk perhatian dan bantuan dari semua pihak serta teman-teman undangan yang telah berkenan hadir dalam Sidang Promosi ini, mendapat balasan pahala dari Tuhan Yang Maha Kuasa.
+  <br/>Demikianlah pidato ini saya sampaikan, mohon maaf atas segala kesalahan dan kekurangan yang saya lakukan selama ini.
   <br/><br/>Wassalamualaikum Warahmatullahi Wabarakatuh
   <br/>Salam Sejahtera Bagi Kita Semua
 </p>
