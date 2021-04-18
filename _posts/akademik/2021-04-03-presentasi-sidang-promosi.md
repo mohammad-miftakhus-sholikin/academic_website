@@ -189,7 +189,7 @@ id = "peptida-clp1">
   id = "grafik-meta-broiler">
   <script>
     <h4><a href="#/sampul"><b>Grafik</b> Meta-Analisis: Performa Pertumbuhan Ayam Broiler</a></h4>
-    <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-broiler.svg"; width="875px"><br/> Dosis optimal PAM a. <mark>starter = 337</mark>, b. <mark>finisher = 359</mark>, dan c. <mark>total fase = 371</mark> (mg Kg<sup>-1</sup> dari pakan)</p>
+    <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-broiler.svg"; width="875px"><br/> Dosis optimal PAM a. <mark>starter = 337</mark>, b. <mark>finisher = 359</mark>, dan c. <mark>total fase = 371</mark> (mg Kg<sup>-1</sup> dari pakan); <b style="color:red">merah</b> (fase starter: rataan 1-21 hari), <b style="color:orange">jingga</b> (fase finisher: rataan 22-42 hari), dan <b style="color:purple">ungu</b> (total fase) </p>
   </script>
   </section>
 
@@ -231,7 +231,7 @@ id = "peptida-clp1">
   id = "grafik-meta-babi">
   <script>
     <h4><a href="#/sampul"><b>Grafik</b> Meta-Analisis: Performa Pertumbuhan Anak Babi</a></h4>
-    <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-babi.svg"; width="875px"><br/>  Dosis optimal PAM a. <mark>fase 1 = 213</mark> dan b. <mark>fase 2 = 221</mark> mg Kg<sup>-1</sup></p>
+    <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-babi.svg"; width="875px"><br/>  Dosis optimal PAM a. <mark>fase 1 = 213</mark> dan b. <mark>fase 2 = 221</mark> mg Kg<sup>-1</sup>; <b style="color:red">merah</b> (fase 1: rataan 22-35 hari), <b style="color:orange">jingga</b> (fase 2: rataan 36-49 hari), dan <b style="color:purple">ungu</b> (total fase)</p>
   </script>
   </section>
 
@@ -421,13 +421,13 @@ id = "publikasi-lain-1">
 <script>
 <h4><a href="#/sampul">Publikasi Lain</a></h4>
 
-|<small>No.</small>|<small>Kolabolator dan Publikasi</small>|<small>Jenis</small>|<small>Status</small>|
-|:----------------|:--------|:---:|-----:|
-|<small>5.</small>|<small>Artificial neural network model to predict crude protein and crude fiber from physical properties of feedstuffs</small>|<small>iop</small>|<small><a href="https://iopscience.iop.org/article/10.1088/1755-1315/372/1/012049/meta">terbit</a></small>|
-|<small>6.</small>|<small>Evaluate non-linear model logistic, gompertz, and weibull: Study case on calcium and phosphor requirements of laying hen</small>|<small>iop</small>|<small><a href="https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012016">terbit</a></small>|
-|<small>7.</small>|<small>Optimization of the <i>Hermetia illucens</i> larvae extraction process with response surface modelling and its amino acid profile and antibacterial activity</small>|<small>iop</small>|<small><a href="https://iopscience.iop.org/article/10.1088/1757-899X/546/6/062030/meta">terbit</a></small>|
-|<small>8.</small>|<small><b>M. Dzaky Alifian (Pascasarjana IPB)</b>; Potential fatty acid composition of <i>Hermetia illucens</i> oil reared on different substrates</small>|<small>iop</small>|<small><a href="https://iopscience.iop.org/article/10.1088/1757-899X/546/6/062002/meta">terbit</a></small>|
-||||
+|<small>No.</small>|<small>Publikasi</small>|<small>Jenis</small>|
+|:----------------|:--------|:---:|
+|<small>5.</small>|<small><small>Judul: Artificial neural network model to predict crude protein and crude fiber from physical properties of feedstuffs<br/><br/>Penulis: <b>Mohammad Miftakhus Sholikin</b>, M. D. Alifian, F.M. Purba, A. Jayanegara, dan Nahrowi</small></small>|<small>iop</small>|
+|<small>6.</small>|<small><small>Judul: Effect of dietary black cumin seed (<i>Nigella sativa</i>) on performance, immune status, and serum metabolites of small ruminants: A meta-analysis<br/><br/>Penulis: Sadarman, D. Febrina, Yendraliza, M. S. Haq, Rizki A. Nurfitriani, N. N. Barkah, <b>Mohammad Miftakhus Sholikin</b>, N. Qomariyah, A. Jayanegara, R. Solfaine, dan Yunilas</small></small>|<small>iop</small>|
+|<small>7.</small>|<small><small>Judul: Effect of dietary propolis supplementation on broiler chickens performance, nutrient digestibility, and carcass characteristics: A meta-analysis<br/><br/>Penulis: Sadarman, A. Irawan, Elfawati, <b>Mohammad Miftakhus Sholikin</b>, R. P. Harahap, R. K. Rusli, R. Solfaine, A. Sofyan, Nahrowi, dan A. Jayanegara</small></small>|<small>iop</small>|
+|<small>8.</small>|<small><small>Judul: Effect of dietary propolis supplementation on growth performance, intestinal morphology, antiviral immune response, and bacterial population of broiler chickens: a meta-analysis<br/><br/>Penulis: Sadarman, E. Erwan, A. Irawan, <b>Mohammad Miftakhus Sholikin</b>, R. Solfaine, R. P. Harahap, A. C. Irawan, A. Sofyan, Nahrowi, dan A. Jayanegara</small></small>|<small>iop</small>|
+|||
 </p>
 </script>
 </section>
@@ -439,13 +439,13 @@ id = "publikasi-lain-2">
 <script>
 <h4><a href="#/sampul">Publikasi Lain</a></h4>
 
-|<small>No.</small>|<small>Kolabolator dan Publikasi</small>|<small>Jenis</small>|<small>Status</small>|
-|:----------------|:--------|:---:|-----:|
-|<small>9.</small>|<small><b>Dr. Tri R. Prihambodo (Pascasarjana IPB)</b>; Effects of dietary flavonoids on performance, blood constituents, carcass composition and small intestinal morphology of broilers: A meta-analysis</small>|<small>AB (Q1)</small>|<small><a href="https://www.ajas.info/journal/view.php?number=24585">terbit</a></small>|
-|<small>10.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; Effect of dietary black cumin seed (Nigella sativa) on performance, immune status, and serum metabolites of small ruminants: A meta-analysis</small>|<small>SRR (Q2)</small>|<small>submit</small>|
-|<small>11.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; Effect of dietary propolis supplementation on broiler chickens performance, nutrient digestibility, and carcass characteristics: A meta-analysis</small>|<small>TASJ (Q2)</small>|<small>diterima</small>|
-|<small>12.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; Effect of dietary propolis supplementation on growth performance, intestinal morphology, antiviral immune response, and bacterial population of broiler chickens: a meta-analysis</small>|<small>AJOL (Q3)</small>|<small>revisi minor</small>|
-||||
+|<small>No.</small>|<small>Publikasi</small>|<small>Jenis</small>|
+|:----------------|:--------|:---:|
+|<small>9.</small>|<small><small>Judul: Effects of dietary flavonoids on performance, blood constituents, carcass composition and small intestinal morphology of broilers: A meta-analysis<br/><br/>Penulis: T. R. Prihambodo, <b>Mohammad Miftakhus Sholikin</b>, N. Qomariyah, A. Jayanegara, I. Batubara, D. B. Utomo, dan Nahrowi</small></small>|<small>AB (Q1)</small>|
+|<small>10.</small>|<small><small>Judul: Evaluate non-linear model logistic, gompertz, and weibull: Study case on calcium and phosphor requirements of laying hen<br/><br/>Penulis: <b>Mohammad Miftakhus Sholikin</b>, M. D. Alifian, A. T. Wahyudi, A. Jayanegara, dan Nahrowi</small></small>|<small>SRR (Q2)</small>|
+|<small>11.</small>|<small><small>Judul: Optimization of the <i>Hermetia illucens</i> larvae extraction process with response surface modelling and its amino acid profile and antibacterial activity<br/><br/>Penulis: <b>Mohammad Miftakhus Sholikin</b>, M. D. Alifian, A. Jayanegara, dan Nahrowi</small></small>|<small>TASJ (Q2)</small>|
+|<small>12.</small>|<small><small>Judul: Potential fatty acid composition of <i>Hermetia illucens</i> oil reared on different substrates<br/><br/>Penulis: M. D. Alifian, <b>Mohammad Miftakhus Sholikin</b>, D. Evvyernie, dan Nahrowi</small></small>|<small>AJOL (Q3)</small>|
+|||
 </p>
 </script>
 </section>
@@ -457,12 +457,12 @@ id = "publikasi-lain-3">
 <script>
 <h4><a href="#/sampul">Publikasi Lain</a></h4>
 
-|<small>No.</small>|<small>Kolabolator dan Publikasi</small>|<small>Jenis</small>|<small>Status</small>|
-|:----------------|:--------|:---:|-----:|
-|<small>13.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; The effects of mixed vitamins, minerals, fatty acids, and amino acids supplementation into drinking water on broiler chickens’ performance and carcass traits</small>|<small>JWPR (Q4)</small>|<small>diterima</small>|
-|<small>14.</small>|<small><b>Dr. Cecep Hidayat (Balitnak, Bogor)</b>; The effects of dietary tannins on performance, lymphoid organ weight, and amino acid illeal digestibility of broiler chickens: A meta-analysis</small>|<small>VetWorld (Q2)</small>|<small>diterima</small>|
-|<small>15.</small>|<small><b>Dr. Danung Nur Adli (Universitas Brawijaya)</b>; The effects of probiotics on the performance, egg quality, and blood parameters of laying hens: A meta-analysis</small>|<small>JAFS (Q2)</small>|<small><a href="http://www.jafs.com.pl/The-effects-of-probiotics-on-the-performance-egg-quality-and-blood-parameters-of,133432,0,2.html">terbit</a></small>|
-||||
+|<small>No.</small>|<small>Publikasi</small>|<small>Jenis</small>|
+|:----------------|:--------|:---:|
+|<small>13.</small>|<small><small>Judul: The effects of dietary tannins on performance, lymphoid organ weight, and amino acid illeal digestibility of broiler chickens: A meta-analysis<br/><br/>Penulis: C. Hidayat, A. Irawan, A. Jayanegara, <b>Mohammad Miftakhus Sholikin</b>, T. R. Prihambodo, Y. R. Yanza, E.Wina, Sadarman, R. Krisnan, dan Isbandi</small></small>|<small>JWPR (Q4)</small>|
+|<small>14.</small>|<small><small>Judul: The effects of mixed vitamins, minerals, fatty acids, and amino acids supplementation into drinking water on broiler chickens’ performance and carcass traits<br/><br/>Penulis: Sadarman, R. Arisandi, A. Hamid, E. Saleh, W. N. H. Zain, <b>Mohammad Miftakhus Sholikin</b>, T. R. Prihambodo, R. P. Harahap, R. Solfaine, A. Sofyan dan A. Irawan</small></small>|<small>VetWorld (Q2)</small>|
+|<small>15.</small>|<small><small>Judul: The effects of probiotics on the performance, egg quality, and blood parameters of laying hens: A meta-analysis<br/><br/>Penulis: O. Sjofjan, D. N. Adli, <b>Mohammad Miftakhus Sholikin</b>, A. Jayanegara, dan A. Irawan</small></small>|<small>JAFS (Q2)</small>|
+|||
 </script>
 </section>
 
