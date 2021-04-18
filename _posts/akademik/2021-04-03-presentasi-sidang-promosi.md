@@ -27,7 +27,7 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "flayer">
  <script>
-  <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-sholikin.svg"; height="475px">
+  <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-sholikin.svg"; height="545px"><br/><a href="{{ site.github.url }}/akademik/presentasi-sidang-promosi/?print-pdf">Bahan presentasi</p>
  </script>
 </section>
 
@@ -75,7 +75,7 @@ category: [akademik]
   <div class="r-stack">
     <img class="fragment" src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-proyeksi-antibiotik-1.png" width="475">
     <img class="fragment" src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-proyeksi-antibiotik-2.png" width="475">
-    <p align="center" style="font-size:20px"><img class="fragment" src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-proyeksi-antibiotik-3.png" width="475"><br/>Estimasi dosis AIP rata-rata 40 mg Kg<sup>-1</sup> dan PAM rata-rata 300 mg Kg<sup>-1</sup></p>
+    <p align="center" style="font-size:20px"><img class="fragment" src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-proyeksi-antibiotik-3.png" width="475"><br/>Estimasi dosis AIP rata-rata 40 mg Kg<sup>-1</sup> (<mark><b>781.2 Ribu Ton</b></mark>) dan PAM rata-rata 300 mg Kg<sup>-1</sup> (<mark><b>5859 Ribu Ton</b></mark>)</p>
   </div>
  </script>
 </section>
@@ -178,7 +178,7 @@ id = "peptida-clp1">
  id = "antikanker-maggot">
  <script>
   <h4><a href="#/sampul"><b>Grafik</b> Nilai IC50 Ekstrak Etanol dan Akuades dari Maggot</a></h4>
-  <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-ic50.svg"; height="375px"><br/> Nilai IC50 dari ekstrak akuades dan etanol maggot, sitotoksisititas<br/> (i) sitotoksik potensial &#x2192; IC50 <100 μg mL<sup>-1</sup>,<br/> (ii) sitotoksik moderat &#x2192; 100 μg mL<sup>-1</sup> < IC50 < 1000 μg mL<sup>-1</sup> dan<br/> (iii) tidak toksik &#x2192; IC50 >1000 μg mL <sup>-1</sup> (<a href="https://linkinghub.elsevier.com/retrieve/pii/S1382668917301126">Yun <i>et al</i>. 2017</a>).</p>
+  <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-ic50.svg"; height="375px"><br/> Nilai IC50 dari ekstrak akuades dan etanol maggot, sitotoksisititas<br/> (i) sitotoksik potensial &#x2192; IC50 <100 μg mL<sup>-1</sup>,<br/> (ii) sitotoksik moderat &#x2192; 100 μg mL<sup>-1</sup> < IC50 < 1000 μg mL<sup>-1</sup> dan<br/> (iii) tidak toksik &#x2192; IC50 >1000 μg mL <sup>-1</sup> (<a href="https://linkinghub.elsevier.com/retrieve/pii/S1382668917301126">Yun <i>et al</i>. 2017</a>)</p>
  </script>
 </section>
 
@@ -189,7 +189,7 @@ id = "peptida-clp1">
   id = "grafik-meta-broiler">
   <script>
     <h4><a href="#/sampul"><b>Grafik</b> Meta-Analisis: Performa Pertumbuhan Ayam Broiler</a></h4>
-    <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-broiler.svg"; width="875px"><br/> Dosis optimal PAM a. <mark>starter = 337</mark>, b. <mark>finisher = 359</mark>, dan c. <mark>total fase = 371</mark> (mg Kg<sup>-1</sup> dari pakan).</p>
+    <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-broiler.svg"; width="875px"><br/> Dosis optimal PAM a. <mark>starter = 337</mark>, b. <mark>finisher = 359</mark>, dan c. <mark>total fase = 371</mark> (mg Kg<sup>-1</sup> dari pakan)</p>
   </script>
   </section>
 
@@ -199,7 +199,7 @@ id = "peptida-clp1">
   id = "tabel-meta-broiler">
   <script>
     <h4 style="font-size:35px"><a href="#/sampul"><b>Tabel</b> Meta-Analisis: Performa Pertumbuhan Ayam Broiler</a></h4>
-    <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-broiler-1.svg"; height="375px"><br/> Performa pertumbuhan ayam broiler fase starter dan finisher (BB, PPBH, dan FCR) nyata meningkat sedangkan, KPH tidak signifikan.</p>
+    <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-broiler-1.svg"; height="375px"><br/> Performa pertumbuhan ayam broiler fase starter dan finisher (BB, PPBH, dan FCR) nyata meningkat sedangkan, KPH tidak signifikan</p>
   </script>
   </section>
 
@@ -209,7 +209,7 @@ id = "peptida-clp1">
   id = "tabel-meta-broiler-lanjutan">
   <script>
     <h4 style="font-size:35px"><a href="#/sampul"><b>Tabel</b> Meta-Analisis: Performa Pertumbuhan Ayam Broiler (lanjutan)</a></h4>
-    <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-broiler-2.svg"; height="250px"><br/> Total fase parameter (BB, PPBH, dan FCR) nyata meningkat, KPH tidak signifikan.</p>
+    <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-broiler-2.svg"; height="250px"><br/> Total fase parameter (BB, PPBH, dan FCR) nyata meningkat, KPH tidak signifikan</p>
   </script>
   </section>
 </section>
@@ -221,7 +221,7 @@ id = "peptida-clp1">
   id = "grafik-meta-babi">
   <script>
     <h4><a href="#/sampul"><b>Grafik</b> Meta-Analisis: Performa Pertumbuhan Anak Babi</a></h4>
-    <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-babi.svg"; width="875px"><br/>  Dosis optimal PAM a. <mark>fase 1 = 213</mark> dan b. <mark>fase 2 = 221</mark> mg Kg<sup>-1</sup>.</p>
+    <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-meta-babi.svg"; width="875px"><br/>  Dosis optimal PAM a. <mark>fase 1 = 213</mark> dan b. <mark>fase 2 = 221</mark> mg Kg<sup>-1</sup></p>
   </script>
   </section>
 
@@ -472,7 +472,7 @@ data-transition="slide-in fade-out"
 id = "terima-kasih-2">
 <script>
   <h4><a href="#/sampul">Terima Kasih</a></h4>
-  <p align="center" style="font-size:25px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-terimakasih-jun-nomura.svg"; width="875px"><br/>Prof Jun Nomura</p>
+  <p align="center" style="font-size:25px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-terimakasih-jun-nomura.svg"; width="875px"><br/>Prof. Jun Nomura, Ph.D. (Promotor Chiba University)</p>
 </script>
 </section>
 

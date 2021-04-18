@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2017036"
-     inkscape:cx="472.44094"
+     inkscape:cx="400.62992"
      inkscape:cy="383.62205"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,84 +57,91 @@
      id="layer1"
      transform="translate(0,-94)">
     <g
-       id="g1209"
-       transform="matrix(1.0344187,0,0,1.0344187,-4.3341797,-7.4121117)">
-      <text
-         id="text1091-0-3-2-2-8-7"
-         y="239.35159"
-         x="5.646153"
-         style="font-style:normal;font-weight:normal;font-size:5.50116873px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03146899"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1.03146899"
-           y="239.35159"
-           x="5.646153"
-           id="tspan1089-9-6-6-0-9-3"
-           sodipodi:role="line">3. PCR ke-2: Penggabungan T7-IRES-Kozak dengan CLP1</tspan></text>
+       id="g1107"
+       transform="matrix(1.0434337,0,0,1.0434337,-4.5854358,-7.237504)">
+      <rect
+         style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:2.13596988;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect919"
+         width="194.74544"
+         height="7.4662786"
+         x="10.896651"
+         y="177.63887" />
+      <rect
+         style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.97093153;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect921"
+         width="8.7106571"
+         height="10.162435"
+         x="5.5043383"
+         y="176.56181" />
       <text
          id="text1091-0-3-2-2-8"
-         y="183.26498"
-         x="5.646153"
-         style="font-style:normal;font-weight:normal;font-size:5.50116873px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03146899"
+         y="182.86961"
+         x="7.5454221"
+         style="font-style:normal;font-weight:normal;font-size:5.36028528px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00505328"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1.03146899"
-           y="183.26498"
-           x="5.646153"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1.00505328"
+           y="182.86961"
+           x="7.5454221"
            id="tspan1089-9-6-6-0-9"
-           sodipodi:role="line">2. PCR ke-1: Pembuatan template CLP1 dengan area <tspan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';stroke-width:1.03146899"
+           sodipodi:role="line"><tspan
+   style="fill:#ffffff;stroke-width:1.00505328"
+   id="tspan937">2.</tspan>   <tspan
+   style="fill:#aa0000;stroke-width:1.00505328"
+   id="tspan927">PCR ke-1: Pembuatan template CLP1 dengan area </tspan><tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#aa0000;stroke-width:1.00505328"
    id="tspan1718">overlapping</tspan></tspan></text>
       <rect
-         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.50619167;stroke-miterlimit:4;stroke-dasharray:none"
+         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.49322823;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1460"
-         width="13.339555"
-         height="2.4068847"
-         x="112.28784"
-         y="170.10944"
+         width="12.997932"
+         height="2.3452449"
+         x="112.49881"
+         y="169.37553"
          transform="rotate(15)" />
       <rect
-         y="196.74579"
-         x="76.696251"
-         height="2.4068844"
-         width="5.5299072"
+         y="196.00519"
+         x="76.775948"
+         height="2.3452446"
+         width="5.3882875"
          id="rect1458"
-         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.3259142;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.31756762;stroke-miterlimit:4;stroke-dasharray:none" />
       <path
          inkscape:transform-center-y="-3.9373214e-06"
          sodipodi:type="star"
-         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:1.47371626;stroke-miterlimit:4;stroke-dasharray:none"
+         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:1.43597472;stroke-miterlimit:4;stroke-dasharray:none"
          id="path1462"
          sodipodi:sides="3"
-         sodipodi:cx="82.89463"
-         sodipodi:cy="197.94925"
-         sodipodi:r1="2.6120095"
-         sodipodi:r2="1.3060048"
+         sodipodi:cx="82.815582"
+         sodipodi:cy="197.17783"
+         sodipodi:r1="2.5451167"
+         sodipodi:r2="1.2725583"
          sodipodi:arg1="0"
          sodipodi:arg2="1.0471976"
          inkscape:flatsided="true"
          inkscape:rounded="0"
          inkscape:randomized="0"
-         d="m 85.50664,197.94925 -3.918014,2.26207 v -4.52414 z"
+         d="m 85.360699,197.17783 -3.817675,2.20413 v -4.40827 z"
          inkscape:transform-center-x="-2.7900165" />
       <rect
-         y="202.19745"
-         x="76.696251"
-         height="2.4068844"
-         width="43.523636"
+         y="201.31723"
+         x="76.775948"
+         height="2.3452446"
+         width="42.409008"
          id="rect1466"
-         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.91433835;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.89092237;stroke-miterlimit:4;stroke-dasharray:none" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.36003065px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63000566"
-         x="101.83324"
-         y="200.84814"
+         style="font-style:normal;font-weight:normal;font-size:3.27398109px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6138714"
+         x="101.26918"
+         y="200.00247"
          id="text1470"><tspan
            sodipodi:role="line"
            id="tspan1468"
-           x="101.83324"
-           y="200.84814"
-           style="stroke-width:0.63000566">cDNA CLP1</tspan></text>
+           x="101.26918"
+           y="200.00247"
+           style="stroke-width:0.6138714">cDNA CLP1</tspan></text>
       <g
-         transform="matrix(0.62192528,0,0,0.62192528,2.4490969,96.534185)"
+         transform="matrix(0.60599794,0,0,0.60599794,4.430242,98.35997)"
          id="g2312">
         <rect
            style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.52404088;stroke-miterlimit:4;stroke-dasharray:none"
@@ -162,33 +169,22 @@
            sodipodi:type="star"
            transform="scale(-1,1)" />
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.36003065px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63000566"
-         x="102.07568"
-         y="253.6376"
-         id="text1470-4"><tspan
-           sodipodi:role="line"
-           id="tspan1468-7"
-           x="102.07568"
-           y="253.6376"
-           style="stroke-width:0.63000566">cDNA CLP1</tspan></text>
       <rect
-         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.50619167;stroke-miterlimit:4;stroke-dasharray:none"
+         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.49322823;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1493"
-         width="13.339555"
-         height="2.4068844"
-         x="63.356689"
-         y="219.95905" />
+         width="12.997932"
+         height="2.3452446"
+         x="63.778008"
+         y="218.62395" />
       <rect
-         y="219.95905"
-         x="76.696251"
-         height="2.4068844"
-         width="43.523636"
+         y="218.62395"
+         x="76.775948"
+         height="2.3452446"
+         width="42.409008"
          id="rect1499"
-         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.91433835;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.89092237;stroke-miterlimit:4;stroke-dasharray:none" />
       <g
-         transform="matrix(0,-0.30557124,0.30557124,0,78.70724,253.22356)"
+         transform="matrix(0,-0.29774564,0.29774564,0,78.735434,251.03657)"
          id="g1545"
          style="fill:#ffd5d5">
         <rect
@@ -219,80 +215,77 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:2.07584977px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38922176"
-         x="91.401382"
-         y="213.4873"
+         style="font-style:normal;font-weight:normal;font-size:2.02268791px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37925389"
+         x="91.104485"
+         y="212.31795"
          id="text1549"><tspan
            sodipodi:role="line"
            id="tspan1547"
-           x="91.401382"
-           y="213.4873"
-           style="stroke-width:0.38922176">PCR</tspan></text>
+           x="91.104485"
+           y="212.31795"
+           style="stroke-width:0.37925389">PCR</tspan></text>
+    </g>
+    <g
+       id="g1163"
+       transform="matrix(1.0434337,0,0,1.0434337,-4.5854358,-8.519066)">
       <rect
-         y="254.51363"
-         x="64.327988"
-         height="2.4068844"
-         width="13.339555"
-         id="rect1493-9"
-         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.50619167;stroke-miterlimit:4;stroke-dasharray:none" />
+         y="100.90211"
+         x="10.896651"
+         height="7.4662786"
+         width="112.82377"
+         id="rect923"
+         style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.62578011;stroke-miterlimit:4;stroke-dasharray:none" />
       <rect
-         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.91433835;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect1499-3"
-         width="43.523636"
-         height="2.4068844"
-         x="77.667542"
-         y="254.51363" />
+         y="99.825066"
+         x="5.5043383"
+         height="10.162435"
+         width="8.7106571"
+         id="rect925"
+         style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.97093153;stroke-miterlimit:4;stroke-dasharray:none" />
       <rect
-         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.91433835;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect1776"
-         width="43.523636"
-         height="2.4068844"
-         x="34.143898"
-         y="249.30807" />
-      <rect
-         y="114.39244"
-         x="34.143898"
-         height="2.4068844"
-         width="43.523636"
+         y="115.76088"
+         x="35.313347"
+         height="2.3452446"
+         width="42.409008"
          id="rect937"
-         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.91433835;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.89092237;stroke-miterlimit:4;stroke-dasharray:none" />
       <text
          id="text1091"
-         y="113.77167"
-         x="29.49614"
-         style="font-style:normal;font-weight:normal;font-size:3.36003065px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63000566"
+         y="115.15601"
+         x="30.784616"
+         style="font-style:normal;font-weight:normal;font-size:3.27398109px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6138714"
          xml:space="preserve"><tspan
-           style="stroke-width:0.63000566"
-           y="113.77167"
-           x="29.49614"
+           style="stroke-width:0.6138714"
+           y="115.15601"
+           x="30.784616"
            id="tspan1089"
            sodipodi:role="line">T7</tspan></text>
       <text
          id="text1091-0"
-         y="120.00432"
-         x="78.031822"
-         style="font-style:normal;font-weight:normal;font-size:3.36003065px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63000566"
+         y="121.22904"
+         x="78.077316"
+         style="font-style:normal;font-weight:normal;font-size:3.27398109px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6138714"
          xml:space="preserve"><tspan
-           style="stroke-width:0.63000566"
-           y="120.00432"
-           x="78.031822"
+           style="stroke-width:0.6138714"
+           y="121.22904"
+           x="78.077316"
            id="tspan1089-9"
            sodipodi:role="line">IRES <tspan
    id="tspan1231"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.63000566">reverse</tspan></tspan></text>
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.6138714">reverse</tspan></tspan></text>
       <text
          id="text1091-0-3"
-         y="120.32587"
-         x="22.672745"
-         style="font-style:normal;font-weight:normal;font-size:3.36003065px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63000566"
+         y="121.54235"
+         x="24.135967"
+         style="font-style:normal;font-weight:normal;font-size:3.27398109px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6138714"
          xml:space="preserve"><tspan
-           style="stroke-width:0.63000566"
-           y="120.32587"
-           x="22.672745"
+           style="stroke-width:0.6138714"
+           y="121.54235"
+           x="24.135967"
            id="tspan1089-9-6"
            sodipodi:role="line">vektor pT7CFE1</tspan></text>
       <g
-         transform="matrix(0.41261455,0,0,0.41261455,26.423543,107.48305)"
+         transform="matrix(0.4020476,0,0,0.4020476,27.790709,109.02844)"
          style="fill:#280b0b"
          id="g1200">
         <rect
@@ -318,7 +311,7 @@
            y="18.071655" />
       </g>
       <g
-         transform="matrix(0.41261455,0,0,0.41261455,-29.165211,107.48305)"
+         transform="matrix(0.4020476,0,0,0.4020476,-26.374432,109.02844)"
          id="g1208"
          style="fill:#280b0b">
         <rect
@@ -344,7 +337,7 @@
            style="opacity:1;fill:#280b0b;stroke:none;stroke-width:0.4436484;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
       <g
-         transform="matrix(0.20232634,0,0,0.20232634,47.827204,111.90447)"
+         transform="matrix(0.19714482,0,0,0.19714482,48.646228,113.33663)"
          id="g1229">
         <rect
            y="33.216988"
@@ -374,7 +367,7 @@
       </g>
       <g
          id="g1237"
-         transform="matrix(-0.20232634,0,0,0.20232634,63.98422,105.50451)">
+         transform="matrix(-0.19714482,0,0,0.19714482,64.389467,107.10057)">
         <rect
            style="opacity:1;fill:#280b0b;stroke:none;stroke-width:0.79125524;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1233"
@@ -404,7 +397,7 @@
       <g
          style="fill:#ffd5d5"
          id="g1245"
-         transform="matrix(0,-0.30557124,0.30557124,0,45.269586,165.33671)">
+         transform="matrix(0,-0.29774564,0.29774564,0,46.154109,165.40048)">
         <rect
            style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:0.79125524;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1241"
@@ -433,17 +426,17 @@
       </g>
       <text
          id="text1091-0-2"
-         y="125.60046"
-         x="57.963722"
-         style="font-style:normal;font-weight:normal;font-size:2.07584977px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38922176"
+         y="126.68186"
+         x="58.523151"
+         style="font-style:normal;font-weight:normal;font-size:2.02268791px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37925389"
          xml:space="preserve"><tspan
-           style="stroke-width:0.38922176"
-           y="125.60046"
-           x="57.963722"
+           style="stroke-width:0.37925389"
+           y="126.68186"
+           x="58.523151"
            id="tspan1089-9-3"
            sodipodi:role="line">PCR</tspan></text>
       <g
-         transform="matrix(0.41261455,0,0,0.41261455,20.064461,111.67534)"
+         transform="matrix(0.4020476,0,0,0.4020476,21.594481,113.11336)"
          id="g1300">
         <rect
            y="83.27166"
@@ -477,7 +470,7 @@
            inkscape:transform-center-x="-1.5825962" />
       </g>
       <g
-         transform="matrix(0,0.41261455,-0.41261455,0,73.22589,83.390921)"
+         transform="matrix(0,0.4020476,-0.4020476,0,73.39446,85.553302)"
          style="fill:#280b0b"
          id="g1295">
         <rect
@@ -504,26 +497,26 @@
       </g>
       <text
          id="text1091-0-3-2"
-         y="139.34377"
-         x="34.066788"
-         style="font-style:normal;font-weight:normal;font-size:3.36003065px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63000566"
+         y="140.07321"
+         x="35.238213"
+         style="font-style:normal;font-weight:normal;font-size:3.27398109px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6138714"
          xml:space="preserve"><tspan
-           style="stroke-width:0.63000566"
-           y="139.34377"
-           x="34.066788"
+           style="stroke-width:0.6138714"
+           y="140.07321"
+           x="35.238213"
            id="tspan1089-9-6-6"
            sodipodi:role="line">T7-IRES-Kozak</tspan></text>
       <rect
-         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.91433835;stroke-miterlimit:4;stroke-dasharray:none"
+         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.89092237;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1239"
-         width="43.523636"
-         height="2.4068844"
-         x="34.143898"
-         y="133.28632" />
+         width="42.409008"
+         height="2.3452446"
+         x="35.313347"
+         y="134.17088" />
       <g
          id="g1287"
          style="fill:#280b0b"
-         transform="matrix(0,0.41261455,-0.41261455,0,95.24699,95.299858)">
+         transform="matrix(0,0.4020476,-0.4020476,0,94.851605,97.157254)">
         <rect
            y="18.071655"
            x="125.87543"
@@ -547,25 +540,25 @@
            style="opacity:1;fill:#280b0b;stroke:none;stroke-width:0.4436484;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
       <rect
-         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.91433835;stroke-miterlimit:4;stroke-dasharray:none"
+         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.89092237;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1239-7"
-         width="43.523636"
-         height="2.4068844"
-         x="77.667542"
-         y="157.43523" />
+         width="42.409008"
+         height="2.3452446"
+         x="77.722359"
+         y="157.70135" />
       <text
          id="text1091-0-3-2-2"
-         y="156.08594"
-         x="102.80452"
-         style="font-style:normal;font-weight:normal;font-size:3.36003065px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63000566"
+         y="156.38661"
+         x="102.21559"
+         style="font-style:normal;font-weight:normal;font-size:3.27398109px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6138714"
          xml:space="preserve"><tspan
-           style="stroke-width:0.63000566"
-           y="156.08594"
-           x="102.80452"
+           style="stroke-width:0.6138714"
+           y="156.38661"
+           x="102.21559"
            id="tspan1089-9-6-6-0"
            sodipodi:role="line">cDNA CLP1</tspan></text>
       <g
-         transform="matrix(-0.41261455,0,0,0.41261455,238.81435,125.78891)"
+         transform="matrix(-0.4020476,0,0,0.4020476,234.74224,126.86549)"
          id="g1370">
         <rect
            y="88.888687"
@@ -593,30 +586,99 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.36003065px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63000566"
-         x="34.15374"
-         y="255.80534"
-         id="text1091-0-3-2-1"><tspan
-           sodipodi:role="line"
-           id="tspan1089-9-6-6-9"
-           x="34.15374"
-           y="255.80534"
-           style="stroke-width:0.63000566">T7-IRES-Kozak</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:5.50116873px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03146899"
-         x="5.646153"
-         y="104.3863"
+         style="font-style:normal;font-weight:normal;font-size:5.36028528px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00505328"
+         x="7.5454221"
+         y="106.01099"
          id="text1091-0-3-2-2-8-6"><tspan
            sodipodi:role="line"
            id="tspan1089-9-6-6-0-9-1"
-           x="5.646153"
-           y="104.3863"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1.03146899">1. Pembuatan fragmen T7-IRES-Kozak</tspan></text>
+           x="7.5454221"
+           y="106.01099"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1.00505328"><tspan
+   style="fill:#ffffff;stroke-width:1.00505328"
+   id="tspan939">1.</tspan>   <tspan
+   style="fill:#aa0000;stroke-width:1.00505328"
+   id="tspan941">Pembuatan fragmen T7-IRES-Kozak</tspan></tspan></text>
+    </g>
+    <g
+       id="g1082"
+       transform="matrix(1.0434337,0,0,1.0434337,-4.5854358,-4.843286)">
+      <rect
+         y="231.56198"
+         x="10.896651"
+         height="7.4662786"
+         width="169.85783"
+         id="rect915"
+         style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.99482274;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         y="230.48494"
+         x="5.5043383"
+         height="10.162435"
+         width="8.7106571"
+         id="rect913"
+         style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.97093153;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         id="text1091-0-3-2-2-8-7"
+         y="237.51987"
+         x="7.5454221"
+         style="font-style:normal;font-weight:normal;font-size:5.36028528px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1.00505328"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800000;stroke-width:1.00505328"
+           y="237.51987"
+           x="7.5454221"
+           id="tspan1089-9-6-6-0-9-3"
+           sodipodi:role="line"><tspan
+   style="fill:#ffffff;stroke-width:1.00505328"
+   id="tspan917">3.</tspan>   <tspan
+   style="fill:#aa0000"
+   id="tspan1165">PCR ke-2: Penggabungan T7-IRES-Kozak dengan CLP1</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.27398109px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6138714"
+         x="101.50542"
+         y="251.44002"
+         id="text1470-4"><tspan
+           sodipodi:role="line"
+           id="tspan1468-7"
+           x="101.50542"
+           y="251.44002"
+           style="stroke-width:0.6138714">cDNA CLP1</tspan></text>
+      <rect
+         y="252.29359"
+         x="64.724434"
+         height="2.3452446"
+         width="12.997932"
+         id="rect1493-9"
+         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.49322823;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.89092237;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1499-3"
+         width="42.409008"
+         height="2.3452446"
+         x="77.722359"
+         y="252.29359" />
+      <rect
+         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.89092237;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1776"
+         width="42.409008"
+         height="2.3452446"
+         x="35.313347"
+         y="247.22136" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.27398109px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6138714"
+         x="35.322937"
+         y="253.55223"
+         id="text1091-0-3-2-1"><tspan
+           sodipodi:role="line"
+           id="tspan1089-9-6-6-9"
+           x="35.322937"
+           y="253.55223"
+           style="stroke-width:0.6138714">T7-IRES-Kozak</tspan></text>
       <g
          style="fill:#ffd5d5"
          id="g2304"
-         transform="matrix(0,-0.30557124,0.30557124,0,78.70724,303.73159)">
+         transform="matrix(0,-0.29774564,0.29774564,0,78.735434,300.2511)">
         <rect
            style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:0.79125524;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect2300"
@@ -645,17 +707,17 @@
       </g>
       <text
          id="text2308"
-         y="263.99533"
-         x="91.401382"
-         style="font-style:normal;font-weight:normal;font-size:2.07584977px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38922176"
+         y="261.53247"
+         x="91.104485"
+         style="font-style:normal;font-weight:normal;font-size:2.02268791px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37925389"
          xml:space="preserve"><tspan
-           style="stroke-width:0.38922176"
-           y="263.99533"
-           x="91.401382"
+           style="stroke-width:0.37925389"
+           y="261.53247"
+           x="91.104485"
            id="tspan2306"
            sodipodi:role="line">PCR ekstensi</tspan></text>
       <g
-         transform="matrix(0.62192528,0,0,0.62192528,3.4203909,165.03403)"
+         transform="matrix(0.60599794,0,0,0.60599794,5.3766614,165.10555)"
          id="g2318">
         <rect
            transform="scale(-1,1)"
@@ -684,30 +746,30 @@
            inkscape:transform-center-x="-1.5825962" />
       </g>
       <rect
-         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.50619167;stroke-miterlimit:4;stroke-dasharray:none"
+         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.49322823;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect2320"
-         width="13.339555"
-         height="2.4068844"
-         x="64.327988"
-         y="270.30942" />
+         width="12.997932"
+         height="2.3452446"
+         x="64.724434"
+         y="267.68488" />
       <rect
-         y="270.30942"
-         x="77.667542"
-         height="2.4068844"
-         width="43.523636"
+         y="267.68488"
+         x="77.722359"
+         height="2.3452446"
+         width="42.409008"
          id="rect2322"
-         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.91433835;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.89092237;stroke-miterlimit:4;stroke-dasharray:none" />
       <rect
-         y="270.30942"
-         x="34.143898"
-         height="2.4068844"
-         width="43.523636"
+         y="267.68488"
+         x="35.313347"
+         height="2.3452446"
+         width="42.409008"
          id="rect2324"
-         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.91433835;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.89092237;stroke-miterlimit:4;stroke-dasharray:none" />
       <g
          style="fill:#800000"
          id="g2330"
-         transform="matrix(-0.62192528,0,0,0.62192528,151.91468,154.77225)">
+         transform="matrix(-0.60599794,0,0,0.60599794,150.06805,155.10657)">
         <rect
            style="opacity:1;fill:#800000;stroke:none;stroke-width:0.52404088;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect2326"
@@ -735,7 +797,7 @@
            transform="scale(-1,1)" />
       </g>
       <g
-         transform="matrix(0,-0.30557124,0.30557124,0,78.70724,323.12962)"
+         transform="matrix(0,-0.29774564,0.29774564,0,78.735434,319.15236)"
          id="g2336"
          style="fill:#ffd5d5">
         <rect
@@ -766,36 +828,36 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:2.07584977px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38922176"
-         x="91.401382"
-         y="283.39337"
+         style="font-style:normal;font-weight:normal;font-size:2.02268791px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37925389"
+         x="91.104485"
+         y="280.43375"
          id="text2340"><tspan
            sodipodi:role="line"
            id="tspan2338"
-           x="91.401382"
-           y="283.39337"
-           style="stroke-width:0.38922176">PCR standar</tspan></text>
+           x="91.104485"
+           y="280.43375"
+           style="stroke-width:0.37925389">PCR standar</tspan></text>
       <rect
-         y="289.70746"
-         x="64.327988"
-         height="2.4068844"
-         width="13.339555"
+         y="286.58612"
+         x="64.724434"
+         height="2.3452446"
+         width="12.997932"
          id="rect2348"
-         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.50619167;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.49322823;stroke-miterlimit:4;stroke-dasharray:none" />
       <rect
-         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.91433835;stroke-miterlimit:4;stroke-dasharray:none"
+         style="opacity:1;fill:#ff6600;stroke:none;stroke-width:0.89092237;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect2350"
-         width="43.523636"
-         height="2.4068844"
-         x="77.667542"
-         y="289.70746" />
+         width="42.409008"
+         height="2.3452446"
+         x="77.722359"
+         y="286.58612" />
       <rect
-         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.91433835;stroke-miterlimit:4;stroke-dasharray:none"
+         style="opacity:1;fill:#800000;stroke:none;stroke-width:0.89092237;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect2352"
-         width="43.523636"
-         height="2.4068844"
-         x="34.143898"
-         y="289.70746" />
+         width="42.409008"
+         height="2.3452446"
+         x="35.313347"
+         y="286.58612" />
     </g>
   </g>
 </svg>
