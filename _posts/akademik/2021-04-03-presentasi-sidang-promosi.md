@@ -39,7 +39,7 @@ category: [akademik]
  id = "sampul">
  <script>
     <h4><a href = "{{ site.github.url }}/laman/akademik/"><b>Kajian <i>in silico</i> dan <i>in vitro</i> peptida antimikroba pada<br/>ayam broiler dan anak babi</b></a></h4>
-    <hr><small><small>Komisi Promosi Utama:</small><br/>Prof. Dr. Ir. Nahrowi, MS.c.<br/>Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br/>Prof. Dr. Ir. Aris Tri Wahyudi, M.S.</small>
+    <hr><small><small>Komisi Promosi Utama:</small><br/>Prof. Dr. Ir. Nahrowi, MS.c.<br/>Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br/>Prof. Dr. Aris Tri Wahyudi, M.Si.</small>
     <hr><small><small>Komisi Promosi Tambahan:</small><br/>Dr. Cahyo Budiman, S.Pt. M.Eng.<br/>Drh. Desianto Budi Utomo, Ph.D.</small>
     <hr><small><small>Promovenda:</small><br/><b>Mohammad Miftakhus Sholikin</b></small>
  </script>
@@ -476,7 +476,7 @@ id = "peptida-clp1">
     <h4><a href="#/sampul">Pidato Penutup</a></h4>
     <p align="justify" style="font-size:20px">
     Assalamualaikum Warahmatullahi Wabarakatuh
-    <br/>Salam Sejahtera Bagi Kita Semua
+    <br/>Salam Sejahtera Bagi Kita Semuaw
     <br/><br/>Yang Terhormat:
     <br/>1. Ketua dan Sekretaris Sidang Promosi;
     <br/>2. Ketua beserta Anggota Komisi Promosi; dan
@@ -485,7 +485,7 @@ id = "peptida-clp1">
     <br/><br/>Disamping karena Berkat dari Tuhan Yang Maha Kuasa, tentunya keberhasilan ini karena bantuan, arahan, dan bimbingan dari berbagai pihak. Untuk itu, saya menyampaikan penghargaan dan terima kasih setinggi-tingginya kepada:
     <br/>1. Bapak Dr. Ir. Idat Galih Permana, M.Sc. atau <mark>Ibu Prof. Dr. Irma Isnafia Arief S.Pt., M.Si. </mark> selaku Pimpinan Sidang pada Sidang Promosi hari ini di Program Pascasarjana IPB University;
     <br/>2. Bapak Prof. Dr. Ir. Luki Abdullah, M.Sc.Agr. atau <mark>Dr.rer.nat., Nur Rochmah Kumalasari S.Pt, M.Si. </mark>selaku Sekretaris Sidang;
-    <br/>3. Tim Promotor, yaitu: Bapak Prof. Dr. Ir. Nahrowi, M.Sc., selaku KetuaPromotor terima kasih untuk bimbingannya selama ini;  Bapak Dr. Anuraga Jayanegara, S.Pt., M.Sc. selaku Anggota Promotor; dan Bapak Prof. Dr. Ir. Aris Tri Wahyudi, M.S. selaku Anggota Tim Promotor.
+    <br/>3. Tim Promotor, yaitu: Bapak Prof. Dr. Ir. Nahrowi, M.Sc., selaku KetuaPromotor terima kasih untuk bimbingannya selama ini;  Bapak Dr. Anuraga Jayanegara, S.Pt., M.Sc. selaku Anggota Promotor; dan Bapak Prof. Dr. Aris Tri Wahyudi, M.Si. selaku Anggota Tim Promotor.
   </p>
   </script>
   </section>
