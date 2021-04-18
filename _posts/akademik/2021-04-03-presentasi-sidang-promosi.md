@@ -472,7 +472,7 @@ category: [akademik]
   data-transition="slide-in fade-out"
   id = "terima-kasih-2">
   <script>
-    <h4><a href="#/sampul">Terima kasih</a></h4>
+    <h4><a href="#/sampul">Terima Kasih</a></h4>
     <p align="center" style="font-size:25px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-terimakasih-jun-nomura.svg"; width="875px"><br/>Prof. Jun Nomura</p>
   </script>
   </section>
