@@ -471,7 +471,7 @@ id = "peptida-clp1">
   <section
   data-markdown
   data-transition="slide-in fade-out"
-  id = "pidato-penutup">
+  id = "pidato-penutup-1">
   <script>
     <h4><a href="#/sampul">Pidato Penutup</a></h4>
     <p align="justify" style="font-size:20px">
@@ -492,13 +492,13 @@ id = "peptida-clp1">
   <section
   data-markdown
   data-transition="slide-in fade-out"
-  id = "pidato-penutup">
+  id = "pidato-penutup-2">
   <script>
-    <h4><a href="#/sampul">Pidato Penutup</a></h4>
+    <h4><a href="#/sampul">Pidato Penutup (lanjutan)</a></h4>
     <p align="justify" style="font-size:20px">
     Saya sampaikan terima kasih yang sebesar-besarnya kepada Tim Promotor yang telah bersusah payah dan dengan sabar membimbing, membina, dan mengarahkan sejak awal sampai akhir.
-    <br/>4. Penguji Sidang tertutup, yaitu: Bapak Dr. Cahyo Budiman, S.Pt., M.Sc., (Staf pengajar IPB University) dan Ibu Dr. Dilla Mareistia Fassah, S.Pt., M.Sc. (Staf pengajar IPB University).
-    <br/>5. Penguji Sidang promosi, yaitu: Bapak Dr. Cahyo Budiman, S.Pt., M.Sc., (Staf pengajar IPB University) dan Bapak Drh. Desianto Budi Utomo, Ph.D. (Vice President, Charoen Pokphand Indonesia.
+    <br/>4. Penguji Sidang tertutup, yaitu: Bapak Dr. Cahyo Budiman, S.Pt., M.Sc., selaku Staf pengajar IPB University dan Ibu Dr. Dilla Mareistia Fassah, S.Pt., M.Sc. selaku Staf pengajar IPB University.
+    <br/>5. Penguji Sidang promosi, yaitu: Bapak Dr. Cahyo Budiman, S.Pt., M.Sc., selaku Staf pengajar IPB University dan Bapak Drh. Desianto Budi Utomo, Ph.D. selaku Vice President, Charoen Pokphand Indonesia dan Ketua Umum Gabungan Perusahaan Makanan Ternak.
     <br/><br/>Selanjutnya ucapan terimakasih juga saya sampaikan kepada:
     <br/>1. Bapak Prof Jun Nomura, Ph.D selaku Promotor dari Chiba University.
     <br/>2. Terima kasih juga saya sampaikan kepada keluarga, teman, staf pendidikan, dan pihak terkait lainnya selama menempuh pendidikan Doktor di IPB University.
