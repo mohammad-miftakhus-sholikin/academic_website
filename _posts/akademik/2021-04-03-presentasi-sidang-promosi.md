@@ -27,7 +27,7 @@ category: [akademik]
  data-transition="slide-in fade-out"
  id = "flayer">
  <script>
-   <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-sholikin.svg"; height="575px">
+  <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-sholikin.svg"; height="575px">
  </script>
 </section>
 
@@ -86,10 +86,10 @@ category: [akademik]
   <section
   data-markdown
   data-transition="slide-in fade-out"
-  id = "parameter-penelitian">
+  id = "alur-penelitian">
   <script>
   <h4><a href="#/sampul">Alur dari Riset</a></h4>
-  <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-alur-penelitian.svg"; height="475px"> <br/>Alur <mark>Kajian <i>In Silico</i> dan <i>In Vitro</i> Peptida Antimikroba pada Ayam Broiler dan Anak Babi</mark></p>
+  <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-alur-penelitian.svg"; width="875px">
   </script>
   </section>
   
@@ -99,22 +99,36 @@ category: [akademik]
   id = "parameter-penelitian">
   <script>
   <h4><a href="#/sampul">Parameter Penelitian</a></h4>
-  <p align="center" style="font-size:20px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-parameter-penelitian.svg"; height="475px"> <br/>Parameter <mark>Kajian <i>In Silico</i> dan <i>In Vitro</i> Peptida Antimikroba pada Ayam Broiler dan Anak Babi</mark></p>
+  <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-parameter-penelitian.svg"; height="475px">
   </script>
   </section>
 </section>
 
-<section
- data-markdown
- data-transition="slide-in fade-out"
- id = "langkah-sintesis-clp1">
- <script>
- <h4><a href="#/sampul"><b>Langkah</b> Sintesis <i>Cecropin Like-Peptide</i> 1 asal Maggot</a></h4>
- <div>
-  <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-langkah-sintesis-clp1.svg"; height="575px">
- </div>
- </script>
+<section>
+  <section
+  data-markdown
+  data-transition="slide-in fade-out"
+  id = "langkah-sintesis-clp1">
+  <script>
+  <h4><a href="#/sampul"><b>Langkah</b> Sintesis <i>Cecropin Like-Peptide</i> 1 asal Maggot</a></h4>
+  <div>
+    <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-langkah-sintesis-clp1.svg"; height="575px">
+  </div>
+  </script>
+  </section>
+  <section
+  data-markdown
+  data-transition="slide-in fade-out"
+  id = "langkah-template-clp1">
+  <script>
+  <h4><a href="#/sampul"><b>Langkah</b> Pembuatan Template <i>Cecropin Like-Peptide</i> 1</a></h4>
+  <div>
+    <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-langkah-template-clp1.svg"; height="575px">
+  </div>
+  </script>
+  </section>
 </section>
+
 <section
  data-markdown
  data-transition="slide-in fade-out"
@@ -315,7 +329,7 @@ category: [akademik]
  id = "simpulan-penelitian">
  <script>
  <h4><a href="#/sampul">Simpulan</a></h4>
- <p align="justify" style="font-size:25px">1. Ayam broiler dan anak babi dapat dipicu performa pertumbuhannya menggunakan peptida antimikroba<br/> 2. Level optimal peptida antimikroba pada <b style="color:#b32400">ayam broiler adalah 337 dan 359 mg Kg<sup>-1</sup></b> masing-masing pada fase starter dan finisher secara berurutan. Level optimal untuk <b style="color:#b32400">anak babi yaitu, 213 dan 221 mg Kg<sup>-1</sup></b> masing-masing pada fase 1 dan 2 secara berurutan.<br/> 3. Nilai IC50 ekstrak etanol maggot adalah 203.76 dan 246.2 μg mL<sup>-1</sup></b> masing-masing pada sel leukimia MOLT4 dan K562 secara berurutan.</p>
+ <p align="justify" style="font-size:25px">1. PAM konsisten meningkatkan performa pertumbuhan broiler dan anak babi<br/> 2. Level optimal peptida antimikroba pada <b style="color:#b32400">ayam broiler adalah 337 dan 359 mg Kg<sup>-1</sup></b> masing-masing pada fase starter dan finisher secara berurutan. Level optimal untuk <b style="color:#b32400">anak babi yaitu, 213 dan 221 mg Kg<sup>-1</sup></b> masing-masing pada fase 1 dan 2 secara berurutan.<br/> 3. Nilai IC50 ekstrak akuades adalah 123 dan 114 μg mL<sup>-1</sup></b> masing-masing pada sel leukimia MOLT4 dan K562 secara berurutan.</p>
  </script>
 </section>
 
@@ -443,13 +457,45 @@ category: [akademik]
   </section>
 </section>
 
+<section>
+  <section
+  data-markdown
+  data-transition="slide-in fade-out"
+  id = "terima-kasih-1">
+  <script>
+    <h4><a href="#/sampul">Terima kasih</a></h4>
+    <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-terima-kasih.svg"; height="575px">
+  </script>
+  </section>
+  <section
+  data-markdown
+  data-transition="slide-in fade-out"
+  id = "terima-kasih-2">
+  <script>
+    <h4><a href="#/sampul">Terima kasih</a></h4>
+    <p align="center" style="font-size:25px"><img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-terimakasih-jun-nomura.svg"; width="875px"><br/>Prof. Jun Nomura</p>
+  </script>
+  </section>
+</section>
+
+<section
+ data-markdown
+ data-transition="slide-in fade-out"
+ id = "kalimat-penutup">
+ <script>
+ <h4><a href="#/sampul">Kalimat Penutup</a></h4>
+ <p align="justify" style="font-size:25px">
+ Terima kasih
+ </p>
+ </script>
+</section>
+
 <section
  data-markdown
  data-transition="slide-in fade-out"
  id = "sampul-belakang">
  <script>
- <small>Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)</small>
- <br/><small><small>Kembali ke <a href="#/sampul">sampul</a></small></small>
- </p>
+  <small>Presentasi ini dibuat menggunakan [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)</small>
+  <br/><small><small>Kembali ke <a href="#/sampul">sampul</a></small></small>
  </script>
 </section>

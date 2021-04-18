@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="30cm"
-   height="17cm"
-   viewBox="0 0 299.99999 170"
+   width="32cm"
+   height="20cm"
+   viewBox="0 0 319.99999 200"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -146,11 +146,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2558889"
-     inkscape:cx="566.92913"
-     inkscape:cy="321.25984"
+     inkscape:zoom="1.1773958"
+     inkscape:cx="604.72441"
+     inkscape:cy="377.95276"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4464"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
@@ -176,7 +176,9 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="ketergantungan"
-     transform="translate(0,-39.999999)">
+     transform="translate(0,-10)"
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        transform="matrix(-3.3774274,0,0,3.3774274,699.42284,-394.05337)"
        id="g1402-2" />
@@ -266,7 +268,7 @@
     </g>
     <g
        id="g2540"
-       transform="translate(0,176.12359)">
+       transform="translate(0,194.66292)">
       <g
          transform="matrix(0.31554417,0,0,0.31554417,114.55268,187.95463)"
          id="clust1"
@@ -275,7 +277,7 @@
            id="title6">cluster_0</title>
         <polygon
            style="fill:#ffd5d5;stroke:#ffd5d5"
-           points="122,-8 8,-8 8,-379 122,-379 "
+           points="8,-8 8,-379 122,-379 122,-8 "
            id="polygon8" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -293,7 +295,7 @@
            id="title13">cluster_1</title>
         <polygon
            style="fill:#ffd5d5;stroke:#ffd5d5"
-           points="244,-8 130,-8 130,-379 244,-379 "
+           points="130,-8 130,-379 244,-379 244,-8 "
            id="polygon15" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -311,7 +313,7 @@
            id="title20">cluster_2</title>
         <polygon
            style="fill:#ffd5d5;stroke:#ffd5d5"
-           points="422,-8 252,-8 252,-379 422,-379 "
+           points="252,-8 252,-379 422,-379 422,-8 "
            id="polygon22" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -329,7 +331,7 @@
            id="title27">cluster_3</title>
         <polygon
            style="fill:#ffd5d5;stroke:#ffd5d5"
-           points="566,-8 430,-8 430,-379 566,-379 "
+           points="430,-8 430,-379 566,-379 566,-8 "
            id="polygon29" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -347,7 +349,7 @@
            id="title34">a0</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="114,-310 114,-348 16,-348 16,-310 "
+           points="114,-348 16,-348 16,-310 114,-310 "
            id="polygon36" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -370,7 +372,7 @@
            id="title43">a1</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="93,-236 93,-274 37,-274 37,-236 "
+           points="93,-274 37,-274 37,-236 93,-236 "
            id="polygon45" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -398,7 +400,7 @@
            id="path54" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="68.5,-284.41 65,-274.41 61.5,-284.41 "
+           points="61.5,-284.41 68.5,-284.41 65,-274.41 "
            id="polygon56" />
       </g>
       <g
@@ -409,7 +411,7 @@
            id="title59">a2</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="107.5,-162 107.5,-200 22.5,-200 22.5,-162 "
+           points="107.5,-200 22.5,-200 22.5,-162 107.5,-162 "
            id="polygon61" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -437,7 +439,7 @@
            id="path70" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="68.5,-210.41 65,-200.41 61.5,-210.41 "
+           points="61.5,-210.41 68.5,-210.41 65,-200.41 "
            id="polygon72" />
       </g>
       <g
@@ -448,7 +450,7 @@
            id="title75">a3</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="93.5,-88 93.5,-126 36.5,-126 36.5,-88 "
+           points="93.5,-126 36.5,-126 36.5,-88 93.5,-88 "
            id="polygon77" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -476,7 +478,7 @@
            id="path86" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="68.5,-136.41 65,-126.41 61.5,-136.41 "
+           points="61.5,-136.41 68.5,-136.41 65,-126.41 "
            id="polygon88" />
       </g>
       <g
@@ -487,7 +489,7 @@
            id="title91">a4</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="111,-16 111,-52 19,-52 19,-16 "
+           points="111,-52 19,-52 19,-16 111,-16 "
            id="polygon93" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start;fill:#800000"
@@ -517,7 +519,7 @@
            id="path102" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="68.5,-62 65,-52 61.5,-62 "
+           points="61.5,-62 68.5,-62 65,-52 "
            id="polygon104" />
       </g>
       <g
@@ -528,7 +530,7 @@
            id="title107">b0</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="236,-310 236,-348 138,-348 138,-310 "
+           points="236,-348 138,-348 138,-310 236,-310 "
            id="polygon109" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -551,7 +553,7 @@
            id="title116">b1</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="226.5,-236 226.5,-274 147.5,-274 147.5,-236 "
+           points="226.5,-274 147.5,-274 147.5,-236 226.5,-236 "
            id="polygon118" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -579,7 +581,7 @@
            id="path127" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="190.5,-284.41 187,-274.41 183.5,-284.41 "
+           points="183.5,-284.41 190.5,-284.41 187,-274.41 "
            id="polygon129" />
       </g>
       <g
@@ -590,7 +592,7 @@
            id="title132">b2</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="231.5,-162 231.5,-200 142.5,-200 142.5,-162 "
+           points="231.5,-200 142.5,-200 142.5,-162 231.5,-162 "
            id="polygon134" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -618,7 +620,7 @@
            id="path143" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="190.5,-210.41 187,-200.41 183.5,-210.41 "
+           points="183.5,-210.41 190.5,-210.41 187,-200.41 "
            id="polygon145" />
       </g>
       <g
@@ -629,7 +631,7 @@
            id="title148">b3</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="215.5,-88 215.5,-126 158.5,-126 158.5,-88 "
+           points="215.5,-126 158.5,-126 158.5,-88 215.5,-88 "
            id="polygon150" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -657,7 +659,7 @@
            id="path159" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="190.5,-136.41 187,-126.41 183.5,-136.41 "
+           points="183.5,-136.41 190.5,-136.41 187,-126.41 "
            id="polygon161" />
       </g>
       <g
@@ -668,7 +670,7 @@
            id="title164">b4</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="235.5,-16 235.5,-52 138.5,-52 138.5,-16 "
+           points="235.5,-52 138.5,-52 138.5,-16 235.5,-16 "
            id="polygon166" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start;fill:#800000"
@@ -691,7 +693,7 @@
            id="path173" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="190.5,-62 187,-52 183.5,-62 "
+           points="183.5,-62 190.5,-62 187,-52 "
            id="polygon175" />
       </g>
       <g
@@ -702,7 +704,7 @@
            id="title178">c0</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="380,-310 380,-348 294,-348 294,-310 "
+           points="380,-348 294,-348 294,-310 380,-310 "
            id="polygon180" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -725,7 +727,7 @@
            id="title187">c1</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="414,-236 414,-274 260,-274 260,-236 "
+           points="414,-274 260,-274 260,-236 414,-236 "
            id="polygon189" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -753,7 +755,7 @@
            id="path198" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="340.5,-284.41 337,-274.41 333.5,-284.41 "
+           points="333.5,-284.41 340.5,-284.41 337,-274.41 "
            id="polygon200" />
       </g>
       <g
@@ -764,7 +766,7 @@
            id="title203">c2</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="386,-162 386,-200 288,-200 288,-162 "
+           points="386,-200 288,-200 288,-162 386,-162 "
            id="polygon205" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -792,7 +794,7 @@
            id="path214" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="340.5,-210.41 337,-200.41 333.5,-210.41 "
+           points="333.5,-210.41 340.5,-210.41 337,-200.41 "
            id="polygon216" />
       </g>
       <g
@@ -803,7 +805,7 @@
            id="title219">c3</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="393,-89 393,-125 281,-125 281,-89 "
+           points="393,-125 281,-125 281,-89 393,-89 "
            id="polygon221" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -825,7 +827,7 @@
            id="path228" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="340.5,-135.42 337,-125.42 333.5,-135.42 "
+           points="333.5,-135.42 340.5,-135.42 337,-125.42 "
            id="polygon230" />
       </g>
       <g
@@ -836,7 +838,7 @@
            id="title233">c4</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="386,-16 386,-52 288,-52 288,-16 "
+           points="386,-52 288,-52 288,-16 386,-16 "
            id="polygon235" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start;fill:#800000"
@@ -859,7 +861,7 @@
            id="path242" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="340.5,-62.03 337,-52.03 333.5,-62.03 "
+           points="333.5,-62.03 340.5,-62.03 337,-52.03 "
            id="polygon244" />
       </g>
       <g
@@ -870,7 +872,7 @@
            id="title247">d0</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="553,-310 553,-348 439,-348 439,-310 "
+           points="553,-348 439,-348 439,-310 553,-310 "
            id="polygon249" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -893,7 +895,7 @@
            id="title256">d1</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="557.5,-236 557.5,-274 438.5,-274 438.5,-236 "
+           points="557.5,-274 438.5,-274 438.5,-236 557.5,-236 "
            id="polygon258" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -921,7 +923,7 @@
            id="path267" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="500.71,-284.51 497.49,-274.41 493.71,-284.31 "
+           points="493.71,-284.31 500.71,-284.51 497.49,-274.41 "
            id="polygon269" />
       </g>
       <g
@@ -932,7 +934,7 @@
            id="title272">d2</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="551.5,-162 551.5,-200 444.5,-200 444.5,-162 "
+           points="551.5,-200 444.5,-200 444.5,-162 551.5,-162 "
            id="polygon274" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -960,7 +962,7 @@
            id="path283" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="501.5,-210.41 498,-200.41 494.5,-210.41 "
+           points="494.5,-210.41 501.5,-210.41 498,-200.41 "
            id="polygon285" />
       </g>
       <g
@@ -971,7 +973,7 @@
            id="title288">d3</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="554,-89 554,-125 442,-125 442,-89 "
+           points="554,-125 442,-125 442,-89 554,-89 "
            id="polygon290" />
         <text
            style="font-size:14px;font-family:Times, serif;text-anchor:middle"
@@ -993,7 +995,7 @@
            id="path297" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="501.5,-135.42 498,-125.42 494.5,-135.42 "
+           points="494.5,-135.42 501.5,-135.42 498,-125.42 "
            id="polygon299" />
       </g>
       <g
@@ -1004,7 +1006,7 @@
            id="title302">d4</title>
         <polygon
            style="fill:#ffffff;stroke:#ffffff"
-           points="539.5,-16 539.5,-52 456.5,-52 456.5,-16 "
+           points="539.5,-52 456.5,-52 456.5,-16 539.5,-16 "
            id="polygon304" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start;fill:#800000"
@@ -1027,7 +1029,7 @@
            id="path311" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="501.5,-62.03 498,-52.03 494.5,-62.03 "
+           points="494.5,-62.03 501.5,-62.03 498,-52.03 "
            id="polygon313" />
       </g>
       <g
@@ -1038,7 +1040,7 @@
            id="title316">start1</title>
         <polygon
            style="fill:none;stroke:#000000"
-           points="174,-927 174,-891 352,-891 352,-927 "
+           points="174,-891 352,-891 352,-927 174,-927 "
            id="polygon318" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -1056,7 +1058,7 @@
            id="title323">start2</title>
         <polygon
            style="fill:none;stroke:#000000"
-           points="187,-855 187,-819 339,-819 339,-855 "
+           points="187,-819 339,-819 339,-855 187,-855 "
            id="polygon325" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -1079,7 +1081,7 @@
            id="path332" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="259.5,-865.1 266.5,-865.1 263,-855.1 "
+           points="263,-855.1 259.5,-865.1 266.5,-865.1 "
            id="polygon334" />
       </g>
       <g
@@ -1102,7 +1104,7 @@
            id="title345">start3</title>
         <polygon
            style="fill:#808080;stroke:#808080"
-           points="144,-783 144,-747 244,-747 244,-783 "
+           points="144,-747 244,-747 244,-783 144,-783 "
            id="polygon347" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -1132,7 +1134,7 @@
            id="title357">start4</title>
         <polygon
            style="fill:#808080;stroke:#808080"
-           points="281.5,-783 281.5,-747 378.5,-747 378.5,-783 "
+           points="281.5,-747 378.5,-747 378.5,-783 281.5,-783 "
            id="polygon359" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -1150,7 +1152,7 @@
            id="title364">start5</title>
         <polygon
            style="fill:#800000;stroke:#800000"
-           points="205,-711 205,-675 321,-675 321,-711 "
+           points="205,-675 321,-675 321,-711 205,-711 "
            id="polygon366" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start;fill:#ffffff"
@@ -1180,7 +1182,7 @@
            id="title379">start6</title>
         <polygon
            style="fill:#808080;stroke:#808080"
-           points="117.5,-639 117.5,-603 244.5,-603 244.5,-639 "
+           points="117.5,-603 244.5,-603 244.5,-639 117.5,-639 "
            id="polygon381" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -1210,7 +1212,7 @@
            id="title391">start7</title>
         <polygon
            style="fill:#808080;stroke:#808080"
-           points="282,-639 282,-603 404,-603 404,-639 "
+           points="282,-603 404,-603 404,-639 282,-639 "
            id="polygon393" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -1228,7 +1230,7 @@
            id="title398">start8</title>
         <polygon
            style="fill:#ffa500;stroke:#ffa500"
-           points="224.5,-567 224.5,-531 301.5,-531 301.5,-567 "
+           points="224.5,-531 301.5,-531 301.5,-567 224.5,-567 "
            id="polygon400" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -1258,7 +1260,7 @@
            id="title405">start9</title>
         <polygon
            style="fill:#ffffff;stroke:#000000"
-           points="191.5,-495 191.5,-459 334.5,-459 334.5,-495 "
+           points="191.5,-459 334.5,-459 334.5,-495 191.5,-495 "
            id="polygon407" />
         <text
            style="font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -1281,7 +1283,7 @@
            id="path414" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="259.5,-505.1 266.5,-505.1 263,-495.1 "
+           points="263,-495.1 259.5,-505.1 266.5,-505.1 "
            id="polygon416" />
       </g>
       <g
@@ -1304,7 +1306,7 @@
            id="title444">in_vitro</title>
         <polygon
            style="fill:#ffd5d5;stroke:#ffd5d5"
-           points="365.5,-387 365.5,-423 308.5,-423 308.5,-387 "
+           points="365.5,-423 308.5,-423 308.5,-387 365.5,-387 "
            id="polygon446" />
         <text
            style="font-style:italic;font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -1352,7 +1354,7 @@
            id="path471" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="259.5,-721.19 266.5,-721.19 263,-711.19 "
+           points="263,-711.19 259.5,-721.19 266.5,-721.19 "
            id="polygon473" />
       </g>
       <g
@@ -1380,7 +1382,7 @@
            id="path483" />
         <polygon
            style="fill:#000000;stroke:#000000"
-           points="259.5,-577.19 266.5,-577.19 263,-567.19 "
+           points="263,-567.19 259.5,-577.19 266.5,-577.19 "
            id="polygon485" />
       </g>
       <g
@@ -1403,7 +1405,7 @@
            id="title427">in_silico</title>
         <polygon
            style="fill:#ffd5d5;stroke:#ffd5d5"
-           points="217.5,-423 156.5,-423 156.5,-387 217.5,-387 "
+           points="156.5,-423 156.5,-387 217.5,-387 217.5,-423 "
            id="polygon429" />
         <text
            style="font-style:italic;font-weight:bold;font-size:14px;font-family:Times, serif;text-anchor:start"
@@ -1550,7 +1552,7 @@
       </g>
     </g>
     <g
-       transform="translate(340.58899,47.438852)"
+       transform="translate(314.37043,306.64512)"
        style="opacity:1"
        id="g1898">
       <g
@@ -5257,6 +5259,1342 @@
              x="245.65834"
              id="tspan1959-5"
              sodipodi:role="line">CLP1</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#800000;stroke:none;stroke-width:3.19523501;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1768"
+       width="80"
+       height="200"
+       x="-7.1054274e-15"
+       y="10" />
+    <rect
+       y="9.9999933"
+       x="79.999985"
+       height="200"
+       width="80"
+       id="rect1770"
+       style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:3.19523501;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="opacity:1;fill:#800000;stroke:none;stroke-width:3.19523501;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1772"
+       width="80"
+       height="200"
+       x="159.99998"
+       y="9.9999933" />
+    <rect
+       y="9.9999933"
+       x="239.99998"
+       height="200"
+       width="80"
+       id="rect1774"
+       style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:3.19523501;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="ketergantungan 1">
+    <g
+       id="g3801"
+       transform="translate(0,8.0898874)">
+      <g
+         transform="matrix(1.0165807,0,0,1.0165807,-15.557899,-2.1149637)"
+         id="g3518">
+        <g
+           id="g4464"
+           transform="matrix(1.0909741,0,0,1.0909741,-20.143936,-9.1489836)">
+          <g
+             id="g4192">
+            <g
+               id="g2956"
+               transform="matrix(0.83791261,0,0,0.83791261,27.9916,16.397183)">
+              <rect
+                 y="10.448568"
+                 x="10.122737"
+                 height="159.20461"
+                 width="5.5507154"
+                 id="rect2255"
+                 style="opacity:1;fill:#000000;stroke:none;stroke-width:2.53743386;stroke-miterlimit:4;stroke-dasharray:none" />
+              <g
+                 transform="matrix(1.1227584,0,0,1.1227584,-46.141332,-6.9604856)"
+                 id="g1994">
+                <rect
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect1779"
+                   width="52.220425"
+                   height="8.8984222"
+                   x="60.382149"
+                   y="31.565577" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   x="61.116135"
+                   y="37.524086"
+                   id="text1794"><tspan
+                     sodipodi:role="line"
+                     id="tspan1792"
+                     x="61.116135"
+                     y="37.524086"
+                     style="fill:#ffffff;stroke-width:1.02578771">Ribosomal PAM</tspan></text>
+                <rect
+                   y="28.206797"
+                   x="-59.508865"
+                   height="14.272469"
+                   width="13.477301"
+                   id="rect1796"
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(-1,1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   x="48.608356"
+                   y="39.719028"
+                   id="text1800"><tspan
+                     sodipodi:role="line"
+                     id="tspan1798"
+                     x="48.608356"
+                     y="39.719028"
+                     style="fill:#aa0000;stroke-width:2.47611332">1</tspan></text>
+                <rect
+                   y="-56.154163"
+                   x="60.382149"
+                   height="13.573485"
+                   width="52.220425"
+                   id="rect1814"
+                   style="opacity:0.5;fill:#ffd5d5;stroke:none;stroke-width:2.40067744;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(1,-1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   x="62.477348"
+                   y="48.408916"
+                   id="text1818"><tspan
+                     id="tspan2164"
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="48.408916"
+                     style="stroke-width:0.78686744">PAM dari serangga</tspan></text>
+              </g>
+              <g
+                 transform="matrix(1.1227584,0,0,1.1227584,-46.141332,27.888401)"
+                 id="g1964">
+                <rect
+                   y="31.565577"
+                   x="60.382149"
+                   height="8.8984222"
+                   width="52.220425"
+                   id="rect1882"
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   id="text1886"
+                   y="37.524086"
+                   x="61.116135"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   xml:space="preserve"><tspan
+                     style="fill:#ffffff;stroke-width:1.02578771"
+                     y="37.524086"
+                     x="61.116135"
+                     id="tspan1884"
+                     sodipodi:role="line">Parameter</tspan></text>
+                <rect
+                   transform="scale(-1,1)"
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect1888"
+                   width="13.477301"
+                   height="14.272469"
+                   x="-59.508865"
+                   y="28.206797" />
+                <text
+                   id="text1892"
+                   y="39.719028"
+                   x="48.608356"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   xml:space="preserve"><tspan
+                     style="fill:#aa0000;stroke-width:2.47611332"
+                     y="39.719028"
+                     x="48.608356"
+                     id="tspan1890"
+                     sodipodi:role="line">2</tspan></text>
+                <rect
+                   transform="scale(1,-1)"
+                   style="opacity:0.5;fill:#ffd5d5;stroke:none;stroke-width:3.15618563;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect1894"
+                   width="52.220425"
+                   height="23.461126"
+                   x="60.382149"
+                   y="-66.041801" />
+                <text
+                   id="text1934"
+                   y="48.408916"
+                   x="62.477348"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   xml:space="preserve"><tspan
+                     id="tspan1932"
+                     style="stroke-width:0.78686744"
+                     y="48.408916"
+                     x="62.477348"
+                     sodipodi:role="line">i. asam amino</tspan><tspan
+                     style="stroke-width:0.78686744"
+                     y="53.654701"
+                     x="62.477348"
+                     sodipodi:role="line"
+                     id="tspan3874">ii. bobot molekul</tspan><tspan
+                     style="stroke-width:0.78686744"
+                     y="58.900482"
+                     x="62.477348"
+                     sodipodi:role="line"
+                     id="tspan3876">Iii. jenis PAM</tspan><tspan
+                     style="stroke-width:0.78686744"
+                     y="64.146263"
+                     x="62.477348"
+                     sodipodi:role="line"
+                     id="tspan3878">iv. antimikroba</tspan></text>
+              </g>
+              <g
+                 id="g2052"
+                 transform="matrix(1.1227584,0,0,1.1227584,-46.141332,73.838723)">
+                <rect
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect1996"
+                   width="52.220425"
+                   height="8.8984222"
+                   x="60.382149"
+                   y="31.565577" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   x="61.116135"
+                   y="37.524086"
+                   id="text2000"><tspan
+                     sodipodi:role="line"
+                     id="tspan1998"
+                     x="61.116135"
+                     y="37.524086"
+                     style="fill:#ffffff;stroke-width:1.02578771">Grafik BIplot</tspan></text>
+                <rect
+                   y="28.206797"
+                   x="-59.508865"
+                   height="14.272469"
+                   width="13.477301"
+                   id="rect2002"
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(-1,1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   x="48.608356"
+                   y="39.719028"
+                   id="text2006"><tspan
+                     sodipodi:role="line"
+                     id="tspan2004"
+                     x="48.608356"
+                     y="39.719028"
+                     style="fill:#aa0000;stroke-width:2.47611332">3</tspan></text>
+                <rect
+                   y="-72.558655"
+                   x="60.382149"
+                   height="29.97798"
+                   width="52.220425"
+                   id="rect2008"
+                   style="opacity:0.5;fill:#ffd5d5;stroke:none;stroke-width:3.56770802;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(1,-1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   x="62.477348"
+                   y="48.408916"
+                   id="text2048"><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="48.408916"
+                     style="stroke-width:0.78686744"
+                     id="tspan3861">i. jenis PAM terhadap </tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="53.654701"
+                     style="stroke-width:0.78686744"
+                     id="tspan3895">   antimikroba </tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="58.900482"
+                     style="stroke-width:0.78686744"
+                     id="tspan3889">ii. antagonis</tspan></text>
+              </g>
+              <g
+                 transform="matrix(1.1227584,0,0,1.1227584,-46.141332,127.1059)"
+                 id="g2108">
+                <rect
+                   y="31.565577"
+                   x="60.382149"
+                   height="8.8984222"
+                   width="52.220425"
+                   id="rect2054"
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   id="text2058"
+                   y="37.524086"
+                   x="61.116135"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   xml:space="preserve"><tspan
+                     style="fill:#ffffff;stroke-width:1.02578771"
+                     y="37.524086"
+                     x="61.116135"
+                     id="tspan2056"
+                     sodipodi:role="line">Uji statistik</tspan></text>
+                <rect
+                   transform="scale(-1,1)"
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect2060"
+                   width="13.477301"
+                   height="14.272469"
+                   x="-59.508865"
+                   y="28.206797" />
+                <text
+                   id="text2064"
+                   y="39.719028"
+                   x="48.608356"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   xml:space="preserve"><tspan
+                     style="fill:#aa0000;stroke-width:2.47611332"
+                     y="39.719028"
+                     x="48.608356"
+                     id="tspan2062"
+                     sodipodi:role="line">4</tspan></text>
+                <rect
+                   transform="scale(1,-1)"
+                   style="opacity:0.5;fill:#ffd5d5;stroke:none;stroke-width:2.85457969;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect2066"
+                   width="52.220425"
+                   height="19.191463"
+                   x="60.382149"
+                   y="-61.772141" />
+                <text
+                   id="text2106"
+                   y="48.408916"
+                   x="62.477348"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   xml:space="preserve"><tspan
+                     id="tspan2104"
+                     style="stroke-width:0.78686744"
+                     y="48.408916"
+                     x="62.477348"
+                     sodipodi:role="line">1. nilai eigen</tspan><tspan
+                     id="tspan2247"
+                     style="stroke-width:0.78686744"
+                     y="53.654701"
+                     x="62.477348"
+                     sodipodi:role="line">2. <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan3893">loading factor</tspan></tspan></text>
+              </g>
+              <rect
+                 y="3.2629893"
+                 x="5.540988"
+                 height="13.761871"
+                 width="74.743149"
+                 id="rect2249"
+                 style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:2.53743386;stroke-miterlimit:4;stroke-dasharray:none" />
+              <text
+                 id="text2253"
+                 y="13.747232"
+                 x="10.881564"
+                 style="font-style:normal;font-weight:normal;font-size:9.66546059px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1.81227374"
+                 xml:space="preserve"><tspan
+                   style="fill:#aa0000;stroke-width:1.81227374"
+                   y="13.747232"
+                   x="10.881564"
+                   id="tspan2251"
+                   sodipodi:role="line">A. K. Utama</tspan></text>
+            </g>
+            <g
+               id="g2885"
+               transform="matrix(0.83791261,0,0,0.83791261,27.430437,16.397183)">
+              <rect
+                 style="opacity:1;fill:#000000;stroke:none;stroke-width:2.53743386;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="rect2257"
+                 width="5.5507154"
+                 height="159.20461"
+                 x="91.021614"
+                 y="10.448568" />
+              <g
+                 id="g2280"
+                 transform="matrix(1.1227584,0,0,1.1227584,34.757542,-6.9604856)">
+                <rect
+                   y="31.565577"
+                   x="60.382149"
+                   height="8.8984222"
+                   width="52.220425"
+                   id="rect2259"
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   id="text2263"
+                   y="37.524086"
+                   x="61.116135"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   xml:space="preserve"><tspan
+                     style="fill:#aa0000;stroke-width:1.02578771"
+                     y="37.524086"
+                     x="61.116135"
+                     id="tspan2261"
+                     sodipodi:role="line">Ribosomal PAM</tspan></text>
+                <rect
+                   transform="scale(-1,1)"
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect2265"
+                   width="13.477301"
+                   height="14.272469"
+                   x="-59.508865"
+                   y="28.206797" />
+                <text
+                   id="text2269"
+                   y="39.719028"
+                   x="48.608356"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   xml:space="preserve"><tspan
+                     style="fill:#ffffff;stroke-width:2.47611332"
+                     y="39.719028"
+                     x="48.608356"
+                     id="tspan2267"
+                     sodipodi:role="line">1</tspan></text>
+                <rect
+                   transform="scale(1,-1)"
+                   style="opacity:0.7;fill:#aa0000;stroke:none;stroke-width:2.40067744;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect2271"
+                   width="52.220425"
+                   height="13.573485"
+                   x="60.382149"
+                   y="-56.154163" />
+                <text
+                   id="text2277"
+                   y="48.408916"
+                   x="62.477348"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   xml:space="preserve"><tspan
+                     id="tspan2273"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     y="48.408916"
+                     x="62.477348"
+                     sodipodi:role="line">termasuk lisozim dan </tspan><tspan
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     y="53.654701"
+                     x="62.477348"
+                     sodipodi:role="line"
+                     id="tspan2275">laktoferin</tspan></text>
+              </g>
+              <g
+                 id="g2308"
+                 transform="matrix(1.1227584,0,0,1.1227584,34.757542,27.888401)">
+                <rect
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect2282"
+                   width="52.220425"
+                   height="8.8984222"
+                   x="60.382149"
+                   y="31.565577" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   x="61.116135"
+                   y="37.524086"
+                   id="text2286"><tspan
+                     sodipodi:role="line"
+                     id="tspan2284"
+                     x="61.116135"
+                     y="37.524086"
+                     style="fill:#aa0000;stroke-width:1.02578771">PRISMA-P</tspan></text>
+                <rect
+                   y="28.206797"
+                   x="-59.508865"
+                   height="14.272469"
+                   width="13.477301"
+                   id="rect2288"
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(-1,1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   x="48.608356"
+                   y="39.719028"
+                   id="text2292"><tspan
+                     sodipodi:role="line"
+                     id="tspan2290"
+                     x="48.608356"
+                     y="39.719028"
+                     style="fill:#ffffff;stroke-width:2.47611332">2</tspan></text>
+                <rect
+                   y="-66.041801"
+                   x="60.382149"
+                   height="23.461126"
+                   width="52.220425"
+                   id="rect2294"
+                   style="opacity:0.7;fill:#aa0000;stroke:none;stroke-width:3.15618563;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(1,-1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   x="62.477348"
+                   y="48.408916"
+                   id="text2306"><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="48.408916"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     id="tspan2296">i. identifikasi</tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="53.654701"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     id="tspan2298">ii. penyortiran</tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="58.900482"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     id="tspan2300">iii. kelayakan</tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="64.146263"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     id="tspan2304">(<tspan
+   style="fill:#ffffff"
+   id="tspan2302">Shamseer et al. 2015</tspan>)</tspan></text>
+              </g>
+              <g
+                 transform="matrix(1.1227584,0,0,1.1227584,34.757542,73.838723)"
+                 id="g2365">
+                <rect
+                   y="31.565577"
+                   x="60.382149"
+                   height="8.8984222"
+                   width="52.220425"
+                   id="rect2310"
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   id="text2314"
+                   y="37.524086"
+                   x="61.116135"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   xml:space="preserve"><tspan
+                     style="fill:#aa0000;stroke-width:1.02578771"
+                     y="37.524086"
+                     x="61.116135"
+                     id="tspan2312"
+                     sodipodi:role="line">Model &quot;LMM&quot;</tspan></text>
+                <rect
+                   transform="scale(-1,1)"
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect2316"
+                   width="13.477301"
+                   height="14.272469"
+                   x="-59.508865"
+                   y="28.206797" />
+                <text
+                   id="text2320"
+                   y="39.719028"
+                   x="48.608356"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   xml:space="preserve"><tspan
+                     style="fill:#ffffff;stroke-width:2.47611332"
+                     y="39.719028"
+                     x="48.608356"
+                     id="tspan2318"
+                     sodipodi:role="line">3</tspan></text>
+                <rect
+                   transform="scale(1,-1)"
+                   style="opacity:0.7;fill:#aa0000;stroke:none;stroke-width:3.56770802;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect2322"
+                   width="52.220425"
+                   height="29.97798"
+                   x="60.382149"
+                   y="-72.558655" />
+                <text
+                   id="text2363"
+                   y="48.408916"
+                   x="62.477348"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   xml:space="preserve"><tspan
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     y="48.408916"
+                     x="62.477348"
+                     id="tspan2332"
+                     sodipodi:role="line">Y<tspan
+   id="tspan2324"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">ijk</tspan> =μ + s<tspan
+   id="tspan2326"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">i</tspan> +τ<tspan
+   id="tspan2328"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">j</tspan> + sτ<tspan
+   id="tspan2330"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">ij</tspan> + </tspan><tspan
+                     id="tspan2347"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     y="53.654701"
+                     x="62.477348"
+                     sodipodi:role="line">        B<tspan
+   id="tspan2334"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">1</tspan>X<tspan
+   id="tspan2336"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">ij</tspan> + B<tspan
+   id="tspan2338"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">2</tspan>X<tspan
+   id="tspan2340"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">ij</tspan> + b<tspan
+   id="tspan2342"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">i</tspan>X<tspan
+   id="tspan2344"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">ij</tspan></tspan><tspan
+                     id="tspan2361"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     y="58.900482"
+                     x="62.477348"
+                     sodipodi:role="line">        + B<tspan
+   id="tspan2349"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">j</tspan>X<tspan
+   id="tspan2351"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">ij</tspan> + e<tspan
+   id="tspan2353"
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#ffffff">ijk </tspan></tspan><tspan
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     y="64.146263"
+                     x="62.477348"
+                     sodipodi:role="line"
+                     id="tspan4610">(St-Pierre 2001)</tspan></text>
+              </g>
+              <g
+                 id="g2389"
+                 transform="matrix(1.1227584,0,0,1.1227584,34.757542,127.1059)">
+                <rect
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect2367"
+                   width="52.220425"
+                   height="8.8984222"
+                   x="60.382149"
+                   y="31.565577" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   x="61.116135"
+                   y="37.524086"
+                   id="text2371"><tspan
+                     sodipodi:role="line"
+                     id="tspan2369"
+                     x="61.116135"
+                     y="37.524086"
+                     style="fill:#aa0000;stroke-width:1.02578771">Uji statistik</tspan></text>
+                <rect
+                   y="28.206797"
+                   x="-59.508865"
+                   height="14.272469"
+                   width="13.477301"
+                   id="rect2373"
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(-1,1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   x="48.608356"
+                   y="39.719028"
+                   id="text2377"><tspan
+                     sodipodi:role="line"
+                     id="tspan2375"
+                     x="48.608356"
+                     y="39.719028"
+                     style="fill:#ffffff;stroke-width:2.47611332">4</tspan></text>
+                <rect
+                   y="-61.772141"
+                   x="60.382149"
+                   height="19.191463"
+                   width="52.220425"
+                   id="rect2379"
+                   style="opacity:0.7;fill:#aa0000;stroke:none;stroke-width:2.85457969;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(1,-1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   x="62.477348"
+                   y="48.408916"
+                   id="text2387"><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="48.408916"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     id="tspan2381">1. RMSE</tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="53.654701"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     id="tspan2383">2. P-VALUE</tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="58.900482"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     id="tspan2385">3. AIC</tspan></text>
+              </g>
+              <rect
+                 style="opacity:1;fill:#aa0000;stroke:none;stroke-width:2.53743386;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="rect2391"
+                 width="74.743149"
+                 height="13.761871"
+                 x="86.439865"
+                 y="3.2629893" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-weight:normal;font-size:9.66546059px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.81227374"
+                 x="91.780441"
+                 y="13.747232"
+                 id="text2395"><tspan
+                   sodipodi:role="line"
+                   id="tspan2393"
+                   x="91.780441"
+                   y="13.747232"
+                   style="fill:#ffffff;stroke-width:1.81227374">Meta-analisis</tspan></text>
+            </g>
+            <rect
+               y="4.5621901"
+               x="32.634464"
+               height="11.531246"
+               width="130.17584"
+               id="rect2249-5"
+               style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:3.06530428;stroke-miterlimit:4;stroke-dasharray:none" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:10.99009895px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:2.06064367"
+               x="77.150833"
+               y="14.424953"
+               id="text3916"><tspan
+                 sodipodi:role="line"
+                 id="tspan3914"
+                 x="77.150833"
+                 y="14.424953"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#800000;stroke-width:2.06064367">In silico</tspan></text>
+          </g>
+          <g
+             id="g4065">
+            <g
+               transform="matrix(0.83791261,0,0,0.83791261,186.06288,17.150363)"
+               id="g3096">
+              <rect
+                 style="opacity:1;fill:#000000;stroke:none;stroke-width:2.53743386;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="rect2958"
+                 width="5.5507154"
+                 height="159.20461"
+                 x="10.122737"
+                 y="10.448568" />
+              <g
+                 id="g2980"
+                 transform="matrix(1.1227584,0,0,1.1227584,-46.141332,-6.9604856)">
+                <rect
+                   y="31.565577"
+                   x="60.382149"
+                   height="8.8984222"
+                   width="52.220425"
+                   id="rect2960"
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   id="text2964"
+                   y="37.524086"
+                   x="61.116135"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   xml:space="preserve"><tspan
+                     style="fill:#ffffff;stroke-width:1.02578771"
+                     y="37.524086"
+                     x="61.116135"
+                     id="tspan2962"
+                     sodipodi:role="line">cDNA CLP1</tspan></text>
+                <rect
+                   transform="scale(-1,1)"
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect2966"
+                   width="13.477301"
+                   height="14.272469"
+                   x="-59.508865"
+                   y="28.206797" />
+                <text
+                   id="text2970"
+                   y="39.719028"
+                   x="48.608356"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   xml:space="preserve"><tspan
+                     style="fill:#aa0000;stroke-width:2.47611332"
+                     y="39.719028"
+                     x="48.608356"
+                     id="tspan2968"
+                     sodipodi:role="line">1</tspan></text>
+                <rect
+                   transform="scale(1,-1)"
+                   style="opacity:0.5;fill:#ffd5d5;stroke:none;stroke-width:2.40067744;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect2972"
+                   width="52.220425"
+                   height="13.573485"
+                   x="60.382149"
+                   y="-56.154163" />
+                <text
+                   id="text2978"
+                   y="48.408916"
+                   x="62.477348"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   xml:space="preserve"><tspan
+                     style="stroke-width:0.78686744;-inkscape-font-specification:'sans-serif Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+                     y="48.408916"
+                     x="62.477348"
+                     sodipodi:role="line"
+                     id="tspan2976">Hermetia illucens</tspan></text>
+              </g>
+              <g
+                 id="g3008"
+                 transform="matrix(1.1227584,0,0,1.1227584,-46.141332,27.888401)">
+                <rect
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect2982"
+                   width="52.220425"
+                   height="8.8984222"
+                   x="60.382149"
+                   y="31.565577" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   x="61.116135"
+                   y="37.524086"
+                   id="text2986"><tspan
+                     sodipodi:role="line"
+                     id="tspan2984"
+                     x="61.116135"
+                     y="37.524086"
+                     style="fill:#ffffff;stroke-width:1.02578771">Template CLP1</tspan></text>
+                <rect
+                   y="28.206797"
+                   x="-59.508865"
+                   height="14.272469"
+                   width="13.477301"
+                   id="rect2988"
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(-1,1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   x="48.608356"
+                   y="39.719028"
+                   id="text2992"><tspan
+                     sodipodi:role="line"
+                     id="tspan2990"
+                     x="48.608356"
+                     y="39.719028"
+                     style="fill:#aa0000;stroke-width:2.47611332">2</tspan></text>
+                <rect
+                   y="-66.041801"
+                   x="60.382149"
+                   height="23.461126"
+                   width="52.220425"
+                   id="rect2994"
+                   style="opacity:0.5;fill:#ffd5d5;stroke:none;stroke-width:3.15618563;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(1,-1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   x="62.477348"
+                   y="48.408916"
+                   id="text3006"><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="48.408916"
+                     style="stroke-width:0.78686744"
+                     id="tspan2996">i. T7</tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="53.654701"
+                     style="stroke-width:0.78686744"
+                     id="tspan2998">ii. IRES</tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="58.900482"
+                     style="stroke-width:0.78686744"
+                     id="tspan3000">iii. Kozak</tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="64.146263"
+                     style="stroke-width:0.78686744"
+                     id="tspan3004">(Kozak 2005)</tspan></text>
+              </g>
+              <g
+                 transform="matrix(1.1227584,0,0,1.1227584,-46.141332,73.838723)"
+                 id="g3064">
+                <rect
+                   y="31.565577"
+                   x="60.382149"
+                   height="8.8984222"
+                   width="52.220425"
+                   id="rect3010"
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   id="text3014"
+                   y="37.524086"
+                   x="61.116135"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   xml:space="preserve"><tspan
+                     style="fill:#ffffff;stroke-width:1.02578771"
+                     y="37.524086"
+                     x="61.116135"
+                     id="tspan3012"
+                     sodipodi:role="line">Sintesis IVT</tspan></text>
+                <rect
+                   transform="scale(-1,1)"
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect3016"
+                   width="13.477301"
+                   height="14.272469"
+                   x="-59.508865"
+                   y="28.206797" />
+                <text
+                   id="text3020"
+                   y="39.719028"
+                   x="48.608356"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   xml:space="preserve"><tspan
+                     style="fill:#aa0000;stroke-width:2.47611332"
+                     y="39.719028"
+                     x="48.608356"
+                     id="tspan3018"
+                     sodipodi:role="line">3</tspan></text>
+                <rect
+                   transform="scale(1,-1)"
+                   style="opacity:0.5;fill:#ffd5d5;stroke:none;stroke-width:3.56770802;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect3022"
+                   width="52.220425"
+                   height="29.97798"
+                   x="60.382149"
+                   y="-72.558655" />
+                <text
+                   id="text3062"
+                   y="48.408916"
+                   x="62.477348"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   xml:space="preserve"><tspan
+                     id="tspan3060"
+                     style="stroke-width:0.78686744"
+                     y="52.121948"
+                     x="62.477348"
+                     sodipodi:role="line" /></text>
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   x="61.45639"
+                   y="47.447926"
+                   id="text3006-7"><tspan
+                     sodipodi:role="line"
+                     x="61.45639"
+                     y="47.447926"
+                     style="stroke-width:0.78686744"
+                     id="tspan2996-0">i. T7-IRES-Kozak-CLP1</tspan><tspan
+                     sodipodi:role="line"
+                     x="61.45639"
+                     y="52.69371"
+                     style="stroke-width:0.78686744"
+                     id="tspan3004-6">ii. Translasi <tspan
+   style="font-style:italic"
+   id="tspan4653">in vitro</tspan></tspan></text>
+              </g>
+              <g
+                 id="g3088"
+                 transform="matrix(1.1227584,0,0,1.1227584,-46.141332,127.1059)">
+                <rect
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect3066"
+                   width="52.220425"
+                   height="8.8984222"
+                   x="60.382149"
+                   y="31.565577" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   x="61.116135"
+                   y="37.524086"
+                   id="text3070"><tspan
+                     sodipodi:role="line"
+                     id="tspan3068"
+                     x="61.116135"
+                     y="37.524086"
+                     style="fill:#ffffff;stroke-width:1.02578771">Uji peptida</tspan></text>
+                <rect
+                   y="28.206797"
+                   x="-59.508865"
+                   height="14.272469"
+                   width="13.477301"
+                   id="rect3072"
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(-1,1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   x="48.608356"
+                   y="39.719028"
+                   id="text3076"><tspan
+                     sodipodi:role="line"
+                     id="tspan3074"
+                     x="48.608356"
+                     y="39.719028"
+                     style="fill:#aa0000;stroke-width:2.47611332">4</tspan></text>
+                <rect
+                   y="-61.772141"
+                   x="60.382149"
+                   height="19.191463"
+                   width="52.220425"
+                   id="rect3078"
+                   style="opacity:0.5;fill:#ffd5d5;stroke:none;stroke-width:2.85457969;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(1,-1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   x="62.477348"
+                   y="48.408916"
+                   id="text3086"><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="48.408916"
+                     style="stroke-width:0.78686744"
+                     id="tspan3080">1. SDS-PAGE</tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="53.654701"
+                     style="stroke-width:0.78686744"
+                     id="tspan3082">2. dot blot</tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="58.900482"
+                     style="stroke-width:0.78686744"
+                     id="tspan3084">3. mikroskop flourosen</tspan></text>
+              </g>
+              <rect
+                 style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:2.53743386;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="rect3090"
+                 width="74.743149"
+                 height="13.761871"
+                 x="5.540988"
+                 y="3.2629893" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-weight:normal;font-size:9.66546059px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1.81227374"
+                 x="10.881564"
+                 y="13.747232"
+                 id="text3094"><tspan
+                   sodipodi:role="line"
+                   id="tspan3092"
+                   x="10.881564"
+                   y="13.747232"
+                   style="fill:#aa0000;stroke-width:1.81227374">Sintesis CLP1</tspan></text>
+            </g>
+            <g
+               transform="matrix(0.83791261,0,0,0.83791261,185.5017,17.150363)"
+               id="g3236">
+              <rect
+                 y="10.448568"
+                 x="91.021614"
+                 height="159.20461"
+                 width="5.5507154"
+                 id="rect3098"
+                 style="opacity:1;fill:#000000;stroke:none;stroke-width:2.53743386;stroke-miterlimit:4;stroke-dasharray:none" />
+              <g
+                 transform="matrix(1.1227584,0,0,1.1227584,34.757542,-6.9604856)"
+                 id="g3120">
+                <rect
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect3100"
+                   width="52.220425"
+                   height="8.8984222"
+                   x="60.382149"
+                   y="31.565577" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   x="61.116135"
+                   y="37.524086"
+                   id="text3104"><tspan
+                     sodipodi:role="line"
+                     id="tspan3102"
+                     x="61.116135"
+                     y="37.524086"
+                     style="fill:#aa0000;stroke-width:1.02578771">Sel Leukemia</tspan></text>
+                <rect
+                   y="28.206797"
+                   x="-59.508865"
+                   height="14.272469"
+                   width="13.477301"
+                   id="rect3106"
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(-1,1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   x="48.608356"
+                   y="39.719028"
+                   id="text3110"><tspan
+                     sodipodi:role="line"
+                     id="tspan3108"
+                     x="48.608356"
+                     y="39.719028"
+                     style="fill:#ffffff;stroke-width:2.47611332">1</tspan></text>
+                <rect
+                   y="-56.154163"
+                   x="60.382149"
+                   height="13.573485"
+                   width="52.220425"
+                   id="rect3112"
+                   style="opacity:0.7;fill:#aa0000;stroke:none;stroke-width:2.40067744;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(1,-1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   x="62.477348"
+                   y="48.408916"
+                   id="text3118"><tspan
+                     id="tspan3116"
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="48.408916"
+                     style="fill:#ffffff;stroke-width:0.78686744">MOLT4 dan K562</tspan></text>
+              </g>
+              <g
+                 transform="matrix(1.1227584,0,0,1.1227584,34.757542,27.888401)"
+                 id="g3148">
+                <rect
+                   y="31.565577"
+                   x="60.382149"
+                   height="8.8984222"
+                   width="52.220425"
+                   id="rect3122"
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   id="text3126"
+                   y="37.524086"
+                   x="61.116135"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   xml:space="preserve"><tspan
+                     style="fill:#aa0000;stroke-width:1.02578771"
+                     y="37.524086"
+                     x="61.116135"
+                     id="tspan3124"
+                     sodipodi:role="line">Pembiakan Sel</tspan></text>
+                <rect
+                   transform="scale(-1,1)"
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect3128"
+                   width="13.477301"
+                   height="14.272469"
+                   x="-59.508865"
+                   y="28.206797" />
+                <text
+                   id="text3132"
+                   y="39.719028"
+                   x="48.608356"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   xml:space="preserve"><tspan
+                     style="fill:#ffffff;stroke-width:2.47611332"
+                     y="39.719028"
+                     x="48.608356"
+                     id="tspan3130"
+                     sodipodi:role="line">2</tspan></text>
+                <rect
+                   transform="scale(1,-1)"
+                   style="opacity:0.7;fill:#aa0000;stroke:none;stroke-width:3.15618563;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect3134"
+                   width="52.220425"
+                   height="23.461126"
+                   x="60.382149"
+                   y="-66.041801" />
+                <text
+                   id="text3146"
+                   y="48.408916"
+                   x="62.477348"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   xml:space="preserve"><tspan
+                     id="tspan3136"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     y="48.408916"
+                     x="62.477348"
+                     sodipodi:role="line">i. RPMI (Media Roswell </tspan><tspan
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     y="53.654701"
+                     x="62.477348"
+                     sodipodi:role="line"
+                     id="tspan4531">   Park Memorial Institu-</tspan><tspan
+                     id="tspan3144"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     y="58.900482"
+                     x="62.477348"
+                     sodipodi:role="line">   te 1640)</tspan></text>
+              </g>
+              <g
+                 id="g3204"
+                 transform="matrix(1.1227584,0,0,1.1227584,34.757542,73.838723)">
+                <rect
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect3150"
+                   width="52.220425"
+                   height="8.8984222"
+                   x="60.382149"
+                   y="31.565577" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   x="61.116135"
+                   y="37.524086"
+                   id="text3154"><tspan
+                     sodipodi:role="line"
+                     id="tspan3152"
+                     x="61.116135"
+                     y="37.524086"
+                     style="fill:#aa0000;stroke-width:1.02578771">Sitotoksisitas</tspan></text>
+                <rect
+                   y="28.206797"
+                   x="-59.508865"
+                   height="14.272469"
+                   width="13.477301"
+                   id="rect3156"
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(-1,1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   x="48.608356"
+                   y="39.719028"
+                   id="text3160"><tspan
+                     sodipodi:role="line"
+                     id="tspan3158"
+                     x="48.608356"
+                     y="39.719028"
+                     style="fill:#ffffff;stroke-width:2.47611332">3</tspan></text>
+                <rect
+                   y="-72.558655"
+                   x="60.382149"
+                   height="29.97798"
+                   width="52.220425"
+                   id="rect3162"
+                   style="opacity:0.7;fill:#aa0000;stroke:none;stroke-width:3.56770802;stroke-miterlimit:4;stroke-dasharray:none"
+                   transform="scale(1,-1)" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   x="62.477348"
+                   y="48.408916"
+                   id="text3202"><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="48.408916"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     id="tspan3200">i. dibaca pada λ 450 nm</tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="53.654701"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     id="tspan4522">   microplate reader</tspan><tspan
+                     sodipodi:role="line"
+                     x="62.477348"
+                     y="58.900482"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     id="tspan4542">ii. persamaan regresi</tspan></text>
+              </g>
+              <g
+                 transform="matrix(1.1227584,0,0,1.1227584,34.757542,127.1059)"
+                 id="g3228">
+                <rect
+                   y="31.565577"
+                   x="60.382149"
+                   height="8.8984222"
+                   width="52.220425"
+                   id="rect3206"
+                   style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.94376886;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   id="text3210"
+                   y="37.524086"
+                   x="61.116135"
+                   style="font-style:normal;font-weight:normal;font-size:5.47086763px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1.02578771"
+                   xml:space="preserve"><tspan
+                     style="fill:#aa0000;stroke-width:1.02578771"
+                     y="37.524086"
+                     x="61.116135"
+                     id="tspan3208"
+                     sodipodi:role="line">IC50</tspan></text>
+                <rect
+                   transform="scale(-1,1)"
+                   style="opacity:1;fill:#aa0000;stroke:none;stroke-width:1.25060165;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect3212"
+                   width="13.477301"
+                   height="14.272469"
+                   x="-59.508865"
+                   y="28.206797" />
+                <text
+                   id="text3216"
+                   y="39.719028"
+                   x="48.608356"
+                   style="font-style:normal;font-weight:normal;font-size:13.20593929px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.47611332"
+                   xml:space="preserve"><tspan
+                     style="fill:#ffffff;stroke-width:2.47611332"
+                     y="39.719028"
+                     x="48.608356"
+                     id="tspan3214"
+                     sodipodi:role="line">4</tspan></text>
+                <rect
+                   transform="scale(1,-1)"
+                   style="opacity:0.7;fill:#aa0000;stroke:none;stroke-width:2.85457969;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect3218"
+                   width="52.220425"
+                   height="19.191463"
+                   x="60.382149"
+                   y="-61.772141" />
+                <text
+                   id="text3226"
+                   y="48.408916"
+                   x="62.477348"
+                   style="font-style:normal;font-weight:normal;font-size:4.19662666px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.78686744"
+                   xml:space="preserve"><tspan
+                     id="tspan3224"
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     y="48.408916"
+                     x="62.477348"
+                     sodipodi:role="line">1. Persamaan regresi </tspan><tspan
+                     style="fill:#ffffff;stroke-width:0.78686744"
+                     y="53.654701"
+                     x="62.477348"
+                     sodipodi:role="line"
+                     id="tspan4529">    dari uji sitotoksisitas</tspan></text>
+              </g>
+              <rect
+                 y="3.2629893"
+                 x="86.439865"
+                 height="13.761871"
+                 width="74.743149"
+                 id="rect3230"
+                 style="opacity:1;fill:#aa0000;stroke:none;stroke-width:2.53743386;stroke-miterlimit:4;stroke-dasharray:none" />
+              <text
+                 id="text3234"
+                 y="13.747232"
+                 x="91.780441"
+                 style="font-style:normal;font-weight:normal;font-size:9.66546059px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.81227374"
+                 xml:space="preserve"><tspan
+                   style="fill:#ffffff;stroke-width:1.81227374"
+                   y="13.747232"
+                   x="91.780441"
+                   id="tspan3232"
+                   sodipodi:role="line">Antikanker</tspan></text>
+            </g>
+            <rect
+               style="opacity:1;fill:#aa0000;stroke:none;stroke-width:3.06530428;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect3912"
+               width="130.17584"
+               height="11.531246"
+               x="190.70575"
+               y="4.5621901" />
+            <text
+               id="text3920"
+               y="14.424953"
+               x="236.49391"
+               style="font-style:normal;font-weight:normal;font-size:10.99009895px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.06064367"
+               xml:space="preserve"><tspan
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#ffffff;stroke-width:2.06064367"
+                 y="14.424953"
+                 x="236.49391"
+                 id="tspan3918"
+                 sodipodi:role="line">In vitro</tspan></text>
+          </g>
+        </g>
       </g>
     </g>
   </g>
