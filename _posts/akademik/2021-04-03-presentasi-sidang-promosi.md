@@ -491,9 +491,10 @@ id = "pidato-penutup">
   <br/>3. Hadirin Para Undangan.
   <br/><br/>Puji dan syukur saya panjatkan kehadirat Tuhan Yang Maha Kuasa, karena berkat, ridho dan perkenan-Nyalah, maka pada hari ini saya mendapat limpahan karunia dan anugrah yang sangat besar dengan  mendapatkan gelar Doktor dalam bidang Peternakan, Bidang Kajian Utama Ilmu Nutrisi dan Pakan dari IPB University.
   <br/><br/>Disamping karena Berkat dari Tuhan Yang Maha Kuasa, tentunya keberhasilan ini karena bantuan, arahan, dan bimbingan dari berbagai pihak. Untuk itu, saya menyampaikan penghargaan dan terima kasih setinggi-tingginya kepada:
-  <br/>1. Bapak Dr. Ir. Idat Galih Permana, M.Sc. atau <mark>Ibu Prof. Dr. Irma Isnafia Arief S.Pt., M.Si. </mark> selaku Pimpinan Sidang pada Sidang Promosi hari ini di Program Pascasarjana IPB University;
-  <br/>2. Bapak Prof. Dr. Ir. Luki Abdullah, M.Sc.Agr. atau <mark>Dr.rer.nat., Nur Rochmah Kumalasari S.Pt, M.Si. </mark>selaku Sekretaris Sidang;
-  <br/>3. Tim Promotor, yaitu: Bapak Prof. Dr. Ir. Nahrowi, M.Sc., selaku KetuaPromotor terima kasih untuk bimbingannya selama ini;  Bapak Dr. Anuraga Jayanegara, S.Pt., M.Sc. selaku Anggota Promotor; dan Bapak Prof. Dr. Aris Tri Wahyudi, M.Si. selaku Anggota Tim Promotor.
+  <br/>1. <b>Bapak Prof. Dr. Arif Satria, SP.</b> Rektor IPB University;
+  <br/>2. <b>Bapak Dr. Ir. Idat Galih Permana, M.Sc.</b> atau <mark><b>Ibu Prof. Dr. Irma Isnafia Arief S.Pt., M.Si.</b></mark> selaku Pimpinan Sidang pada Sidang Promosi hari ini di Program Pascasarjana IPB University;
+  <br/>3. <b>Bapak Prof. Dr. Ir. Luki Abdullah, M.Sc.Agr.</b> atau <mark><b>Ibu Dr.rer.nat. Nur Rochmah Kumalasari S.Pt, M.Si.</b></mark> selaku Sekretaris Sidang;
+  <br/>4. Tim Promotor, yaitu: <b>Bapak Prof. Dr. Ir. Nahrowi, M.Sc.</b>, selaku KetuaPromotor terima kasih untuk bimbingannya selama ini;  <b>Bapak Dr. Anuraga Jayanegara, S.Pt., M.Sc.</b> selaku Anggota Promotor; dan <b>Bapak Prof. Dr. Aris Tri Wahyudi, M.Si.</b> selaku Anggota Tim Promotor.
 </p>
 </script>
 </section>
@@ -506,10 +507,10 @@ id = "pidato-penutup-lanjutan">
   <h4><a href="#/sampul">Pidato Penutup (lanjutan)</a></h4>
   <p align="justify" style="font-size:20px">
   Saya sampaikan terima kasih yang sebesar-besarnya kepada Tim Promotor yang telah bersusah payah dan dengan sabar membimbing, membina, dan mengarahkan sejak awal sampai akhir.
-  <br/>4. Penguji Sidang tertutup, yaitu: Bapak Dr. Cahyo Budiman, S.Pt., M.Sc., selaku Staf pengajar IPB University dan Ibu Dr. Dilla Mareistia Fassah, S.Pt., M.Sc. selaku Staf pengajar IPB University.
-  <br/>5. Penguji Sidang promosi, yaitu: Bapak Dr. Cahyo Budiman, S.Pt., M.Sc., selaku Staf pengajar IPB University dan Bapak Drh. Desianto Budi Utomo, Ph.D. selaku Vice President, Charoen Pokphand Indonesia dan Ketua Umum Gabungan Perusahaan Makanan Ternak.
+  <br/>5. Penguji Sidang tertutup, yaitu: <b>Bapak Dr. Cahyo Budiman, S.Pt., M.Sc.</b>, selaku Staf pengajar IPB University dan <b>Ibu Dr. Dilla Mareistia Fassah, S.Pt., M.Sc.</b> selaku Staf pengajar IPB University.
+  <br/>6. Penguji Sidang promosi, yaitu: <b>Bapak Dr. Cahyo Budiman, S.Pt., M.Sc.</b>, selaku Staf pengajar Fakultas Peternakan, IPB University dan <b>Bapak Drh. Desianto Budi Utomo, Ph.D.</b> selaku Vice President, Charoen Pokphand Indonesia dan Ketua Umum Gabungan Perusahaan Makanan Ternak.
   <br/><br/>Selanjutnya ucapan terimakasih juga saya sampaikan kepada:
-  <br/>1. Bapak Prof Jun Nomura, Ph.D selaku Promotor dari Chiba University.
+  <br/>1. <b>Bapak Prof Jun Nomura, Ph.D</b> selaku Promotor dari Chiba University.
   <br/>2. Terima kasih juga saya sampaikan kepada keluarga, teman, staf pendidikan, dan pihak terkait lainnya selama menempuh pendidikan Doktor di IPB University.
   <br/><br/> Hadirin yang saya Muliakan,
   <br/>Semoga segala bentuk perhatian, dan bantuan dari semua pihak serta teman-teman undangan yang telah berkenan hadir dalam Sidang Promosi ini, mendapat balasan pahala dari Tuhan Yang Maha Kuasa.
