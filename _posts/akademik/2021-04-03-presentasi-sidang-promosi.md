@@ -484,7 +484,7 @@ id = "pidato-penutup">
   <h4><a href="#/sampul">Pidato Penutup</a></h4>
   <p align="justify" style="font-size:20px">
   Assalamualaikum Warahmatullahi Wabarakatuh
-  <br/>Salam Sejahtera Bagi Kita Semuaw
+  <br/>Salam Sejahtera Bagi Kita Semua
   <br/><br/>Yang Terhormat:
   <br/>1. Ketua dan Sekretaris Sidang Promosi;
   <br/>2. Ketua beserta Anggota Komisi Promosi; dan
