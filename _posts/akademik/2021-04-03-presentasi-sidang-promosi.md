@@ -503,9 +503,9 @@ id = "pidato-penutup">
   <br/>4. Hadirin Para Undangan.
   <br/><br/>Puji dan syukur saya panjatkan kehadirat Tuhan Yang Maha Kuasa, karena berkat, ridho dan perkenan-Nyalah, maka pada hari ini saya mendapat limpahan karunia dan anugrah yang sangat besar dengan  mendapatkan gelar Doktor dalam bidang Peternakan, Bidang Kajian Utama Ilmu Nutrisi dan Pakan dari Institut Pertanian Bogor.
   <br/><br/>Disamping karena Berkat dari Tuhan Yang Maha Kuasa, tentunya keberhasilan ini karena bantuan, arahan, dan bimbingan dari berbagai pihak. Untuk itu, saya menyampaikan penghargaan dan terima kasih setinggi-tingginya kepada:
-  <br/>1. <b>Bapak Prof. Dr. Arif Satria, SP.</b> Institut Pertanian Bogor;
-  <br/>2. <b>Bapak Dr. Ir. Idat Galih Permana, M.Sc.</b> atau <mark><b>Ibu Prof. Dr. Irma Isnafia Arief, S.Pt. M.Si.</b></mark> selaku Pimpinan Sidang pada Sidang Promosi hari ini di Program Pascasarjana Institut Pertanian Bogor;
-  <br/>3. <b>Bapak Prof. Dr. Ir. Luki Abdullah, M.Sc.Agr.</b> atau <mark><b>Ibu Dr.rer.nat. Nur Rochmah Kumalasari, S.Pt M.Si.</b></mark> selaku Sekretaris Sidang;
+  <br/>1. <mark><b>Bapak Prof. Dr. Arif Satria, SP.</b></mark> Institut Pertanian Bogor;
+  <br/>2. <mark><b>Bapak Dr. Ir. Idat Galih Permana, M.Sc.</b></mark> selaku Pimpinan Sidang pada Sidang Promosi hari ini di Program Pascasarjana Institut Pertanian Bogor sekaligus sebagai Dekan Fakultas Peternakan;
+  <br/>3. <mark><b>Bapak Prof. Dr. Ir. Luki Abdullah, M.Sc.Agr.</b></mark> selaku Sekretaris Sidang dan Kaprodi Pascasarjana Ilmu Nutrisi dan Pakan;
 </p>
 </script>
 </section>
@@ -517,11 +517,11 @@ id = "pidato-penutup-lanjutan">
 <script>
   <h4><a href="#/sampul">Pidato Penutup (lanjutan)</a></h4>
   <p align="justify" style="font-size:19px">
-  <br/>4. Tim Promotor, yaitu: <b>Bapak Prof. Dr. Ir. Nahrowi, M.Sc.</b> selaku Ketua Promotor;  <b>Bapak Dr. Anuraga Jayanegara, S.Pt. M.Sc.</b> selaku Anggota Promotor; dan <b>Bapak Prof. Dr. Aris Tri Wahyudi, M.Si.</b> selaku Anggota Tim Promotor. Saya sampaikan terima kasih yang sebesar-besarnya kepada Tim Promotor yang telah bersusah payah dan dengan sabar membimbing, membina, dan mengarahkan sejak awal sampai akhir.
-  <br/>5. Penguji Sidang tertutup, yaitu: <b>Bapak Dr. Cahyo Budiman, S.Pt. M.Sc.</b> selaku Staf pengajar Institut Pertanian Bogor dan <b>Ibu Dr. Dilla Mareistia Fassah, S.Pt. M.Sc.</b> selaku Staf pengajar Institut Pertanian Bogor.
-  <br/>6. Penguji Sidang promosi, yaitu: <b>Bapak Dr. Cahyo Budiman, S.Pt. M.Sc.</b> selaku Staf pengajar di Fakultas Peternakan, Institut Pertanian Bogor dan <b>Bapak Drh. Desianto Budi Utomo, Ph.D.</b> selaku Vice President Charoen Pokphand Indonesia dan Ketua Umum Gabungan Perusahaan Makanan Ternak Indonesia.
+  <br/>4. Tim Promotor, yaitu: <mark><b>Bapak Prof. Dr. Ir. Nahrowi, M.Sc.</b></mark> selaku Ketua Promotor;  <mark><b>Bapak Dr. Anuraga Jayanegara, S.Pt. M.Sc.</b></mark> selaku Anggota Promotor; dan <mark><b>Bapak Prof. Dr. Aris Tri Wahyudi, M.Si.</b></mark> selaku Anggota Tim Promotor. Saya sampaikan terima kasih yang sebesar-besarnya kepada Tim Promotor yang telah bersusah payah dan dengan sabar membimbing, membina, dan mengarahkan sejak awal sampai akhir.
+  <br/>5. Penguji Sidang tertutup, yaitu: <mark><b>Bapak Dr. Cahyo Budiman, S.Pt. M.Sc.</b></mark> selaku Staf pengajar Institut Pertanian Bogor dan <mark><b>Ibu Dr. Dilla Mareistia Fassah, S.Pt. M.Sc.</b></mark> selaku Staf pengajar Institut Pertanian Bogor.
+  <br/>6. Penguji Sidang promosi, yaitu: <mark><b>Bapak Dr. Cahyo Budiman, S.Pt. M.Sc.</b></mark> selaku Staf pengajar di Fakultas Peternakan, Institut Pertanian Bogor dan <mark><b>Bapak Drh. Desianto Budi Utomo, Ph.D.</b></mark> selaku Vice President Charoen Pokphand Indonesia dan Ketua Umum Gabungan Perusahaan Makanan Ternak Indonesia.
   <br/><br/>Selanjutnya ucapan terimakasih juga saya sampaikan kepada:
-  <br/>1. <b>Bapak Prof. Jun Nomura, Ph.D</b> selaku Promotor dari Chiba University.
+  <br/>1. <mark><b>Bapak Prof. Jun Nomura, Ph.D</b></mark> selaku Promotor dari Chiba University.
   <br/>2. Terima kasih saya sampaikan kepada keluarga, teman, staf kependidikan, dan pihak terkait lainnya selama menempuh pendidikan Doktor di Institut Pertanian Bogor.
   <br/><br/> Hadirin yang saya Muliakan,
   <br/>Semoga segala bentuk perhatian dan bantuan dari semua pihak serta teman-teman undangan yang telah berkenan hadir dalam Sidang Promosi ini, mendapat balasan pahala dari Tuhan Yang Maha Kuasa.
