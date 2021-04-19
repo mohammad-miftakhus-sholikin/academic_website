@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="presentasi-sidkom-tahapan-dan-parameter-penelitian.svg"
+   sodipodi:docname="sidkom-prasidang-parameter-penelitian.svg"
    inkscape:export-filename="/home/sholikinshino/Desktop/Proyek_publikasi/2_2019__AMP_Modelling/Database6_2020__Disertasi/Bahan_2021__Diagram/tahapan-penelitian/Diagram_2021__Tahapan-penelitian.png"
    inkscape:export-xdpi="171.04401"
    inkscape:export-ydpi="171.04401">
@@ -30,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88693888"
-     inkscape:cx="561.25984"
+     inkscape:cx="361.13331"
      inkscape:cy="349.6063"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,7 +99,7 @@
                y="106.46869"
                x="222.69237"
                id="tspan880"
-               sodipodi:role="line">1. AKU AMP Serangga</tspan></text>
+               sodipodi:role="line">1. AKU PAM Serangga</tspan></text>
         </g>
         <g
            id="g968"
@@ -121,7 +121,7 @@
                y="118.92838"
                x="246.21541"
                id="tspan880-7"
-               sodipodi:role="line">Karakteristik AMP</tspan></text>
+               sodipodi:role="line">Karakteristik PAM</tspan></text>
           <rect
              y="122.51417"
              x="234.1268"
@@ -139,7 +139,7 @@
                y="127.0042"
                x="236.44064"
                id="tspan880-7-5"
-               sodipodi:role="line">Pengelompokkan AMP</tspan></text>
+               sodipodi:role="line">Pengelompokkan PAM</tspan></text>
           <rect
              y="130.14667"
              x="234.12682"
@@ -157,7 +157,7 @@
                y="134.63672"
                x="241.34398"
                id="tspan880-7-5-9"
-               sodipodi:role="line">Fungsi Biologis AMP</tspan></text>
+               sodipodi:role="line">Fungsi Biologis PAM</tspan></text>
           <rect
              style="opacity:1;fill:#ffd5d5;stroke:none;stroke-width:1.52758956;stroke-miterlimit:4;stroke-dasharray:none"
              id="rect1256"
@@ -175,7 +175,7 @@
                id="tspan1258"
                x="235.08963"
                y="111.12402"
-               style="fill:#2b0000;stroke-width:0.81686896">Komponen Utama AMP</tspan></text>
+               style="fill:#2b0000;stroke-width:0.81686896">Komponen Utama PAM</tspan></text>
         </g>
       </g>
       <g

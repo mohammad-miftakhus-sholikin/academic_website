@@ -73,9 +73,10 @@ category: [akademik]
     <h4><a href="#/sampul">Porsi AIP di Industri Pakan</a></h4>
   </div>
   <div class="r-stack">
-    <img class="fragment" src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-proyeksi-antibiotik-1.png" width="475">
+    <img src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-proyeksi-antibiotik-1.png" width="475">
     <img class="fragment" src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-proyeksi-antibiotik-2.png" width="475">
-    <p align="center" style="font-size:20px"><img class="fragment" src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-proyeksi-antibiotik-3.png" width="475"><br/>Estimasi dosis AIP rata-rata 40 mg Kg<sup>-1</sup> (<mark><b>781.2 Ribu Ton</b></mark>) dan PAM rata-rata 300 mg Kg<sup>-1</sup> (<mark><b>5859 Ribu Ton</b></mark>)</p>
+    <img class="fragment" src="{{ site.github.url }}/images/postingan/2021-01-26-sidkom-prasidang/sidkom-prasidang-proyeksi-antibiotik-3.png" width="475">
+    <p class="fragment" align="center" style="font-size:20px">Estimasi dosis AIP rata-rata 40 mg Kg<sup>-1</sup> (<mark><b>781.2 Ribu Ton</b></mark>) dan PAM rata-rata 300 mg Kg<sup>-1</sup> (<mark><b>5859 Ribu Ton</b></mark>)</p>
   </div>
  </script>
 </section>
@@ -339,7 +340,7 @@ id = "diagram-mekanisme-pam-invivo">
  id = "simpulan-penelitian">
  <script>
   <h4><a href="#/sampul">Simpulan</a></h4>
-  <p align="justify" style="font-size:25px">1. PAM konsisten meningkatkan performa pertumbuhan broiler dan anak babi<br/> 2. Level optimal peptida antimikroba pada <b style="color:#b32400">ayam broiler adalah 337 dan 359 mg Kg<sup>-1</sup></b> masing-masing pada fase starter dan finisher secara berurutan. Level optimal untuk <b style="color:#b32400">anak babi yaitu, 213 dan 221 mg Kg<sup>-1</sup></b> masing-masing pada fase 1 dan 2 secara berurutan.<br/> 3. Nilai IC50 ekstrak akuades adalah 123 dan 114 μg mL<sup>-1</sup></b> masing-masing pada sel leukimia MOLT4 dan K562 secara berurutan.</p>
+  <p align="justify" style="font-size:25px">1. PAM konsisten meningkatkan performa pertumbuhan broiler dan anak babi<br/> 2. Level optimal PAM pada <b style="color:#b32400">ayam broiler adalah 337 dan 359 mg Kg<sup>-1</sup></b> masing-masing pada fase starter dan finisher secara berurutan. Level optimal untuk <b style="color:#b32400">anak babi yaitu, 213 dan 221 mg Kg<sup>-1</sup></b> masing-masing pada fase 1 dan 2 secara berurutan.<br/> 3. Nilai IC50 ekstrak akuades maggot adalah 123 dan 114 μg mL<sup>-1</sup></b> masing-masing pada sel leukimia MOLT4 dan K562 secara berurutan.</p>
  </script>
 </section>
 
