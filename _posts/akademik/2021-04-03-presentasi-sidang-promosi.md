@@ -445,7 +445,7 @@ id = "publikasi-lain-2">
 |<small>9.</small>|<small><small>Judul: Effects of dietary flavonoids on performance, blood constituents, carcass composition and small intestinal morphology of broilers: A meta-analysis<br/><br/>Penulis: T. R. Prihambodo, <b>Mohammad Miftakhus Sholikin</b>, N. Qomariyah, A. Jayanegara, I. Batubara, D. B. Utomo, dan Nahrowi</small></small>|<small>AB (Q1)</small>|
 |<small>10.</small>|<small><small>Judul: Evaluate non-linear model logistic, gompertz, and weibull: Study case on calcium and phosphor requirements of laying hen<br/><br/>Penulis: <b>Mohammad Miftakhus Sholikin</b>, M. D. Alifian, A. T. Wahyudi, A. Jayanegara, dan Nahrowi</small></small>|<small>SRR (Q2)</small>|
 |<small>11.</small>|<small><small>Judul: Optimization of the <i>Hermetia illucens</i> larvae extraction process with response surface modelling and its amino acid profile and antibacterial activity<br/><br/>Penulis: <b>Mohammad Miftakhus Sholikin</b>, M. D. Alifian, A. Jayanegara, dan Nahrowi</small></small>|<small>TASJ (Q2)</small>|
-|<small>12.</small>|<small><small>Judul: Potential fatty acid composition of <i>Hermetia illucens</i> oil reared on different substrates<br/><br/>Penulis: M. D. Alifian, <b>Mohammad Miftakhus Sholikin</b>, D. Evvyernie, dan Nahrowi</small></small>|<small>South African Journal of Animal Science (Q3)</small>|
+|<small>12.</small>|<small><small>Judul: Potential fatty acid composition of <i>Hermetia illucens</i> oil reared on different substrates<br/><br/>Penulis: M. D. Alifian, <b>Mohammad Miftakhus Sholikin</b>, D. Evvyernie, dan Nahrowi</small></small>|<small>SAJAS (Q3)</small>|
 |||
 </p>
 </script>
