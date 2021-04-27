@@ -48,8 +48,8 @@ id = "tahapan_rencana_studi">
 
 |<small>No.</small>|<small>Tahapan</small>|<small>Pelaksanaan</small>|<small>Status</small>|
 |:---|:-------------|------------:|-----:|
-|<small>1.</small>|<small>Sidang promosi</small>|<small>Mei 2021</small>|<small><a style="color:#b32400;">belum</a></small>|
-|<small>2.</small>|<small>Sidang tertutup</small>|<small>April 2021</small>|<small><a style="color:#b32400;">belum</a></small>|
+|<small>1.</small>|<small>Sidang promosi</small>|<small>19 April 2021</small>|<small>selesai</small>|
+|<small>2.</small>|<small>Sidang tertutup</small>|<small>26 Maret 2021</small>|<small>selesai</small>|
 |<small>3.</small>|<small>Seminar S3</small>|<small>24 Oktober 2019</small>|<small>selesai</small>|
 |<small>4.</small>|<small>Kolokium S3</small>|<small>08 Agustus 2019</small>|<small>selesai</small>|
 |<small>5.</small>|<small>Ujian kualifikasi S3</small>|<small>2019</small>|<small>selesai</small>|
@@ -70,9 +70,9 @@ id = "publikasi">
 |<small>No.</small>|<small>Publikasi</small>|<small>Jenis</small>|<small>Status</small>|
 |:----------------|:--------|:---:|-----:|
 |<small>1.</small>|<small>A meta-analysis antimicrobial peptide effects on intestinal bacteria, immune response and antioxidant activity of broilers</small>|<small>TASJ (Q2)</small>|<small>diterima</small>|
-|<small>2.</small>|<small>A meta-analysis of the effect of antimicrobial peptide purity on the growth performance, dry matter digestibility, and  intestinal morphology of broiler</small>|<small>AAVS (Q3)</small>|<small>diterima</small>|
+|<small>2.</small>|<small>A meta-analysis of the effect of antimicrobial peptide purity on the growth performance, dry matter digestibility, and  intestinal morphology of broiler</small>|<small>AAVS (Q3)</small>|<small>proses terbit</small>|
 |<small>3.</small>|<small>Evaluation of linear models and linear mixed models to predict the effects of antimicrobial peptides on broiler performance</small>|<small>iop</small>|<small><a href="https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012002">terbit</a></small>|
-|<small>4.</small>|<small>The effect of antimicrobial peptide on growth performance, digestibility, small intestine morphology, and serum metabolites of broiler: A meta-analysis</small>|<small>AB (Q1)</small>|<small>submit</small>|
+|<small>4.</small>|<small>Antimicrobial peptides as additive: A meta-analysis on broiler chickens performance, nutrient digestibility, and serum metabolites</small>|<small>JAFS (Q2)</small>|<small>diterima</small>|
 ||||
 </p>
 </script>
@@ -106,9 +106,9 @@ id = "publikasi_lain2">
 |<small>No.</small>|<small>Kolabolator dan Publikasi</small>|<small>Jenis</small>|<small>Status</small>|
 |:----------------|:--------|:---:|-----:|
 |<small>9.</small>|<small><b>Dr. Tri R. Prihambodo (Pascasarjana IPB)</b>; Effects of dietary flavonoids on performance, blood constituents, carcass composition and small intestinal morphology of broilers: A meta-analysis</small>|<small>AB (Q1)</small>|<small><a href="https://www.ajas.info/journal/view.php?number=24585">terbit</a></small>|
-|<small>10.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; Effect of dietary black cumin seed (Nigella sativa) on performance, immune status, and serum metabolites of small ruminants: A meta-analysis</small>|<small>SRR (Q2)</small>|<small>submit</small>|
+|<small>10.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; Effect of dietary black cumin seed (Nigella sativa) on performance, immune status, and serum metabolites of small ruminants: A meta-analysis</small>|<small>SRR (Q2)</small>|<small>revisi</small>|
 |<small>11.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; Effect of dietary propolis supplementation on broiler chickens performance, nutrient digestibility, and carcass characteristics: A meta-analysis</small>|<small>TASJ (Q2)</small>|<small>diterima</small>|
-|<small>12.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; Effect of dietary propolis supplementation on growth performance, intestinal morphology, antiviral immune response, and bacterial population of broiler chickens: a meta-analysis</small>|<small>BPS (Q2)</small>|<small>submit</small>|
+|<small>12.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; Effect of dietary propolis supplementation on growth performance, intestinal morphology, antiviral immune response, and bacterial population of broiler chickens: a meta-analysis</small>|<small>SAJAS (Q3)</small>|<small>diterima</small>|
 ||||
 </p>
 </script>
@@ -123,9 +123,9 @@ id = "publikasi_lain3">
 
 |<small>No.</small>|<small>Kolabolator dan Publikasi</small>|<small>Jenis</small>|<small>Status</small>|
 |:----------------|:--------|:---:|-----:|
-|<small>13.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; The effects of mixed vitamins, minerals, fatty acids, and amino acids supplementation into drinking water on broiler chickens’ performance and carcass traits</small>|<small>JWPR (Q4)</small>|<small>diterima</small>|
-|<small>14.</small>|<small><b>Dr. Cecep Hidayat (Balitnak, Bogor)</b>; The effects of dietary tannins on performance, lymphoid organ weight, and amino acid illeal digestibility of broiler chickens: A meta-analysis</small>|<small>VetWorld (Q2)</small>|<small>submit</small>|
-|<small>15.</small>|<small><b>Dr. Danung Nur Adli (Universitas Brawijaya)</b>; The effects of probiotics on the performance, egg quality, and blood parameters of laying hens: A meta-analysis</small>|<small>JAFS (Q2)</small>|<small>diterima</small>|
+|<small>13.</small>|<small><b>Dr. Sadarman (UIN Suska)</b>; The effects of mixed vitamins, minerals, fatty acids, and amino acids supplementation into drinking water on broiler chickens’ performance and carcass traits</small>|<small>JWPR (Q4)</small>|<small>terbit</small>|
+|<small>14.</small>|<small><b>Dr. Cecep Hidayat (Balitnak, Bogor)</b>; The effects of dietary tannins on performance, lymphoid organ weight, and amino acid illeal digestibility of broiler chickens: A meta-analysis</small>|<small>VetWorld (Q2)</small>|<small>diterima</small>|
+|<small>15.</small>|<small><b>Dr. Danung Nur Adli (Universitas Brawijaya)</b>; The effects of probiotics on the performance, egg quality, and blood parameters of laying hens: A meta-analysis</small>|<small>JAFS (Q2)</small>|<small><a href="http://www.jafs.com.pl/The-effects-of-probiotics-on-the-performance-egg-quality-and-blood-parameters-of,133432,0,2.html">terbit</a></small>|
 ||||
 </script>
 </section>
