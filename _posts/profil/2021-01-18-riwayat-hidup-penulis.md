@@ -155,6 +155,12 @@ Tersedia di [_Mohammad Miftakhus Sholikin_](https://scholar.google.fr/citations?
 
 ##### _Artikel ilmiah_
 `2021`
+Antimicrobial peptides as an additive in broiler chicken nutrition: A meta-analysis of bird performance, nutrient digestibility and serum metabolites. doi: _in press_
+
+`2021`
+A meta-analysis of the effect of antimicrobial peptide purity on the growth performance, dry matter digestibility, and intestinal morphology of broiler. doi: [10.17582/journal.aavs/2021/9.6.869.878](http://nexusacademicpublishers.com/table_contents_detail/4/1781/html)
+
+`2021`
 The effects of _probiotics_ on the performance, egg quality and blood parameters of laying hens: _A meta-analysis_. doi: [10.22358/jafs/133432/2021](http://www.jafs.com.pl/The-effects-of-probiotics-on-the-performance-egg-quality-and-blood-parameters-of,133432,0,2.html)
 
 `2021`
@@ -186,4 +192,4 @@ _Lowering chitin content_ of cricket (_Gryllus assimilis_) through exoskeleton r
 
 
 ##### _Catatan_
-Update terakhir: November 2020
+Update terakhir: Mei 2021
