@@ -155,13 +155,21 @@ Tersedia di [_Mohammad Miftakhus Sholikin_](https://scholar.google.fr/citations?
 
 ##### _Artikel ilmiah_
 `2021`
-Antimicrobial peptides as an additive in broiler chicken nutrition: A meta-analysis of bird performance, nutrient digestibility and serum metabolites. doi: _in press_
+_Antimicrobial peptides_ as an additive in broiler chicken nutrition: _A meta-analysis_ of bird performance, nutrient digestibility and serum metabolites. doi:[10.22358/jafs/136400/2021](http://www.jafs.com.pl/Antimicrobial-peptides-as-an-additive-in-broiler-chicken-nutrition-na-meta-analysis,136400,0,2.html)
 
 `2021`
-A meta-analysis of the effect of antimicrobial peptide purity on the growth performance, dry matter digestibility, and intestinal morphology of broiler. doi: [10.17582/journal.aavs/2021/9.6.869.878](http://nexusacademicpublishers.com/table_contents_detail/4/1781/html)
+Effect of dietary _tannins_ on the performance, lymphoid organ weight, and amino acid ileal digestibility of broiler chickens: _A meta-analysis_
+doi: [10.14202/vetworld.2021.1405-1411](http://www.veterinaryworld.org/Vol.14/June-2021/1.html)
+
+`2021`
+_A meta-analysis_ of the effect of _antimicrobial peptide_ purity on the growth performance, dry matter digestibility, and intestinal morphology of broiler. doi: [10.17582/journal.aavs/2021/9.6.869.878](http://nexusacademicpublishers.com/table_contents_detail/4/1781/html)
 
 `2021`
 The effects of _probiotics_ on the performance, egg quality and blood parameters of laying hens: _A meta-analysis_. doi: [10.22358/jafs/133432/2021](http://www.jafs.com.pl/The-effects-of-probiotics-on-the-performance-egg-quality-and-blood-parameters-of,133432,0,2.html)
+
+`2021`
+The effects of _mixed vitamins, minerals, fatty acids and amino acids_ supplementation into drinking water on broiler chickens' performance and carcass traits
+doi: [10.36380/jwpr.2021.7](https://jwpr.science-line.com/attachments/article/57/JWPR%2011(1)%2047-52,%202021.pdf)
 
 `2021`
 Influence of different forms of _flavonoid_ on growth performance and gut morphology of broiler: _A meta-analysis_. doi: [10.1088/1757-899X/1098/6/062024](https://iopscience.iop.org/article/10.1088/1757-899X/1098/6/062024/meta)
