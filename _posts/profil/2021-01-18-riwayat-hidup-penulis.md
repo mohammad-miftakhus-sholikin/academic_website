@@ -158,8 +158,7 @@ Tersedia di [_Mohammad Miftakhus Sholikin_](https://scholar.google.fr/citations?
 _Antimicrobial peptides_ as an additive in broiler chicken nutrition: _A meta-analysis_ of bird performance, nutrient digestibility and serum metabolites. doi:[10.22358/jafs/136400/2021](http://www.jafs.com.pl/Antimicrobial-peptides-as-an-additive-in-broiler-chicken-nutrition-na-meta-analysis,136400,0,2.html)
 
 `2021`
-Effect of dietary _tannins_ on the performance, lymphoid organ weight, and amino acid ileal digestibility of broiler chickens: _A meta-analysis_
-doi: [10.14202/vetworld.2021.1405-1411](http://www.veterinaryworld.org/Vol.14/June-2021/1.html)
+Effect of dietary _tannins_ on the performance, lymphoid organ weight, and amino acid ileal digestibility of broiler chickens: _A meta-analysis_. doi: [10.14202/vetworld.2021.1405-1411](http://www.veterinaryworld.org/Vol.14/June-2021/1.html)
 
 `2021`
 _A meta-analysis_ of the effect of _antimicrobial peptide_ purity on the growth performance, dry matter digestibility, and intestinal morphology of broiler. doi: [10.17582/journal.aavs/2021/9.6.869.878](http://nexusacademicpublishers.com/table_contents_detail/4/1781/html)
