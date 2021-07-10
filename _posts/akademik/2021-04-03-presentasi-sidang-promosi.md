@@ -3,7 +3,7 @@ layout: presentasi-dua
 title: Presentasi - Sidang promosi
 excerpt: Sidang promosi
 author: Mohammad Miftakhus Sholikin
-modified: 08-03-2021
+modified: 03-04-2021
 theme: simple
 transition: convex
 #autoslide: 10000 
