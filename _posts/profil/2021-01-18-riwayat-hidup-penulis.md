@@ -170,10 +170,6 @@ _A meta-analysis_ of the effect of _antimicrobial peptide_ purity on the growth 
 The effects of _probiotics_ on the performance, egg quality and blood parameters of laying hens: _A meta-analysis_. doi: [10.22358/jafs/133432/2021](http://www.jafs.com.pl/The-effects-of-probiotics-on-the-performance-egg-quality-and-blood-parameters-of,133432,0,2.html)
 
 `2021`
-The effects of _mixed vitamins, minerals, fatty acids and amino acids_ supplementation into drinking water on broiler chickens' performance and carcass traits
-doi: [10.36380/jwpr.2021.7](https://jwpr.science-line.com/attachments/article/57/JWPR%2011(1)%2047-52,%202021.pdf)
-
-`2021`
 Influence of different forms of _flavonoid_ on growth performance and gut morphology of broiler: _A meta-analysis_. doi: [10.1088/1757-899X/1098/6/062024](https://iopscience.iop.org/article/10.1088/1757-899X/1098/6/062024/meta)
 
 `2021`
