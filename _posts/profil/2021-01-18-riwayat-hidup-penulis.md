@@ -10,25 +10,23 @@ category: [profil]
 
 
 
-## _A. Saat ini_
-`2018 - 2021`
-Menempuh [_program doktor_](https://ipb.ac.id/) di IPB University
-
-
-## _B. Pendidikan_
+## _A. Pendidikan_
 `2012 - 2017`
 [_Sarjana peternakan_](http://intp.fapet.ipb.ac.id/) di IPB University
 
 `2017 - 2019`
 [_Magister sains_](https://pasca.ipb.ac.id/) di IPB University
 
+`2018 - 2021`
+[_Doktor_](https://pasca.ipb.ac.id/) di IPB University
 
-## _C. Organisasi_
+
+## _B. Organisasi_
 `2020 - 2022`
 Anggota dari [_AFENUE_ (Animal Feed and Nutrition Modelling Research Group)](https://afenue.org/)
 
 
-## _D. Kepribadian_
+## _C. Kepribadian_
 `2020`
 [_INTJ-A_:](https://www.16personalities.com/profiles/6fb365cc96ba5) Introverted, intuitive, thinking, judging, & assertive
 
@@ -36,7 +34,7 @@ Anggota dari [_AFENUE_ (Animal Feed and Nutrition Modelling Research Group)](htt
 Moto hidup: _Santai, Serius, dan Sukses_ a.k.a _3S_ 
 
 
-## _E. Penghargaan_
+## _D. Penghargaan_
 `26 Juli 2017`
 Lulusan terbaik sarjana di tingkat fakultas peternakan IPB pada wisuda tahap ke-8
 
@@ -44,7 +42,7 @@ Lulusan terbaik sarjana di tingkat fakultas peternakan IPB pada wisuda tahap ke-
 [_Lulusan terbaik magister_](http://intp.fapet.ipb.ac.id/?p=2078) pada wisuda tahap ke-1
 
 
-## _F. Kemampuan dan Keterampilan_
+## _E. Kemampuan dan Keterampilan_
 ##### _1. Grafika_
 [`gimp`](https://www.gimp.org/)
 [`inkscape`](https://inkscape.org/)
@@ -90,7 +88,7 @@ e. Pemodelan empiris dan dinamis
 f. Rancangan percobaan dan analisis statistik
 
 
-## _G. Minat_
+## _F. Minat_
 ##### 1. Penelitian
 `bioinformatics` _`machine learning`_ `peptida`
 Cek ke-[_profil_](https://mohammad-miftakhus-sholikin.github.io/academic_website/pages/profil/)
@@ -109,7 +107,7 @@ c. Pentest
 d. Website statis
 
 
-## _H. Kolaborasi proyek saat ini_
+## _G. Kolaborasi proyek saat ini_
 `2020`
 - [_Danung Nur Adli, SPt MSi_](https://www.researchgate.net/profile/Danung_Nur_Adli) (Unibraw)
    - Aditif probiotik pada layer
@@ -150,7 +148,7 @@ d. Website statis
    - Aditif flavonoid pada ruminan
 
 
-## _I. Publikasi_
+## _H. Publikasi_
 Tersedia di [_Mohammad Miftakhus Sholikin_](https://scholar.google.fr/citations?user=koSsmk8AAAAJ) scholar
 
 ##### _Artikel ilmiah_
