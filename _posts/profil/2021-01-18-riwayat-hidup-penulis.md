@@ -177,10 +177,10 @@ Effects of dietary _flavonoids_ on performance, blood constituents, carcass comp
 The effects of _mixed vitamins_, minerals, fatty acids and amino acids supplementation into drinking water on broiler chickens’ performance and carcass traits. doi: [10.36380/jwpr.2021.7](https://jwpr.science-line.com/attachments/article/57/JWPR%2011(1)%2047-52,%202021.pdf)
 
 `2020`
-Evaluation of linear models and _linear mixed models_ to predict the effects of antimicrobial peptides on broiler performance. doi: [10.1088/1755-1315/372/1/012049](https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012002)
+Evaluation of linear models and _linear mixed models_ to predict the effects of antimicrobial peptides on broiler performance. doi: [10.1088/1755-1315/478/1/012002](https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012002)
 
 `2020`
-Evaluate _non-linear model_ logistic, gompertz, and weibull: study case on calcium and phosphor requirements of laying hen. doi: [10.1088/1755-1315/372/1/012049](https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012016)
+Evaluate _non-linear model_ logistic, gompertz, and weibull: study case on calcium and phosphor requirements of laying hen. doi: [10.1088/1755-1315/478/1/012016](https://iopscience.iop.org/article/10.1088/1755-1315/478/1/012016)
 
 `2019`
 _Artificial neural network_ model to predict crude protein and crude fiber from physical properties of feedstuffs. doi: [10.1088/1755-1315/372/1/012049](https://iopscience.iop.org/article/10.1088/1755-1315/372/1/012049/meta)
