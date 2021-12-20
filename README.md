@@ -9,5 +9,5 @@
 - [X] 6. Laporan penelitian
 
 ## _To do list_
-- [X] 1. Membuat _table of content__ sesuai format jekyll
+- [ ] 1. Membuat _table of content__ sesuai format jekyll
 - [ ] 2. Membuat _drop down menu bar_
