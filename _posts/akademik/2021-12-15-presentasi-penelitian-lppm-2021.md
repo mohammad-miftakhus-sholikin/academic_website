@@ -30,7 +30,7 @@ category: [akademik]
  id = "sampul">
  <script>
     <h4><a href = "{{ site.github.url }}/laman/akademik/"><b>Kajian <i>in silico</i> dan <i>in vitro</i> peptida antimikroba pada<br/>ayam broiler dan anak babi <a href="{{ site.github.url }}/akademik/presentasi-penelitian-lppm-2021/?print-pdf"><small><small>[print]</small></small></a></b></a></h4>
-    <hr><small><small>Komisi Promosi Utama:</small><br/>Prof. Dr. Ir. Nahrowi, MS.c.<br/>Prof. Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br/>Dr. Mohammad Miftakhus Sholikin, M.Si.</small>
+    <hr><small><small>Oleh:</small><br/>Prof. Dr. Ir. Nahrowi, MS.c.<br/>Prof. Dr. Anuraga Jayanegara, S.Pt., M.Sc.<br/>Dr. Mohammad Miftakhus Sholikin, M.Si.</small>
     <hr><small><small>Judul Proposal:</small><br/>Bioaktif peptida maggot (<i>Hermetia illucens</i>) sebagai antibakteri dan imunomodulator<br/>pada pakan ayam broiler</small>
  </script>
 </section>
