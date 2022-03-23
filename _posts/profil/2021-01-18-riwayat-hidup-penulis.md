@@ -10,7 +10,12 @@ category: [profil]
 
 
 
-## _A. Pendidikan_
+## _A. Pekerjaan_
+`2022 - Sekarang`
+[_Periset_](https://www.brin.go.id/) di BRIN (Badan Riset dan Inovasi Nasional)
+
+
+## _B. Pendidikan_
 `2012 - 2017`
 [_Sarjana peternakan_](http://intp.fapet.ipb.ac.id/) di IPB University
 
@@ -21,12 +26,15 @@ category: [profil]
 [_Doktor_](https://pasca.ipb.ac.id/) di IPB University
 
 
-## _B. Organisasi_
+## _C. Organisasi_
 `2020 - 2022`
 Anggota dari [_AFENUE_ (Animal Feed and Nutrition Modelling Research Group)](https://afenue.org/)
 
+`2022`
+Anggota dari [_PPI_ (Perhimpunan Periset Indonesia)](https://periset.or.id/)
 
-## _C. Kepribadian_
+
+## _D. Kepribadian_
 `2020`
 [_INTJ-A_:](https://www.16personalities.com/profiles/6fb365cc96ba5) Introverted, intuitive, thinking, judging, & assertive
 
@@ -34,15 +42,18 @@ Anggota dari [_AFENUE_ (Animal Feed and Nutrition Modelling Research Group)](htt
 Moto hidup: _Santai, Serius, dan Sukses_ a.k.a _3S_ 
 
 
-## _D. Penghargaan_
+## _E. Penghargaan_
 `26 Juli 2017`
 Lulusan terbaik sarjana di tingkat fakultas peternakan IPB pada wisuda tahap ke-8
 
 `25 September 2019`
 [_Lulusan terbaik magister_](http://intp.fapet.ipb.ac.id/?p=2078) pada wisuda tahap ke-1
 
+`30 Juni 2021`
+[_Lulusan terbaik doktor_](https://www.detik.com/edu/perguruan-tinggi/d-5631078/deretan-wisudawan-terbaik-ipb-tahap-6-2021-jenjang-s1-hingga-s3) pada wisuda tahap ke-6
 
-## _E. Kemampuan dan Keterampilan_
+
+## _F. Kemampuan dan Keterampilan_
 ##### _1. Grafika_
 [`gimp`](https://www.gimp.org/)
 [`inkscape`](https://inkscape.org/)
@@ -88,7 +99,7 @@ e. Pemodelan empiris dan dinamis
 f. Rancangan percobaan dan analisis statistik
 
 
-## _F. Minat_
+## _G. Minat_
 ##### 1. Penelitian
 `bioinformatics` _`machine learning`_ `peptida`
 Cek ke-[_profil_](https://mohammad-miftakhus-sholikin.github.io/academic_website/pages/profil/)
@@ -107,26 +118,40 @@ c. Pentest
 d. Website statis
 
 
-## _G. Kolaborasi proyek saat ini_
-`2020`
-- [_Danung Nur Adli, SPt MSi_](https://www.researchgate.net/profile/Danung_Nur_Adli) (Unibraw)
-   - Aditif probiotik pada layer
+## _H. Kolaborasi proyek saat ini_
+`2021`
+- [_Dr Cecep Hidayat, SPt, MSi_](https://scholar.google.co.id/citations?user=Oe71u34AAAAJ&hl=id) (Balitnak)
+   - Aditif tanin pada broiler
 
 `2020`
-- [_Malik Makmur, SPt MSi_](https://www.researchgate.net/scientific-contributions/2160981301-Malik-Makmur) (Unand)
-   - Aditif tanin terhadap biohidrogenasi asam lemak
+- [_Dr Danung Nur Adli, SPt MSi_](https://www.researchgate.net/profile/Danung_Nur_Adli) (Unibraw)
+   - Aditif probiotik pada ayam petelur dan kelinci
+   - Aditif bioaktif peptida pada babi
+   - Suplementasi serat pada angsa
 
 `2020`
-- [_Nisa Nurmilati Barkah SPt MSi_](http://bogoragriculturaluniversity.academia.edu/NisaNurmilatiBarkah) (IPB)
+- [_Dr Malik Makmur, SPt MSi_](https://www.researchgate.net/scientific-contributions/2160981301-Malik-Makmur) (Unand)
+   - Aditif tanin terhadap biohidrogenasi asam lemak di rumen
+
+`2020`
+- [_Dr Nisa Nurmilati Barkah SPt MSi_](http://bogoragriculturaluniversity.academia.edu/NisaNurmilatiBarkah) (IPB)
    - Suplementasi jintan hitam pada domba
 
 `2020`
-- [_Novia Qomariyah, SPt MSi_](https://scholar.google.co.kr/citations?user=nrWhZYEAAAAJ&hl=id) (Litbang, Sulsel)
+- [_Dr Novia Qomariyah, SPt MSi_](https://scholar.google.co.kr/citations?user=nrWhZYEAAAAJ&hl=id) (Litbang, Sulsel)
    - Aditif arang aktif pada ruminan
 
 `2020`
 - [_Rhido Kurniawan, SPt MP_](https://scholar.google.co.id/citations?user=GMGwB9IAAAAJ&hl=id) (Unand)
    - Aditif bawang putih pada broiler
+
+`2022`
+- [_Rizki Amalia Nurfitriani, SPt MSi_](https://www.researchgate.net/profile/Rizki-Amalia-Nurfitriani) (Polije)
+   - Aditif tanin pada sapi potong
+
+`2021`
+- [_Dr Sari Yanti Hayanti_](https://scholar.google.co.id/citations?user=LNIVSrIAAAAJ&hl=en) (BPTP Jambi)
+   - Suplementasi vitamin e pada reproduksi ayam
 
 `2020`
 - [_Dr Sadarman, SPt MSc_](https://scholar.google.com/citations?user=Pd0HKuIAAAAJ&hl=en) (UIN Suska)
@@ -135,43 +160,65 @@ d. Website statis
    - Aditif propolis pada broiler
 
 `2020`
-- [_Dr Teguh Wahyono, SPt MSi_](https://scholar.google.co.id/citations?user=X-zYCa0AAAAJ&hl=id) (Batan)
+- [_Dr Teguh Wahyono, SPt MSi_](https://scholar.google.co.id/citations?user=X-zYCa0AAAAJ&hl=id) (Batan atau BRIN)
    - Aditif urea pada domba
+   - Aditif tanin pada produk biohidrogenasi asam lemak: studi kasus in vitro dan in vivo
 
 `2020`
-- [_Tri Rahmanto, SPt MSi_](https://scholar.google.com/citations?user=fjlSCV8AAAAJ&hl=en) (IPB)
+- [_Dr Tri Rahmanto Prihambodo, SPt MSi_](https://scholar.google.com/citations?user=fjlSCV8AAAAJ&hl=en) (IPB)
    - Aditif flavonoid asal tanaman herbal pada broiler dan ayam petelur
    
 `2020`
-- [_Yulianri Rizki Yanza, SPt MSi_](https://scholar.google.com/citations?user=1SrjpzYAAAAJ&hl=en) (Poznan)
+- [_Yulianri Rizki Yanza, SPt MSi PhD_](https://scholar.google.com/citations?user=1SrjpzYAAAAJ&hl=en) (Poznan dan UIR)
    - Aditif asam fenolat pada ruminan
    - Aditif flavonoid pada ruminan
 
 
-## _H. Publikasi_
+## _I. Publikasi_
 Tersedia di [_Mohammad Miftakhus Sholikin_](https://scholar.google.fr/citations?user=koSsmk8AAAAJ) scholar
 
 ##### _Artikel ilmiah_
-`2021`
-_A meta-analysis_ of _antimicrobial peptide_ effects on intestinal bacteria, immune response, and antioxidant activity of broilers. doi: [10.5398/tasj.2021.44.2.188](https://journal.ipb.ac.id/index.php/tasj/article/view/32298)
+`2022`
+Effect of _vitamin E_ supplementation on _chicken sperm quality_: A _meta-analysis_. doi: [10.14202/vetworld.2022.419-426](www.doi.org/10.14202/vetworld.2022.419-426)
+
+`2022`
+Effects of _urea_ supplementation on ruminal fermentation characteristics, nutrient intake, digestibility, and performance in _sheep_: A _meta-analysis_. doi: [10.14202/vetworld.2022.331-340](www.doi.org/10.14202/vetworld.2022.331-340)
+
+`2022`
+Effect of using _peptide_ as a replacement of antibiotic growth promoters on pigs: A systematic review and _meta-regression_. doi: [no doi](https://www.advetresearch.com/index.php/AVR/article/view/831)
+
+`2022`
+Modulatory effects of dietary _tannins_ on polyunsaturated fatty acids _biohydrogenation_ in the rumen: A meta-analysis. doi: [no doi](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3993192)
 
 `2021`
-_Antimicrobial peptides_ as an additive in broiler chicken nutrition: _A meta-analysis_ of bird performance, nutrient digestibility and serum metabolites. doi: [10.22358/jafs/136400/2021](http://www.jafs.com.pl/Antimicrobial-peptides-as-an-additive-in-broiler-chicken-nutrition-na-meta-analysis,136400,0,2.html)
+_Propolis_ supplementation on _broiler chicken performances_, nutrient digestibility, and carcass characteristics: _A meta-analysis_. doi: [10.5398/tasj.2021.44.4.425](https://jurnal.ipb.ac.id/index.php/tasj/article/view/33460)
 
 `2021`
-Effect of dietary _tannins_ on the performance, lymphoid organ weight, and amino acid ileal digestibility of broiler chickens: _A meta-analysis_. doi: [10.14202/vetworld.2021.1405-1411](http://www.veterinaryworld.org/Vol.14/June-2021/1.html)
+_Propolis_ supplementation affects performance, _intestinal_ morphology, and _bacterial_ population of _broiler_ chickens. doi: [10.4314/sajas.v51i4.8](https://www.ajol.info/index.php/sajas/article/view/214531)
 
 `2021`
-_A meta-analysis_ of the effect of _antimicrobial peptide_ purity on the growth performance, dry matter digestibility, and intestinal morphology of broiler. doi: [10.17582/journal.aavs/2021/9.6.869.878](http://nexusacademicpublishers.com/table_contents_detail/4/1781/html)
+Effect of dietary black cumin seed (_Nigella sativa_) on performance, immune status, and serum metabolites of small _ruminants_: A _meta-analysis_. doi: [10.1016/j.smallrumres.2021.106521](https://www.sciencedirect.com/science/article/abs/pii/S092144882100198X)
 
 `2021`
-The effects of _probiotics_ on the performance, egg quality and blood parameters of laying hens: _A meta-analysis_. doi: [10.22358/jafs/133432/2021](http://www.jafs.com.pl/The-effects-of-probiotics-on-the-performance-egg-quality-and-blood-parameters-of,133432,0,2.html)
+A _meta-analysis_ of _antimicrobial peptide_ effects on intestinal bacteria, immune response, and antioxidant activity of broilers. doi: [10.5398/tasj.2021.44.2.188](https://journal.ipb.ac.id/index.php/tasj/article/view/32298)
 
 `2021`
-Influence of different forms of _flavonoid_ on growth performance and gut morphology of broiler: _A meta-analysis_. doi: [10.1088/1757-899X/1098/6/062024](https://iopscience.iop.org/article/10.1088/1757-899X/1098/6/062024/meta)
+Effect of dietary _tannins_ on the performance, lymphoid organ weight, and amino acid ileal digestibility of broiler chickens: A _meta-analysis_. doi: [10.14202/vetworld.2021.1405-1411](http://www.veterinaryworld.org/Vol.14/June-2021/1.html)
 
 `2021`
-Effects of dietary _flavonoids_ on performance, blood constituents, carcass composition and small intestinal morphology of broilers: _A meta-analysis_. doi: [10.5713/ajas.20.0379](https://www.ajas.info/journal/view.php?number=24585)
+_Antimicrobial peptides_ as an additive in broiler chicken nutrition: A _meta-analysis_ of bird performance, nutrient digestibility and serum metabolites. doi: [10.22358/jafs/136400/2021](http://www.jafs.com.pl/Antimicrobial-peptides-as-an-additive-in-broiler-chicken-nutrition-na-meta-analysis,136400,0,2.html)
+
+`2021`
+The effects of _probiotics_ on the performance, egg quality and blood parameters of laying hens: A _meta-analysis_. doi: [10.22358/jafs/133432/2021](http://www.jafs.com.pl/The-effects-of-probiotics-on-the-performance-egg-quality-and-blood-parameters-of,133432,0,2.html)
+
+`2021`
+Influence of different forms of _flavonoid_ on growth performance and gut morphology of broiler: A _meta-analysis_. doi: [10.1088/1757-899X/1098/6/062024](https://iopscience.iop.org/article/10.1088/1757-899X/1098/6/062024/meta)
+
+`2021`
+Effects of dietary _flavonoids_ on performance, blood constituents, carcass composition and small intestinal morphology of broilers: A _meta-analysis_. doi: [10.5713/ajas.20.0379](https://www.ajas.info/journal/view.php?number=24585)
+
+`2021`
+A _meta-analysis_ of the effect of _antimicrobial peptide_ purity on the growth performance, dry matter digestibility, and intestinal morphology of broiler. doi: [10.17582/journal.aavs/2021/9.6.869.878](http://nexusacademicpublishers.com/table_contents_detail/4/1781/html)
 
 `2021`
 The effects of _mixed vitamins_, minerals, fatty acids and amino acids supplementation into drinking water on broiler chickens’ performance and carcass traits. doi: [10.36380/jwpr.2021.7](https://jwpr.science-line.com/attachments/article/57/JWPR%2011(1)%2047-52,%202021.pdf)
@@ -196,4 +243,4 @@ _Lowering chitin content_ of cricket (_Gryllus assimilis_) through exoskeleton r
 
 
 ##### _Catatan_
-Update terakhir: Mei 2021
+Update terakhir: Maret 2022
