@@ -1,0 +1,36 @@
+/* ==========================================================================
+   Grid mixins
+   ========================================================================== */
+/*
+   Define number of columns in the grid
+   Common values would be 12, 16 or 24
+   ========================================================================== */
+/*
+   Works out the width of elements based on total number of columns and width
+   number of columns being displayed. Removes 20px for margins.
+   ========================================================================== */
+/*
+   Add x amount of column padding before an element
+   Example: @include prefix(1,12);
+   ========================================================================== */
+/*
+   Add x amount of column padding after an element
+   Example: @include suffix(2,12);
+   ========================================================================== */
+/*
+   Remove left margin
+   Example: @include first;
+   ========================================================================== */
+/*
+   Remove right margin
+   Example: @include last;
+   ========================================================================== */
+/*
+   Push an element x amount of column(s) to the right
+   Example: @include push(2,12);
+   ========================================================================== */
+/*
+   Pull an element x amount of column(s) to the left
+   Example: @include pull(1,12);
+   ========================================================================== */
+/*# sourceMappingURL=grid.css.map */

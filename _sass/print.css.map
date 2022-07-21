@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;gFAEgF;AAEhF;;gFAEgF;AAEhF,MAAM,CAAC,KAAK;EACV,AAAA,eAAe;EACf,aAAa;EACb,iBAAiB;EACjB,WAAW,CAAC;IACV,OAAO,EAAE,IAAI;GACd",
+    "sources": [
+        "print.scss"
+    ],
+    "names": [],
+    "file": "print.css"
+}

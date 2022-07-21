@@ -102,7 +102,7 @@ f. Rancangan percobaan dan analisis statistik
 ## _G. Minat_
 ##### 1. Penelitian
 `bioinformatics` _`machine learning`_ `peptida`
-Cek ke-[_profil_](https://mohammad-miftakhus-sholikin.github.io/academic_website/pages/profil/)
+Cek ke-[_profil_](https://mohammad-miftakhus-sholikin.github.io/academic_website/profil/deskripsi-penulis/)
 
 ##### 2. Programming and hacking
 [`Python`](https://www.python.org/) [_`django`_](https://www.djangoproject.com/)
