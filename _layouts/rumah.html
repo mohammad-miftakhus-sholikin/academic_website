@@ -1,35 +1,74 @@
-<!doctype html>
+<!DOCTYPE html>
 <html class="no-js" lang="en">
-<head>
-{% include _head.html %}
-</head>
-<body class="home">
-{% include _navigation.html %}<!-- /#navigator -->
-{% include _back-to-top-button.html %}<!-- /#back button -->
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div><!-- /#bio -->
-  <div id="index">
-    <h1>{{ page.title }}</h1>
-    {% capture written_year %}'None'{% endcapture %}
-    {% for post in site.categories.rumah %}  
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% if year != written_year %}
-        <h3>{{ year }}</h3>
-        {% capture written_year %}{{ year }}{% endcapture %}
-      {% endif %}
-      <article>
-        {% if post.link %}
-          <h2 class="link-post"><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
-        {% else %}
-          <h2><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt | strip_html | truncate: 260 }}</p>
-        {% endif %}
-      </article><!-- /#content -->
-    {% endfor %}
-  </div><!-- /#index -->
-</div><!-- /#main -->
-{% include _scripts.html %}
-</body>
+  <head>
+    <!-- Menyisipkan file _head.html yang berisi metadata, CSS, dan resource head lainnya -->
+    {% include _head.html %}
+
+    <!-- Menyisipkan style khusus untuk pencarian (jika ada fungsi search bar) -->
+    {% include _search-style.html %}
+  </head>
+  <body class="home">
+    <!-- Navigasi utama situs -->
+    {% include _navigation.html %}
+
+    <!-- Tombol back-to-top (kembali ke atas) -->
+    {% include _back-to-top-button.html %}
+
+    <!-- Kontainer utama untuk isi halaman -->
+    <div id="main" role="main">
+
+      <!-- Sidebar untuk bio atau profil penulis artikel -->
+      <div class="article-author-side">
+        {% include _author-bio.html %}
+      </div>
+
+      <!-- Bagian index utama yang memuat daftar posting -->
+      <div id="index">
+        <!-- Judul halaman -->
+        <h1>{{ page.title }}</h1>
+
+        <!-- Inisialisasi variabel untuk menyimpan tahun terakhir yang ditulis -->
+        {% assign written_year = '' %}
+
+        <!-- Iterasi semua posting dalam kategori 'rumah' -->
+        {% for post in site.categories.rumah %}
+          {% assign year = post.date | date: "%Y" %}
+
+          <!-- Menampilkan heading tahun jika berbeda dari tahun sebelumnya -->
+          {% if year != written_year %}
+            <h3>{{ year }}</h3>
+            {% assign written_year = year %}
+          {% endif %}
+
+          <!-- Menampilkan artikel -->
+          <article>
+            {% if post.link %}
+              <!-- Jika post memiliki link eksternal tambahan -->
+              <h2 class="link-post">
+                <!-- Link ke halaman internal -->
+                <a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                <!-- Link ke sumber eksternal -->
+                <a href="{{ post.link }}" target="_blank" title="{{ post.title }}">
+                  <i class="fa fa-link"></i>
+                </a>
+              </h2>
+            {% else %}
+              <!-- Judul artikel tanpa link eksternal -->
+              <h2>
+                <a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+              </h2>
+              <!-- Ringkasan singkat artikel, dipotong maksimal 260 karakter -->
+              <p>{{ post.excerpt | strip_html | truncate: 260 }}</p>
+            {% endif %}
+          </article>
+        {% endfor %}
+      </div> <!-- /#index -->
+    </div> <!-- /#main -->
+
+    <!-- Menyisipkan script JS umum untuk situs -->
+    {% include _scripts.html %}
+
+    <!-- Menyisipkan script khusus untuk pencarian -->
+    {% include _search-script.html %}
+  </body>
 </html>

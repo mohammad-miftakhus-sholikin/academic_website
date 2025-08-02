@@ -1,19 +1,40 @@
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
-{% include _head.html %}
+  <!-- Menyisipkan metadata, CSS, dan elemen head dari partial file -->
+  {% include _head.html %}
+
+  <!-- Menyisipkan gaya khusus untuk fitur pencarian -->
+  {% include _search-style.html %}
 </head>
+
 <body class="post-index">
-{% include _navigation.html %}<!-- /#navigator -->
-{% include _back-to-top-button.html %}<!-- /#back button -->
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div><!-- /#bio -->
-  <div id="index">
-    {{ content }}
-  </div><!-- /#index -->
-</div><!-- /#main -->
-{% include _scripts.html %}
+
+  <!-- Navigasi utama situs -->
+  {% include _navigation.html %} <!-- /#navigator -->
+
+  <!-- Tombol kembali ke atas halaman -->
+  {% include _back-to-top-button.html %} <!-- /#back button -->
+
+  <div id="main" role="main">
+    
+    <!-- Sidebar untuk bio penulis -->
+    <div class="article-author-side">
+      {% include _author-bio.html %}
+    </div> <!-- /.article-author-side -->
+
+    <!-- Konten utama halaman -->
+    <div id="index">
+      {{ content }}
+    </div> <!-- /#index -->
+
+  </div> <!-- /#main -->
+
+  <!-- Menyisipkan skrip umum dari partial file -->
+  {% include _scripts.html %}
+
+  <!-- Menyisipkan skrip tambahan khusus untuk fitur pencarian -->
+  {% include _search-script.html %}
+
 </body>
 </html>

@@ -7,45 +7,42 @@ owner:
   github: mohammad-miftakhus-sholikin
   orcid: 0000-0001-8677-6982
   researchgate: Mohammad_Sholikin2
-  bing-verify: #username
-  codepen: #username
-  disqus-shortname: #username
-  dribbble: #username
-  facebook: #username
-  flickr: #username
-  foursquare: #username
+  bing-verify: # username
+  codepen: # username
+  disqus-shortname: # username
+  dribbble: # username
+  facebook: # username
+  flickr: # username
+  foursquare: # username
   google:
-    analytics:
-    plus: #username
+    analytics: # username
+    plus: # username
     scholar: koSsmk8AAAAJ
-    verify:
-  instagram: #username
-  lastfm: #username
+    verify: # username
+  instagram: # username
+  lastfm: # username
   linkedin: mohammad-miftakhus-sholikin
-  mendeley: #username
-  pinterest: #username
-  stackoverflow: #123456/username catatan ambil dua link terakhir "https://stackoverflow.com/users/123456/username"
-  steam: #username
-  soundcloud: #username
-  twitter: #username catatan jangan tambahkan simbol @
-  tumblr: #username
-  weibo: #username
-  xing: #username
-  youtube: #username  
+  mendeley: # mohammad.miftakhus.sholikin@gmail.com
+  pinterest: # username
+  stackoverflow: # 123456/username → ambil dua segmen terakhir dari URL
+  steam: # username
+  soundcloud: # username
+  twitter: # username (tanpa @)
+  tumblr: # username
+  weibo: # username
+  xing: # username
+  youtube: # username
 
-
-##### Konfigurasi logo #####
+##### Konfigurasi Logo #####
 title: Sholikin
 locale: en_US
 logo: /pengaturan/logo-icon.svg
 
-
-##### Konfigurasi warna dasar lainnya ada di _sass/variables.scss #####
+##### Konfigurasi Warna Dasar #####
 highlight-color: '#800000ff'
 lowlight-color: '#000'
 
-
-##### Konfigurasi dasar #####
+##### Konfigurasi Dasar #####
 baseurl: /
 url: mohammad-miftakhus-sholikin.github.io/academic_website/
 
@@ -75,9 +72,8 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
-  
 
 ##### Lisensi #####
 creative-commons:
-  cc-by: no
-  cc-by-nc: no
+  cc-by: false
+  cc-by-nc: false

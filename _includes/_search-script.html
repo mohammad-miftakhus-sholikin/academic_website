@@ -1,0 +1,69 @@
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script>
+  let idx = null;
+  let documents = [];
+
+  // Ambil data search.json dan bangun indeks
+  fetch('/search.json')
+    .then(response => response.json())
+    .then(data => {
+      documents = data;
+      idx = lunr(function () {
+        this.ref('url');
+        this.field('title');
+        this.field('content'); // pastikan 'content' benar-benar ada di JSON
+        data.forEach(doc => this.add(doc));
+      });
+    });
+
+  const input = document.getElementById('search-input');
+  const resultsBox = document.getElementById('results-container');
+
+  // Fungsi pencarian saat input berubah
+  input.addEventListener('input', function () {
+    const query = this.value.trim();
+    if (!query || !idx) {
+      resultsBox.innerHTML = '';
+      resultsBox.classList.add('hidden');
+      return;
+    }
+
+    const results = idx.search(query);
+    resultsBox.innerHTML = '<ul></ul>'; // Reset with a <ul>
+    const ul = resultsBox.querySelector('ul');
+
+    if (results.length > 0) {
+      results.forEach(r => {
+        const doc = documents.find(d => d.url === r.ref);
+        if (doc) {
+          const snippet = doc.content?.substring(0, 160) || ''; // gunakan 'content' dari search.json
+          const li = document.createElement('li');
+          li.innerHTML = `
+            <a href="${doc.url}">
+              <span class="title">${doc.title}</span><br />
+              <span class="snippet">${snippet}...</span>
+            </a>`;
+          ul.appendChild(li);
+        }
+      });
+    } else {
+      ul.innerHTML = '<li class="lunrsearchresult">Hasil pencarian tidak ada</li>';
+    }
+
+    resultsBox.classList.remove('hidden');
+  });
+
+  // Sembunyikan hasil saat klik di luar area pencarian
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest('.search-wrapper')) {
+      resultsBox.classList.add('hidden');
+    }
+  });
+
+  // Tampilkan hasil kembali jika input aktif
+  input.addEventListener('focus', () => {
+    if (input.value.trim() && resultsBox.querySelector('ul').children.length > 0) {
+      resultsBox.classList.remove('hidden');
+    }
+  });
+</script>
