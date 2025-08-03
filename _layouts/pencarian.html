@@ -1,0 +1,50 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+  <!-- Menyisipkan elemen-elemen dalam <head> seperti title, meta tag, favicon, stylesheet -->
+  {% include _head.html %}
+</head>
+
+<body class="page">
+  <!-- Navigasi utama situs (biasanya berisi menu dan logo) -->
+  {% include _navigation.html %} <!-- /#navigator -->
+
+  <!-- Tombol kembali ke atas halaman (biasanya ikon panah) -->
+  {% include _back-to-top-button.html %} <!-- /#back navigator -->
+
+  <!-- Kontainer utama seluruh isi halaman -->
+  <div id="main" role="main">
+
+    <!-- Sidebar di sisi artikel, biasanya untuk bio penulis atau informasi tambahan -->
+    <div class="article-author-side">
+      {% include _author-bio.html %}
+    </div>
+
+    <!-- Konten utama halaman atau artikel -->
+    <article class="page">
+      <!-- Judul halaman, diambil dari front matter markdown (e.g., title: My Page) -->
+      <h1>{{ page.title }}</h1>
+
+      <!-- Bungkus untuk seluruh konten artikel -->
+      <div class="article-wrap">
+        <!-- Menampilkan isi halaman (hasil parsing markdown atau HTML langsung) -->
+        {{ content }}
+
+        <!-- Jika opsi berbagi diaktifkan (default: aktif), tampilkan ikon sosial -->
+        {% if page.share != false %}
+          <hr />
+          {% include _social-share.html %}
+        {% endif %}
+      </div> <!-- /.article-wrap -->
+
+      <!-- Komentar Disqus dimuat jika disqus-shortname dikonfigurasi dan komentar diaktifkan -->
+      {% if site.owner.disqus-shortname and page.comments == true %}
+        <section id="disqus_thread"></section> <!-- /#disqus_thread -->
+      {% endif %}
+    </article>
+  </div> <!-- /#main -->
+
+  <!-- Skrip JavaScript tambahan (biasanya jQuery, plugin, atau kode analitik) -->
+  {% include _scripts.html %}
+</body>
+</html>

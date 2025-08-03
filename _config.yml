@@ -7,42 +7,45 @@ owner:
   github: mohammad-miftakhus-sholikin
   orcid: 0000-0001-8677-6982
   researchgate: Mohammad_Sholikin2
-  bing-verify: # username
-  codepen: # username
-  disqus-shortname: # username
-  dribbble: # username
-  facebook: # username
-  flickr: # username
-  foursquare: # username
+  bing-verify: #username
+  codepen: #username
+  disqus-shortname: #username
+  dribbble: #username
+  facebook: #username
+  flickr: #username
+  foursquare: #username
   google:
-    analytics: # username
-    plus: # username
+    analytics:
+    plus: #username
     scholar: koSsmk8AAAAJ
-    verify: # username
-  instagram: # username
-  lastfm: # username
+    verify:
+  instagram: #username
+  lastfm: #username
   linkedin: mohammad-miftakhus-sholikin
-  mendeley: # mohammad.miftakhus.sholikin@gmail.com
-  pinterest: # username
-  stackoverflow: # 123456/username → ambil dua segmen terakhir dari URL
-  steam: # username
-  soundcloud: # username
-  twitter: # username (tanpa @)
-  tumblr: # username
-  weibo: # username
-  xing: # username
-  youtube: # username
+  mendeley: #username
+  pinterest: #username
+  stackoverflow: #123456/username catatan ambil dua link terakhir "https://stackoverflow.com/users/123456/username"
+  steam: #username
+  soundcloud: #username
+  twitter: #username catatan jangan tambahkan simbol @
+  tumblr: #username
+  weibo: #username
+  xing: #username
+  youtube: #username  
 
-##### Konfigurasi Logo #####
+
+##### Konfigurasi logo #####
 title: Sholikin
 locale: en_US
 logo: /pengaturan/logo-icon.svg
 
-##### Konfigurasi Warna Dasar #####
+
+##### Konfigurasi warna dasar lainnya ada di _sass/variables.scss #####
 highlight-color: '#800000ff'
 lowlight-color: '#000'
 
-##### Konfigurasi Dasar #####
+
+##### Konfigurasi dasar #####
 baseurl: /
 url: mohammad-miftakhus-sholikin.github.io/academic_website/
 
@@ -51,7 +54,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - update_repo.ps1
 
 highlighter: rouge
 
@@ -73,13 +75,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+  
 
-# Contoh untuk lunr.js
-lunr_search:
-  exclude: [archive.html]
-  json_output: search.json
- 
 ##### Lisensi #####
 creative-commons:
-  cc-by: false
-  cc-by-nc: false
+  cc-by: no
+  cc-by-nc: no

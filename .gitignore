@@ -21,7 +21,6 @@ _site/*
 *.exe
 *.o
 *.so
-update_repo.ps1
 
 
 ##### File kompresi #####

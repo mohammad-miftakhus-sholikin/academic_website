@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.2"
+gem 'github-pages'
+gem "jekyll", "~> 3.0"
 gem "jekyll-gist"
-gem "jekyll-redirect-from"
+gem 'jekyll-redirect-from'
 gem "jekyll-sitemap"
-gem "jekyll-seo-tag", "~> 2.8"
-gem "kramdown", ">= 2.4"
+gem "jekyll-seo-tag"
 gem "kramdown-parser-gfm"
 gem "octopress"
 gem "redcarpet", ">= 3.5.1"
