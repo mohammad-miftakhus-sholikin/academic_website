@@ -51,6 +51,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - update_repo.ps1
 
 highlighter: rouge
 
@@ -73,6 +74,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Contoh untuk lunr.js
+lunr_search:
+  exclude: [archive.html]
+  json_output: search.json
+ 
 ##### Lisensi #####
 creative-commons:
   cc-by: false
