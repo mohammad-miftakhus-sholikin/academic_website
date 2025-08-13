@@ -3,7 +3,7 @@ $MaxSize = 100MB
 
 # Check if inside a Git repository
 if (-not (Test-Path ".git")) {
-    Write-Host "[X] Not inside a Git repository."
+    Write-Host "[X] Not inside a Git repository." -ForegroundColor Red
     exit 1
 }
 
@@ -34,16 +34,15 @@ if ($totalSize -gt $MaxSize) {
 # Stage all changes
 git add .
 
-# Request commit message (with validation)
-do {
-    $commitMessage = Read-Host "Enter commit message"
-    if ([string]::IsNullOrWhiteSpace($commitMessage)) {
-        Write-Host "[!] Commit message cannot be empty." -ForegroundColor Yellow
-    }
-} while ([string]::IsNullOrWhiteSpace($commitMessage))
+# Request commit message (optional)
+$commitMessage = Read-Host "Enter commit message (optional, press Enter to skip)"
 
 # Commit changes
-git commit -m "$commitMessage"
+if ([string]::IsNullOrWhiteSpace($commitMessage)) {
+    git commit --allow-empty-message --message=""
+} else {
+    git commit -m "$commitMessage"
+}
 
 # Push to remote
 git push
